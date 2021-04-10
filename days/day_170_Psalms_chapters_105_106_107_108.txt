@@ -1,0 +1,166 @@
+Day 170:
+
+Reading Psalms, chapters ['105', '106', '107', '108']:
+
+  Chapter 105.
+
+    1: O give thanks to the LORD, call on his name, make known his deeds among the peoples!
+    2: Sing to him, sing praises to him, tell of all his wonderful works!
+    3: Glory in his holy name; let the hearts of those who seek the LORD rejoice!
+    4: Seek the LORD and his strength, seek his presence continually!
+    5: Remember the wonderful works that he has done, his miracles, and the judgments he uttered,
+    6: O offspring of Abraham his servant, sons of Jacob, his chosen ones!
+    7: He is the LORD our God; his judgments are in all the earth.
+    8: He is mindful of his covenant for ever, of the word that he commanded, for a thousand generations,
+    9: the covenant which he made with Abraham, his sworn promise to Isaac,
+    10: which he confirmed to Jacob as a statute, to Israel as an everlasting covenant,
+    11: saying, "To you I will give the land of Canaan as your portion for an inheritance."
+    12: When they were few in number, of little account, and sojourners in it,
+    13: wandering from nation to nation, from one kingdom to another people,
+    14: he allowed no one to oppress them; he rebuked kings on their account,
+    15: saying, "Touch not my anointed ones, do my prophets no harm!"
+    16: When he summoned a famine on the land, and broke every staff of bread,
+    17: he had sent a man ahead of them, Joseph, who was sold as a slave.
+    18: His feet were hurt with fetters, his neck was put in a collar of iron;
+    19: until what he had said came to pass the word of the LORD tested him.
+    20: The king sent and released him, the ruler of the peoples set him free;
+    21: he made him lord of his house, and ruler of all his possessions,
+    22: to instruct his princes at his pleasure, and to teach his elders wisdom.
+    23: Then Israel came to Egypt; Jacob sojourned in the land of Ham.
+    24: And the LORD made his people very fruitful, and made them stronger than their foes.
+    25: He turned their hearts to hate his people, to deal craftily with his servants.
+    26: He sent Moses his servant, and Aaron whom he had chosen.
+    27: They wrought his signs among them, and miracles in the land of Ham.
+    28: He sent darkness, and made the land dark; they rebelled against his words.
+    29: He turned their waters into blood, and caused their fish to die.
+    30: Their land swarmed with frogs, even in the chambers of their kings.
+    31: He spoke, and there came swarms of flies, and gnats throughout their country.
+    32: He gave them hail for rain, and lightning that flashed through their land.
+    33: He smote their vines and fig trees, and shattered the trees of their country.
+    34: He spoke, and the locusts came, and young locusts without number;
+    35: which devoured all the vegetation in their land, and ate up the fruit of their ground.
+    36: He smote all the first-born in their land, the first issue of all their strength.
+    37: Then he led forth Israel with silver and gold, and there was none among his tribes who stumbled.
+    38: Egypt was glad when they departed, for dread of them had fallen upon it.
+    39: He spread a cloud for a covering, and fire to give light by night.
+    40: They asked, and he brought quails, and gave them bread from heaven in abundance.
+    41: He opened the rock, and water gushed forth; it flowed through the desert like a river.
+    42: For he remembered his holy promise, and Abraham his servant.
+    43: So he led forth his people with joy, his chosen ones with singing.
+    44: And he gave them the lands of the nations; and they took possession of the fruit of the peoples' toil,
+    45: to the end that they should keep his statutes, and observe his laws. Praise the LORD!
+
+  Chapter 106.
+
+    1: Praise the LORD! O give thanks to the LORD, for he is good; for his steadfast love endures for ever!
+    2: Who can utter the mighty doings of the LORD, or show forth all his praise?
+    3: Blessed are they who observe justice, who do righteousness at all times!
+    4: Remember me, O LORD, when thou showest favor to thy people; help me when thou deliverest them;
+    5: that I may see the prosperity of thy chosen ones, that I may rejoice in the gladness of thy nation, that I may glory with thy heritage.
+    6: Both we and our fathers have sinned; we have committed iniquity, we have done wickedly.
+    7: Our fathers, when they were in Egypt, did not consider thy wonderful works; they did not remember the abundance of thy steadfast love, but rebelled against the Most High at the Red Sea.
+    8: Yet he saved them for his name's sake, that he might make known his mighty power.
+    9: He rebuked the Red Sea, and it became dry; and he led them through the deep as through a desert.
+    10: So he saved them from the hand of the foe, and delivered them from the power of the enemy.
+    11: And the waters covered their adversaries; not one of them was left.
+    12: Then they believed his words; they sang his praise.
+    13: But they soon forgot his works; they did not wait for his counsel.
+    14: But they had a wanton craving in the wilderness, and put God to the test in the desert;
+    15: he gave them what they asked, but sent a wasting disease among them.
+    16: When men in the camp were jealous of Moses and Aaron, the holy one of the LORD,
+    17: the earth opened and swallowed up Dathan, and covered the company of Abi'ram.
+    18: Fire also broke out in their company; the flame burned up the wicked.
+    19: They made a calf in Horeb and worshiped a molten image.
+    20: They exchanged the glory of God for the image of an ox that eats grass.
+    21: They forgot God, their Savior, who had done great things in Egypt,
+    22: wondrous works in the land of Ham, and terrible things by the Red Sea.
+    23: Therefore he said he would destroy them -- had not Moses, his chosen one, stood in the breach before him, to turn away his wrath from destroying them.
+    24: Then they despised the pleasant land, having no faith in his promise.
+    25: They murmured in their tents, and did not obey the voice of the LORD.
+    26: Therefore he raised his hand and swore to them that he would make them fall in the wilderness,
+    27: and would disperse their descendants among the nations, scattering them over the lands.
+    28: Then they attached themselves to the Ba'al of Pe'or, and ate sacrifices offered to the dead;
+    29: they provoked the LORD to anger with their doings, and a plague broke out among them.
+    30: Then Phin'ehas stood up and interposed, and the plague was stayed.
+    31: And that has been reckoned to him as righteousness from generation to generation for ever.
+    32: They angered him at the waters of Mer'ibah, and it went ill with Moses on their account;
+    33: for they made his spirit bitter, and he spoke words that were rash.
+    34: They did not destroy the peoples, as the LORD commanded them,
+    35: but they mingled with the nations and learned to do as they did.
+    36: They served their idols, which became a snare to them.
+    37: They sacrificed their sons and their daughters to the demons;
+    38: they poured out innocent blood, the blood of their sons and daughters, whom they sacrificed to the idols of Canaan; and the land was polluted with blood.
+    39: Thus they became unclean by their acts, and played the harlot in their doings.
+    40: Then the anger of the LORD was kindled against his people, and he abhorred his heritage;
+    41: he gave them into the hand of the nations, so that those who hated them ruled over them.
+    42: Their enemies oppressed them, and they were brought into subjection under their power.
+    43: Many times he delivered them, but they were rebellious in their purposes, and were brought low through their iniquity.
+    44: Nevertheless he regarded their distress, when he heard their cry.
+    45: He remembered for their sake his covenant, and relented according to the abundance of his steadfast love.
+    46: He caused them to be pitied by all those who held them captive.
+    47: Save us, O LORD our God, and gather us from among the nations, that we may give thanks to thy holy name and glory in thy praise.
+    48: Blessed be the LORD, the God of Israel, from everlasting to everlasting! And let all the people say, "Amen!" Praise the LORD!
+
+  Chapter 107.
+
+    1: O give thanks to the LORD, for he is good; for his steadfast love endures for ever!
+    2: Let the redeemed of the LORD say so, whom he has redeemed from trouble
+    3: and gathered in from the lands, from the east and from the west, from the north and from the south.
+    4: Some wandered in desert wastes, finding no way to a city to dwell in;
+    5: hungry and thirsty, their soul fainted within them.
+    6: Then they cried to the LORD in their trouble, and he delivered them from their distress;
+    7: he led them by a straight way, till they reached a city to dwell in.
+    8: Let them thank the LORD for his steadfast love, for his wonderful works to the sons of men!
+    9: For he satisfies him who is thirsty, and the hungry he fills with good things.
+    10: Some sat in darkness and in gloom, prisoners in affliction and in irons,
+    11: for they had rebelled against the words of God, and spurned the counsel of the Most High.
+    12: Their hearts were bowed down with hard labor; they fell down, with none to help.
+    13: Then they cried to the LORD in their trouble, and he delivered them from their distress;
+    14: he brought them out of darkness and gloom, and broke their bonds asunder.
+    15: Let them thank the LORD for his steadfast love, for his wonderful works to the sons of men!
+    16: For he shatters the doors of bronze, and cuts in two the bars of iron.
+    17: Some were sick through their sinful ways, and because of their iniquities suffered affliction;
+    18: they loathed any kind of food, and they drew near to the gates of death.
+    19: Then they cried to the LORD in their trouble, and he delivered them from their distress;
+    20: he sent forth his word, and healed them, and delivered them from destruction.
+    21: Let them thank the LORD for his steadfast love, for his wonderful works to the sons of men!
+    22: And let them offer sacrifices of thanksgiving, and tell of his deeds in songs of joy!
+    23: Some went down to the sea in ships, doing business on the great waters;
+    24: they saw the deeds of the LORD, his wondrous works in the deep.
+    25: For he commanded, and raised the stormy wind, which lifted up the waves of the sea.
+    26: They mounted up to heaven, they went down to the depths; their courage melted away in their evil plight;
+    27: they reeled and staggered like drunken men, and were at their wits' end.
+    28: Then they cried to the LORD in their trouble, and he delivered them from their distress;
+    29: he made the storm be still, and the waves of the sea were hushed.
+    30: Then they were glad because they had quiet, and he brought them to their desired haven.
+    31: Let them thank the LORD for his steadfast love, for his wonderful works to the sons of men!
+    32: Let them extol him in the congregation of the people, and praise him in the assembly of the elders.
+    33: He turns rivers into a desert, springs of water into thirsty ground,
+    34: a fruitful land into a salty waste, because of the wickedness of its inhabitants.
+    35: He turns a desert into pools of water, a parched land into springs of water.
+    36: And there he lets the hungry dwell, and they establish a city to live in;
+    37: they sow fields, and plant vineyards, and get a fruitful yield.
+    38: By his blessing they multiply greatly; and he does not let their cattle decrease.
+    39: When they are diminished and brought low through oppression, trouble, and sorrow,
+    40: he pours contempt upon princes and makes them wander in trackless wastes;
+    41: but he raises up the needy out of affliction, and makes their families like flocks.
+    42: The upright see it and are glad; and all wickedness stops its mouth.
+    43: Whoever is wise, let him give heed to these things; let men consider the steadfast love of the LORD.
+
+  Chapter 108.
+
+    1: My heart is steadfast, O God, my heart is steadfast! I will sing and make melody! Awake, my soul!
+    2: Awake, O harp and lyre! I will awake the dawn!
+    3: I will give thanks to thee, O LORD, among the peoples, I will sing praises to thee among the nations.
+    4: For thy steadfast love is great above the heavens, thy faithfulness reaches to the clouds.
+    5: Be exalted, O God, above the heavens! Let thy glory be over all the earth!
+    6: That thy beloved may be delivered, give help by thy right hand, and answer me!
+    7: God has promised in his sanctuary: "With exultation I will divide up Shechem, and portion out the Vale of Succoth.
+    8: Gilead is mine; Manas'seh is mine; E'phraim is my helmet; Judah my scepter.
+    9: Moab is my washbasin; upon Edom I cast my shoe; over Philistia I shout in triumph."
+    10: Who will bring me to the fortified city? Who will lead me to Edom?
+    11: Hast thou not rejected us, O God? Thou dost not go forth, O God, with our armies.
+    12: O grant us help against the foe, for vain is the help of man!
+    13: With God we shall do valiantly; it is he who will tread down our foes.
+
+End of day 170.

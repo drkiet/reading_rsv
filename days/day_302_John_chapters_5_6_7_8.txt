@@ -1,0 +1,246 @@
+Day 302:
+
+Reading John, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: After this there was a feast of the Jews, and Jesus went up to Jerusalem.
+    2: Now there is in Jerusalem by the Sheep Gate a pool, in Hebrew called Beth-za'tha, which has five porticoes.
+    3: In these lay a multitude of invalids, blind, lame, paralyzed.
+    4: One man was there, who had been ill for thirty-eight years.
+    5: When Jesus saw him and knew that he had been lying there a long time, he said to him, "Do you want to be healed?"
+    6: The sick man answered him, "Sir, I have no man to put me into the pool when the water is troubled, and while I am going another steps down before me."
+    7: Jesus said to him, "Rise, take up your pallet, and walk."
+    8: And at once the man was healed, and he took up his pallet and walked. Now that day was the sabbath.
+    9: So the Jews said to the man who was cured, "It is the sabbath, it is not lawful for you to carry your pallet."
+    10: But he answered them, "The man who healed me said to me, `Take up your pallet, and walk.'"
+    11: They asked him, "Who is the man who said to you, `Take up your pallet, and walk'?"
+    12: Now the man who had been healed did not know who it was, for Jesus had withdrawn, as there was a crowd in the place.
+    13: Afterward, Jesus found him in the temple, and said to him, "See, you are well! Sin no more, that nothing worse befall you."
+    14: The man went away and told the Jews that it was Jesus who had healed him.
+    15: And this was why the Jews persecuted Jesus, because he did this on the sabbath.
+    16: But Jesus answered them, "My Father is working still, and I am working."
+    17: This was why the Jews sought all the more to kill him, because he not only broke the sabbath but also called God his Father, making himself equal with God.
+    18: Jesus said to them, "Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing; for whatever he does, that the Son does likewise.
+    19: For the Father loves the Son, and shows him all that he himself is doing; and greater works than these will he show him, that you may marvel.
+    20: For as the Father raises the dead and gives them life, so also the Son gives life to whom he will.
+    21: The Father judges no one, but has given all judgment to the Son,
+    22: that all may honor the Son, even as they honor the Father. He who does not honor the Son does not honor the Father who sent him.
+    23: Truly, truly, I say to you, he who hears my word and believes him who sent me, has eternal life; he does not come into judgment, but has passed from death to life.
+    24: "Truly, truly, I say to you, the hour is coming, and now is, when the dead will hear the voice of the Son of God, and those who hear will live.
+    25: For as the Father has life in himself, so he has granted the Son also to have life in himself,
+    26: and has given him authority to execute judgment, because he is the Son of man.
+    27: Do not marvel at this; for the hour is coming when all who are in the tombs will hear his voice
+    28: and come forth, those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of judgment.
+    29: "I can do nothing on my own authority; as I hear, I judge; and my judgment is just, because I seek not my own will but the will of him who sent me.
+    30: If I bear witness to myself, my testimony is not true;
+    31: there is another who bears witness to me, and I know that the testimony which he bears to me is true.
+    32: You sent to John, and he has borne witness to the truth.
+    33: Not that the testimony which I receive is from man; but I say this that you may be saved.
+    34: He was a burning and shining lamp, and you were willing to rejoice for a while in his light.
+    35: But the testimony which I have is greater than that of John; for the works which the Father has granted me to accomplish, these very works which I am doing, bear me witness that the Father has sent me.
+    36: And the Father who sent me has himself borne witness to me. His voice you have never heard, his form you have never seen;
+    37: and you do not have his word abiding in you, for you do not believe him whom he has sent.
+    38: You search the scriptures, because you think that in them you have eternal life; and it is they that bear witness to me;
+    39: yet you refuse to come to me that you may have life.
+    40: I do not receive glory from men.
+    41: But I know that you have not the love of God within you.
+    42: I have come in my Father's name, and you do not receive me; if another comes in his own name, him you will receive.
+    43: How can you believe, who receive glory from one another and do not seek the glory that comes from the only God?
+    44: Do not think that I shall accuse you to the Father; it is Moses who accuses you, on whom you set your hope.
+    45: If you believed Moses, you would believe me, for he wrote of me.
+    46: But if you do not believe his writings, how will you believe my words?"
+
+  Chapter 6.
+
+    1: After this Jesus went to the other side of the Sea of Galilee, which is the Sea of Tiber'i-as.
+    2: And a multitude followed him, because they saw the signs which he did on those who were diseased.
+    3: Jesus went up on the mountain, and there sat down with his disciples.
+    4: Now the Passover, the feast of the Jews, was at hand.
+    5: Lifting up his eyes, then, and seeing that a multitude was coming to him, Jesus said to Philip, "How are we to buy bread, so that these people may eat?"
+    6: This he said to test him, for he himself knew what he would do.
+    7: Philip answered him, "Two hundred denarii would not buy enough bread for each of them to get a little."
+    8: One of his disciples, Andrew, Simon Peter's brother, said to him,
+    9: "There is a lad here who has five barley loaves and two fish; but what are they among so many?"
+    10: Jesus said, "Make the people sit down." Now there was much grass in the place; so the men sat down, in number about five thousand.
+    11: Jesus then took the loaves, and when he had given thanks, he distributed them to those who were seated; so also the fish, as much as they wanted.
+    12: And when they had eaten their fill, he told his disciples, "Gather up the fragments left over, that nothing may be lost."
+    13: So they gathered them up and filled twelve baskets with fragments from the five barley loaves, left by those who had eaten.
+    14: When the people saw the sign which he had done, they said, "This is indeed the prophet who is to come into the world!"
+    15: Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself.
+    16: When evening came, his disciples went down to the sea,
+    17: got into a boat, and started across the sea to Caper'na-um. It was now dark, and Jesus had not yet come to them.
+    18: The sea rose because a strong wind was blowing.
+    19: When they had rowed about three or four miles, they saw Jesus walking on the sea and drawing near to the boat. They were frightened,
+    20: but he said to them, "It is I; do not be afraid."
+    21: Then they were glad to take him into the boat, and immediately the boat was at the land to which they were going.
+    22: On the next day the people who remained on the other side of the sea saw that there had been only one boat there, and that Jesus had not entered the boat with his disciples, but that his disciples had gone away alone.
+    23: However, boats from Tiber'i-as came near the place where they ate the bread after the Lord had given thanks.
+    24: So when the people saw that Jesus was not there, nor his disciples, they themselves got into the boats and went to Caper'na-um, seeking Jesus.
+    25: When they found him on the other side of the sea, they said to him, "Rabbi, when did you come here?"
+    26: Jesus answered them, "Truly, truly, I say to you, you seek me, not because you saw signs, but because you ate your fill of the loaves.
+    27: Do not labor for the food which perishes, but for the food which endures to eternal life, which the Son of man will give to you; for on him has God the Father set his seal."
+    28: Then they said to him, "What must we do, to be doing the works of God?"
+    29: Jesus answered them, "This is the work of God, that you believe in him whom he has sent."
+    30: So they said to him, "Then what sign do you do, that we may see, and believe you? What work do you perform?
+    31: Our fathers ate the manna in the wilderness; as it is written, `He gave them bread from heaven to eat.'"
+    32: Jesus then said to them, "Truly, truly, I say to you, it was not Moses who gave you the bread from heaven; my Father gives you the true bread from heaven.
+    33: For the bread of God is that which comes down from heaven, and gives life to the world."
+    34: They said to him, "Lord, give us this bread always."
+    35: Jesus said to them, "I am the bread of life; he who comes to me shall not hunger, and he who believes in me shall never thirst.
+    36: But I said to you that you have seen me and yet do not believe.
+    37: All that the Father gives me will come to me; and him who comes to me I will not cast out.
+    38: For I have come down from heaven, not to do my own will, but the will of him who sent me;
+    39: and this is the will of him who sent me, that I should lose nothing of all that he has given me, but raise it up at the last day.
+    40: For this is the will of my Father, that every one who sees the Son and believes in him should have eternal life; and I will raise him up at the last day."
+    41: The Jews then murmured at him, because he said, "I am the bread which came down from heaven."
+    42: They said, "Is not this Jesus, the son of Joseph, whose father and mother we know? How does he now say, `I have come down from heaven'?"
+    43: Jesus answered them, "Do not murmur among yourselves.
+    44: No one can come to me unless the Father who sent me draws him; and I will raise him up at the last day.
+    45: It is written in the prophets, `And they shall all be taught by God.' Every one who has heard and learned from the Father comes to me.
+    46: Not that any one has seen the Father except him who is from God; he has seen the Father.
+    47: Truly, truly, I say to you, he who believes has eternal life.
+    48: I am the bread of life.
+    49: Your fathers ate the manna in the wilderness, and they died.
+    50: This is the bread which comes down from heaven, that a man may eat of it and not die.
+    51: I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever; and the bread which I shall give for the life of the world is my flesh."
+    52: The Jews then disputed among themselves, saying, "How can this man give us his flesh to eat?"
+    53: So Jesus said to them, "Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you;
+    54: he who eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day.
+    55: For my flesh is food indeed, and my blood is drink indeed.
+    56: He who eats my flesh and drinks my blood abides in me, and I in him.
+    57: As the living Father sent me, and I live because of the Father, so he who eats me will live because of me.
+    58: This is the bread which came down from heaven, not such as the fathers ate and died; he who eats this bread will live for ever."
+    59: This he said in the synagogue, as he taught at Caper'na-um.
+    60: Many of his disciples, when they heard it, said, "This is a hard saying; who can listen to it?"
+    61: But Jesus, knowing in himself that his disciples murmured at it, said to them, "Do you take offense at this?
+    62: Then what if you were to see the Son of man ascending where he was before?
+    63: It is the spirit that gives life, the flesh is of no avail; the words that I have spoken to you are spirit and life.
+    64: But there are some of you that do not believe." For Jesus knew from the first who those were that did not believe, and who it was that would betray him.
+    65: And he said, "This is why I told you that no one can come to me unless it is granted him by the Father."
+    66: After this many of his disciples drew back and no longer went about with him.
+    67: Jesus said to the twelve, "Do you also wish to go away?"
+    68: Simon Peter answered him, "Lord, to whom shall we go? You have the words of eternal life;
+    69: and we have believed, and have come to know, that you are the Holy One of God."
+    70: Jesus answered them, "Did I not choose you, the twelve, and one of you is a devil?"
+    71: He spoke of Judas the son of Simon Iscariot, for he, one of the twelve, was to betray him.
+
+  Chapter 7.
+
+    1: After this Jesus went about in Galilee; he would not go about in Judea, because the Jews sought to kill him.
+    2: Now the Jews' feast of Tabernacles was at hand.
+    3: So his brothers said to him, "Leave here and go to Judea, that your disciples may see the works you are doing.
+    4: For no man works in secret if he seeks to be known openly. If you do these things, show yourself to the world."
+    5: For even his brothers did not believe in him.
+    6: Jesus said to them, "My time has not yet come, but your time is always here.
+    7: The world cannot hate you, but it hates me because I testify of it that its works are evil.
+    8: Go to the feast yourselves; I am not going up to this feast, for my time has not yet fully come."
+    9: So saying, he remained in Galilee.
+    10: But after his brothers had gone up to the feast, then he also went up, not publicly but in private.
+    11: The Jews were looking for him at the feast, and saying, "Where is he?"
+    12: And there was much muttering about him among the people. While some said, "He is a good man," others said, "No, he is leading the people astray."
+    13: Yet for fear of the Jews no one spoke openly of him.
+    14: About the middle of the feast Jesus went up into the temple and taught.
+    15: The Jews marveled at it, saying, "How is it that this man has learning, when he has never studied?"
+    16: So Jesus answered them, "My teaching is not mine, but his who sent me;
+    17: if any man's will is to do his will, he shall know whether the teaching is from God or whether I am speaking on my own authority.
+    18: He who speaks on his own authority seeks his own glory; but he who seeks the glory of him who sent him is true, and in him there is no falsehood.
+    19: Did not Moses give you the law? Yet none of you keeps the law. Why do you seek to kill me?"
+    20: The people answered, "You have a demon! Who is seeking to kill you?"
+    21: Jesus answered them, "I did one deed, and you all marvel at it.
+    22: Moses gave you circumcision (not that it is from Moses, but from the fathers), and you circumcise a man upon the sabbath.
+    23: If on the sabbath a man receives circumcision, so that the law of Moses may not be broken, are you angry with me because on the sabbath I made a man's whole body well?
+    24: Do not judge by appearances, but judge with right judgment."
+    25: Some of the people of Jerusalem therefore said, "Is not this the man whom they seek to kill?
+    26: And here he is, speaking openly, and they say nothing to him! Can it be that the authorities really know that this is the Christ?
+    27: Yet we know where this man comes from; and when the Christ appears, no one will know where he comes from."
+    28: So Jesus proclaimed, as he taught in the temple, "You know me, and you know where I come from? But I have not come of my own accord; he who sent me is true, and him you do not know.
+    29: I know him, for I come from him, and he sent me."
+    30: So they sought to arrest him; but no one laid hands on him, because his hour had not yet come.
+    31: Yet many of the people believed in him; they said, "When the Christ appears, will he do more signs than this man has done?"
+    32: The Pharisees heard the crowd thus muttering about him, and the chief priests and Pharisees sent officers to arrest him.
+    33: Jesus then said, "I shall be with you a little longer, and then I go to him who sent me;
+    34: you will seek me and you will not find me; where I am you cannot come."
+    35: The Jews said to one another, "Where does this man intend to go that we shall not find him? Does he intend to go to the Dispersion among the Greeks and teach the Greeks?
+    36: What does he mean by saying, `You will seek me and you will not find me,' and, `Where I am you cannot come'?"
+    37: On the last day of the feast, the great day, Jesus stood up and proclaimed, "If any one thirst, let him come to me and drink.
+    38: He who believes in me, as the scripture has said, `Out of his heart shall flow rivers of living water.'"
+    39: Now this he said about the Spirit, which those who believed in him were to receive; for as yet the Spirit had not been given, because Jesus was not yet glorified.
+    40: When they heard these words, some of the people said, "This is really the prophet."
+    41: Others said, "This is the Christ." But some said, "Is the Christ to come from Galilee?
+    42: Has not the scripture said that the Christ is descended from David, and comes from Bethlehem, the village where David was?"
+    43: So there was a division among the people over him.
+    44: Some of them wanted to arrest him, but no one laid hands on him.
+    45: The officers then went back to the chief priests and Pharisees, who said to them, "Why did you not bring him?"
+    46: The officers answered, "No man ever spoke like this man!"
+    47: The Pharisees answered them, "Are you led astray, you also?
+    48: Have any of the authorities or of the Pharisees believed in him?
+    49: But this crowd, who do not know the law, are accursed."
+    50: Nicode'mus, who had gone to him before, and who was one of them, said to them,
+    51: "Does our law judge a man without first giving him a hearing and learning what he does?"
+    52: They replied, "Are you from Galilee too? Search and you will see that no prophet is to rise from Galilee."
+    53: They went each to his own house,
+
+  Chapter 8.
+
+    1: but Jesus went to the Mount of Olives.
+    2: Early in the morning he came again to the temple; all the people came to him, and he sat down and taught them.
+    3: The scribes and the Pharisees brought a woman who had been caught in adultery, and placing her in the midst
+    4: they said to him, "Teacher, this woman has been caught in the act of adultery.
+    5: Now in the law Moses commanded us to stone such. What do you say about her?"
+    6: This they said to test him, that they might have some charge to bring against him. Jesus bent down and wrote with his finger on the ground.
+    7: And as they continued to ask him, he stood up and said to them, "Let him who is without sin among you be the first to throw a stone at her."
+    8: And once more he bent down and wrote with his finger on the ground.
+    9: But when they heard it, they went away, one by one, beginning with the eldest, and Jesus was left alone with the woman standing before him.
+    10: Jesus looked up and said to her, "Woman, where are they? Has no one condemned you?"
+    11: She said, "No one, Lord." And Jesus said, "Neither do I condemn you; go, and do not sin again."
+    12: Again Jesus spoke to them, saying, "I am the light of the world; he who follows me will not walk in darkness, but will have the light of life."
+    13: The Pharisees then said to him, "You are bearing witness to yourself; your testimony is not true."
+    14: Jesus answered, "Even if I do bear witness to myself, my testimony is true, for I know whence I have come and whither I am going, but you do not know whence I come or whither I am going.
+    15: You judge according to the flesh, I judge no one.
+    16: Yet even if I do judge, my judgment is true, for it is not I alone that judge, but I and he who sent me.
+    17: In your law it is written that the testimony of two men is true;
+    18: I bear witness to myself, and the Father who sent me bears witness to me."
+    19: They said to him therefore, "Where is your Father?" Jesus answered, "You know neither me nor my Father; if you knew me, you would know my Father also."
+    20: These words he spoke in the treasury, as he taught in the temple; but no one arrested him, because his hour had not yet come.
+    21: Again he said to them, "I go away, and you will seek me and die in your sin; where I am going, you cannot come."
+    22: Then said the Jews, "Will he kill himself, since he says, `Where I am going, you cannot come'?"
+    23: He said to them, "You are from below, I am from above; you are of this world, I am not of this world.
+    24: I told you that you would die in your sins, for you will die in your sins unless you believe that I am he."
+    25: They said to him, "Who are you?" Jesus said to them, "Even what I have told you from the beginning.
+    26: I have much to say about you and much to judge; but he who sent me is true, and I declare to the world what I have heard from him."
+    27: They did not understand that he spoke to them of the Father.
+    28: So Jesus said, "When you have lifted up the Son of man, then you will know that I am he, and that I do nothing on my own authority but speak thus as the Father taught me.
+    29: And he who sent me is with me; he has not left me alone, for I always do what is pleasing to him."
+    30: As he spoke thus, many believed in him.
+    31: Jesus then said to the Jews who had believed in him, "If you continue in my word, you are truly my disciples,
+    32: and you will know the truth, and the truth will make you free."
+    33: They answered him, "We are descendants of Abraham, and have never been in bondage to any one. How is it that you say, `You will be made free'?"
+    34: Jesus answered them, "Truly, truly, I say to you, every one who commits sin is a slave to sin.
+    35: The slave does not continue in the house for ever; the son continues for ever.
+    36: So if the Son makes you free, you will be free indeed.
+    37: I know that you are descendants of Abraham; yet you seek to kill me, because my word finds no place in you.
+    38: I speak of what I have seen with my Father, and you do what you have heard from your father."
+    39: They answered him, "Abraham is our father." Jesus said to them, "If you were Abraham's children, you would do what Abraham did,
+    40: but now you seek to kill me, a man who has told you the truth which I heard from God; this is not what Abraham did.
+    41: You do what your father did." They said to him, "We were not born of fornication; we have one Father, even God."
+    42: Jesus said to them, "If God were your Father, you would love me, for I proceeded and came forth from God; I came not of my own accord, but he sent me.
+    43: Why do you not understand what I say? It is because you cannot bear to hear my word.
+    44: You are of your father the devil, and your will is to do your father's desires. He was a murderer from the beginning, and has nothing to do with the truth, because there is no truth in him. When he lies, he speaks according to his own nature, for he is a liar and the father of lies.
+    45: But, because I tell the truth, you do not believe me.
+    46: Which of you convicts me of sin? If I tell the truth, why do you not believe me?
+    47: He who is of God hears the words of God; the reason why you do not hear them is that you are not of God."
+    48: The Jews answered him, "Are we not right in saying that you are a Samaritan and have a demon?"
+    49: Jesus answered, "I have not a demon; but I honor my Father, and you dishonor me.
+    50: Yet I do not seek my own glory; there is One who seeks it and he will be the judge.
+    51: Truly, truly, I say to you, if any one keeps my word, he will never see death."
+    52: The Jews said to him, "Now we know that you have a demon. Abraham died, as did the prophets; and you say, `If any one keeps my word, he will never taste death.'
+    53: Are you greater than our father Abraham, who died? And the prophets died! Who do you claim to be?"
+    54: Jesus answered, "If I glorify myself, my glory is nothing; it is my Father who glorifies me, of whom you say that he is your God.
+    55: But you have not known him; I know him. If I said, I do not know him, I should be a liar like you; but I do know him and I keep his word.
+    56: Your father Abraham rejoiced that he was to see my day; he saw it and was glad."
+    57: The Jews then said to him, "You are not yet fifty years old, and have you seen Abraham?"
+    58: Jesus said to them, "Truly, truly, I say to you, before Abraham was, I am."
+    59: So they took up stones to throw at him; but Jesus hid himself, and went out of the temple.
+
+End of day 302.

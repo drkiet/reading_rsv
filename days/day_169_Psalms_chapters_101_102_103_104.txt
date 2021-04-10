@@ -1,0 +1,110 @@
+Day 169:
+
+Reading Psalms, chapters ['101', '102', '103', '104']:
+
+  Chapter 101.
+
+    1: I will sing of loyalty and of justice; to thee, O LORD, I will sing.
+    2: I will give heed to the way that is blameless. Oh when wilt thou come to me? I will walk with integrity of heart within my house;
+    3: I will not set before my eyes anything that is base. I hate the work of those who fall away; it shall not cleave to me.
+    4: Perverseness of heart shall be far from me; I will know nothing of evil.
+    5: Him who slanders his neighbor secretly I will destroy. The man of haughty looks and arrogant heart I will not endure.
+    6: I will look with favor on the faithful in the land, that they may dwell with me; he who walks in the way that is blameless shall minister to me.
+    7: No man who practices deceit shall dwell in my house; no man who utters lies shall continue in my presence.
+    8: Morning by morning I will destroy all the wicked in the land, cutting off all the evildoers from the city of the LORD.
+
+  Chapter 102.
+
+    1: Hear my prayer, O LORD; let my cry come to thee!
+    2: Do not hide thy face from me in the day of my distress! Incline thy ear to me; answer me speedily in the day when I call!
+    3: For my days pass away like smoke, and my bones burn like a furnace.
+    4: My heart is smitten like grass, and withered; I forget to eat my bread.
+    5: Because of my loud groaning my bones cleave to my flesh.
+    6: I am like a vulture of the wilderness, like an owl of the waste places;
+    7: I lie awake, I am like a lonely bird on the housetop.
+    8: All the day my enemies taunt me, those who deride me use my name for a curse.
+    9: For I eat ashes like bread, and mingle tears with my drink,
+    10: because of thy indignation and anger; for thou hast taken me up and thrown me away.
+    11: My days are like an evening shadow; I wither away like grass.
+    12: But thou, O LORD, art enthroned for ever; thy name endures to all generations.
+    13: Thou wilt arise and have pity on Zion; it is the time to favor her; the appointed time has come.
+    14: For thy servants hold her stones dear, and have pity on her dust.
+    15: The nations will fear the name of the LORD, and all the kings of the earth thy glory.
+    16: For the LORD will build up Zion, he will appear in his glory;
+    17: he will regard the prayer of the destitute, and will not despise their supplication.
+    18: Let this be recorded for a generation to come, so that a people yet unborn may praise the LORD:
+    19: that he looked down from his holy height, from heaven the LORD looked at the earth,
+    20: to hear the groans of the prisoners, to set free those who were doomed to die;
+    21: that men may declare in Zion the name of the LORD, and in Jerusalem his praise,
+    22: when peoples gather together, and kingdoms, to worship the LORD.
+    23: He has broken my strength in mid-course; he has shortened my days.
+    24: "O my God," I say, "take me not hence in the midst of my days, thou whose years endure throughout all generations!"
+    25: Of old thou didst lay the foundation of the earth, and the heavens are the work of thy hands.
+    26: They will perish, but thou dost endure; they will all wear out like a garment. Thou changest them like raiment, and they pass away;
+    27: but thou art the same, and thy years have no end.
+    28: The children of thy servants shall dwell secure; their posterity shall be established before thee.
+
+  Chapter 103.
+
+    1: Bless the LORD, O my soul; and all that is within me, bless his holy name!
+    2: Bless the LORD, O my soul, and forget not all his benefits,
+    3: who forgives all your iniquity, who heals all your diseases,
+    4: who redeems your life from the Pit, who crowns you with steadfast love and mercy,
+    5: who satisfies you with good as long as you live so that your youth is renewed like the eagle's.
+    6: The LORD works vindication and justice for all who are oppressed.
+    7: He made known his ways to Moses, his acts to the people of Israel.
+    8: The LORD is merciful and gracious, slow to anger and abounding in steadfast love.
+    9: He will not always chide, nor will he keep his anger for ever.
+    10: He does not deal with us according to our sins, nor requite us according to our iniquities.
+    11: For as the heavens are high above the earth, so great is his steadfast love toward those who fear him;
+    12: as far as the east is from the west, so far does he remove our transgressions from us.
+    13: As a father pities his children, so the LORD pities those who fear him.
+    14: For he knows our frame; he remembers that we are dust.
+    15: As for man, his days are like grass; he flourishes like a flower of the field;
+    16: for the wind passes over it, and it is gone, and its place knows it no more.
+    17: But the steadfast love of the LORD is from everlasting to everlasting upon those who fear him, and his righteousness to children's children,
+    18: to those who keep his covenant and remember to do his commandments.
+    19: The LORD has established his throne in the heavens, and his kingdom rules over all.
+    20: Bless the LORD, O you his angels, you mighty ones who do his word, hearkening to the voice of his word!
+    21: Bless the LORD, all his hosts, his ministers that do his will!
+    22: Bless the LORD, all his works, in all places of his dominion. Bless the LORD, O my soul!
+
+  Chapter 104.
+
+    1: Bless the LORD, O my soul! O LORD my God, thou art very great! Thou art clothed with honor and majesty,
+    2: who coverest thyself with light as with a garment, who hast stretched out the heavens like a tent,
+    3: who hast laid the beams of thy chambers on the waters, who makest the clouds thy chariot, who ridest on the wings of the wind,
+    4: who makest the winds thy messengers, fire and flame thy ministers.
+    5: Thou didst set the earth on its foundations, so that it should never be shaken.
+    6: Thou didst cover it with the deep as with a garment; the waters stood above the mountains.
+    7: At thy rebuke they fled; at the sound of thy thunder they took to flight.
+    8: The mountains rose, the valleys sank down to the place which thou didst appoint for them.
+    9: Thou didst set a bound which they should not pass, so that they might not again cover the earth.
+    10: Thou makest springs gush forth in the valleys; they flow between the hills,
+    11: they give drink to every beast of the field; the wild asses quench their thirst.
+    12: By them the birds of the air have their habitation; they sing among the branches.
+    13: From thy lofty abode thou waterest the mountains; the earth is satisfied with the fruit of thy work.
+    14: Thou dost cause the grass to grow for the cattle, and plants for man to cultivate, that he may bring forth food from the earth,
+    15: and wine to gladden the heart of man, oil to make his face shine, and bread to strengthen man's heart.
+    16: The trees of the LORD are watered abundantly, the cedars of Lebanon which he planted.
+    17: In them the birds build their nests; the stork has her home in the fir trees.
+    18: The high mountains are for the wild goats; the rocks are a refuge for the badgers.
+    19: Thou hast made the moon to mark the seasons; the sun knows its time for setting.
+    20: Thou makest darkness, and it is night, when all the beasts of the forest creep forth.
+    21: The young lions roar for their prey, seeking their food from God.
+    22: When the sun rises, they get them away and lie down in their dens.
+    23: Man goes forth to his work and to his labor until the evening.
+    24: O LORD, how manifold are thy works! In wisdom hast thou made them all; the earth is full of thy creatures.
+    25: Yonder is the sea, great and wide, which teems with things innumerable, living things both small and great.
+    26: There go the ships, and Leviathan which thou didst form to sport in it.
+    27: These all look to thee, to give them their food in due season.
+    28: When thou givest to them, they gather it up; when thou openest thy hand, they are filled with good things.
+    29: When thou hidest thy face, they are dismayed; when thou takest away their breath, they die and return to their dust.
+    30: When thou sendest forth thy Spirit, they are created; and thou renewest the face of the ground.
+    31: May the glory of the LORD endure for ever, may the LORD rejoice in his works,
+    32: who looks on the earth and it trembles, who touches the mountains and they smoke!
+    33: I will sing to the LORD as long as I live; I will sing praise to my God while I have being.
+    34: May my meditation be pleasing to him, for I rejoice in the LORD.
+    35: Let sinners be consumed from the earth, and let the wicked be no more! Bless the LORD, O my soul! Praise the LORD!
+
+End of day 169.

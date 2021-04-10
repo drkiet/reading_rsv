@@ -1,0 +1,136 @@
+Day 141:
+
+Reading Job, chapters ['33', '34', '35', '36']:
+
+  Chapter 33.
+
+    1: "But now, hear my speech, O Job, and listen to all my words.
+    2: Behold, I open my mouth; the tongue in my mouth speaks.
+    3: My words declare the uprightness of my heart, and what my lips know they speak sincerely.
+    4: The spirit of God has made me, and the breath of the Almighty gives me life.
+    5: Answer me, if you can; set your words in order before me; take your stand.
+    6: Behold, I am toward God as you are; I too was formed from a piece of clay.
+    7: Behold, no fear of me need terrify you; my pressure will not be heavy upon you.
+    8: "Surely, you have spoken in my hearing, and I have heard the sound of your words.
+    9: You say, `I am clean, without transgression; I am pure, and there is no iniquity in me.
+    10: Behold, he finds occasions against me, he counts me as his enemy;
+    11: he puts my feet in the stocks, and watches all my paths.'
+    12: "Behold, in this you are not right. I will answer you. God is greater than man.
+    13: Why do you contend against him, saying, `He will answer none of my words'?
+    14: For God speaks in one way, and in two, though man does not perceive it.
+    15: In a dream, in a vision of the night, when deep sleep falls upon men, while they slumber on their beds,
+    16: then he opens the ears of men, and terrifies them with warnings,
+    17: that he may turn man aside from his deed, and cut off pride from man;
+    18: he keeps back his soul from the Pit, his life from perishing by the sword.
+    19: "Man is also chastened with pain upon his bed, and with continual strife in his bones;
+    20: so that his life loathes bread, and his appetite dainty food.
+    21: His flesh is so wasted away that it cannot be seen; and his bones which were not seen stick out.
+    22: His soul draws near the Pit, and his life to those who bring death.
+    23: If there be for him an angel, a mediator, one of the thousand, to declare to man what is right for him;
+    24: and he is gracious to him, and says, `Deliver him from going down into the Pit, I have found a ransom;
+    25: let his flesh become fresh with youth; let him return to the days of his youthful vigor';
+    26: then man prays to God, and he accepts him, he comes into his presence with joy. He recounts to men his salvation,
+    27: and he sings before men, and says: `I sinned and perverted what was right, and it was not requited to me.
+    28: He has redeemed my soul from going down into the Pit, and my life shall see the light.'
+    29: "Behold, God does all these things, twice, three times, with a man,
+    30: to bring back his soul from the Pit, that he may see the light of life.
+    31: Give heed, O Job, listen to me; be silent, and I will speak.
+    32: If you have anything to say, answer me; speak, for I desire to justify you.
+    33: If not, listen to me; be silent, and I will teach you wisdom."
+
+  Chapter 34.
+
+    1: Then Eli'hu said:
+    2: "Hear my words, you wise men, and give ear to me, you who know;
+    3: for the ear tests words as the palate tastes food.
+    4: Let us choose what is right; let us determine among ourselves what is good.
+    5: For Job has said, `I am innocent, and God has taken away my right;
+    6: in spite of my right I am counted a liar; my wound is incurable, though I am without transgression.'
+    7: What man is like Job, who drinks up scoffing like water,
+    8: who goes in company with evildoers and walks with wicked men?
+    9: For he has said, `It profits a man nothing that he should take delight in God.'
+    10: "Therefore, hear me, you men of understanding, far be it from God that he should do wickedness, and from the Almighty that he should do wrong.
+    11: For according to the work of a man he will requite him, and according to his ways he will make it befall him.
+    12: Of a truth, God will not do wickedly, and the Almighty will not pervert justice.
+    13: Who gave him charge over the earth and who laid on him the whole world?
+    14: If he should take back his spirit to himself, and gather to himself his breath,
+    15: all flesh would perish together, and man would return to dust.
+    16: "If you have understanding, hear this; listen to what I say.
+    17: Shall one who hates justice govern? Will you condemn him who is righteous and mighty,
+    18: who says to a king, `Worthless one,' and to nobles, `Wicked man';
+    19: who shows no partiality to princes, nor regards the rich more than the poor, for they are all the work of his hands?
+    20: In a moment they die; at midnight the people are shaken and pass away, and the mighty are taken away by no human hand.
+    21: "For his eyes are upon the ways of a man, and he sees all his steps.
+    22: There is no gloom or deep darkness where evildoers may hide themselves.
+    23: For he has not appointed a time for any man to go before God in judgment.
+    24: He shatters the mighty without investigation, and sets others in their place.
+    25: Thus, knowing their works, he overturns them in the night, and they are crushed.
+    26: He strikes them for their wickedness in the sight of men,
+    27: because they turned aside from following him, and had no regard for any of his ways,
+    28: so that they caused the cry of the poor to come to him, and he heard the cry of the afflicted --
+    29: When he is quiet, who can condemn? When he hides his face, who can behold him, whether it be a nation or a man? --
+    30: that a godless man should not reign, that he should not ensnare the people.
+    31: "For has any one said to God, `I have borne chastisement; I will not offend any more;
+    32: teach me what I do not see; if I have done iniquity, I will do it no more'?
+    33: Will he then make requital to suit you, because you reject it? For you must choose, and not I; therefore declare what you know.
+    34: Men of understanding will say to me, and the wise man who hears me will say:
+    35: `Job speaks without knowledge, his words are without insight.'
+    36: Would that Job were tried to the end, because he answers like wicked men.
+    37: For he adds rebellion to his sin; he claps his hands among us, and multiplies his words against God."
+
+  Chapter 35.
+
+    1: And Eli'hu said:
+    2: "Do you think this to be just? Do you say, `It is my right before God,'
+    3: that you ask, `What advantage have I? How am I better off than if I had sinned?'
+    4: I will answer you and your friends with you.
+    5: Look at the heavens, and see; and behold the clouds, which are higher than you.
+    6: If you have sinned, what do you accomplish against him? And if your transgressions are multiplied, what do you do to him?
+    7: If you are righteous, what do you give to him; or what does he receive from your hand?
+    8: Your wickedness concerns a man like yourself, and your righteousness a son of man.
+    9: "Because of the multitude of oppressions people cry out; they call for help because of the arm of the mighty.
+    10: But none says, `Where is God my Maker, who gives songs in the night,
+    11: who teaches us more than the beasts of the earth, and makes us wiser than the birds of the air?'
+    12: There they cry out, but he does not answer, because of the pride of evil men.
+    13: Surely God does not hear an empty cry, nor does the Almighty regard it.
+    14: How much less when you say that you do not see him, that the case is before him, and you are waiting for him!
+    15: And now, because his anger does not punish, and he does not greatly heed transgression,
+    16: Job opens his mouth in empty talk, he multiplies words without knowledge."
+
+  Chapter 36.
+
+    1: And Eli'hu continued, and said:
+    2: "Bear with me a little, and I will show you, for I have yet something to say on God's behalf.
+    3: I will fetch my knowledge from afar, and ascribe righteousness to my Maker.
+    4: For truly my words are not false; one who is perfect in knowledge is with you.
+    5: "Behold, God is mighty, and does not despise any; he is mighty in strength of understanding.
+    6: He does not keep the wicked alive, but gives the afflicted their right.
+    7: He does not withdraw his eyes from the righteous, but with kings upon the throne he sets them for ever, and they are exalted.
+    8: And if they are bound in fetters and caught in the cords of affliction,
+    9: then he declares to them their work and their transgressions, that they are behaving arrogantly.
+    10: He opens their ears to instruction, and commands that they return from iniquity.
+    11: If they hearken and serve him, they complete their days in prosperity, and their years in pleasantness.
+    12: But if they do not hearken, they perish by the sword, and die without knowledge.
+    13: "The godless in heart cherish anger; they do not cry for help when he binds them.
+    14: They die in youth, and their life ends in shame.
+    15: He delivers the afflicted by their affliction, and opens their ear by adversity.
+    16: He also allured you out of distress into a broad place where there was no cramping, and what was set on your table was full of fatness.
+    17: "But you are full of the judgment on the wicked; judgment and justice seize you.
+    18: Beware lest wrath entice you into scoffing; and let not the greatness of the ransom turn you aside.
+    19: Will your cry avail to keep you from distress, or all the force of your strength?
+    20: Do not long for the night, when peoples are cut off in their place.
+    21: Take heed, do not turn to iniquity, for this you have chosen rather than affliction.
+    22: Behold, God is exalted in his power; who is a teacher like him?
+    23: Who has prescribed for him his way, or who can say, `Thou hast done wrong'?
+    24: "Remember to extol his work, of which men have sung.
+    25: All men have looked on it; man beholds it from afar.
+    26: Behold, God is great, and we know him not; the number of his years is unsearchable.
+    27: For he draws up the drops of water, he distils his mist in rain
+    28: which the skies pour down, and drop upon man abundantly.
+    29: Can any one understand the spreading of the clouds, the thunderings of his pavilion?
+    30: Behold, he scatters his lightning about him, and covers the roots of the sea.
+    31: For by these he judges peoples; he gives food in abundance.
+    32: He covers his hands with the lightning, and commands it to strike the mark.
+    33: Its crashing declares concerning him, who is jealous with anger against iniquity.
+
+End of day 141.

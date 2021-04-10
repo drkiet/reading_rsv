@@ -1,0 +1,126 @@
+Day 184:
+
+Reading Proverbs, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Wisdom has built her house, she has set up her seven pillars.
+    2: She has slaughtered her beasts, she has mixed her wine, she has also set her table.
+    3: She has sent out her maids to call from the highest places in the town,
+    4: "Whoever is simple, let him turn in here!" To him who is without sense she says,
+    5: "Come, eat of my bread and drink of the wine I have mixed.
+    6: Leave simpleness, and live, and walk in the way of insight."
+    7: He who corrects a scoffer gets himself abuse, and he who reproves a wicked man incurs injury.
+    8: Do not reprove a scoffer, or he will hate you; reprove a wise man, and he will love you.
+    9: Give instruction to a wise man, and he will be still wiser; teach a righteous man and he will increase in learning.
+    10: The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight.
+    11: For by me your days will be multiplied, and years will be added to your life.
+    12: If you are wise, you are wise for yourself; if you scoff, you alone will bear it.
+    13: A foolish woman is noisy; she is wanton and knows no shame.
+    14: She sits at the door of her house, she takes a seat on the high places of the town,
+    15: calling to those who pass by, who are going straight on their way,
+    16: "Whoever is simple, let him turn in here!" And to him who is without sense she says,
+    17: "Stolen water is sweet, and bread eaten in secret is pleasant."
+    18: But he does not know that the dead are there, that her guests are in the depths of Sheol.
+
+  Chapter 10.
+
+    1: The proverbs of Solomon. A wise son makes a glad father, but a foolish son is a sorrow to his mother.
+    2: Treasures gained by wickedness do not profit, but righteousness delivers from death.
+    3: The LORD does not let the righteous go hungry, but he thwarts the craving of the wicked.
+    4: A slack hand causes poverty, but the hand of the diligent makes rich.
+    5: A son who gathers in summer is prudent, but a son who sleeps in harvest brings shame.
+    6: Blessings are on the head of the righteous, but the mouth of the wicked conceals violence.
+    7: The memory of the righteous is a blessing, but the name of the wicked will rot.
+    8: The wise of heart will heed commandments, but a prating fool will come to ruin.
+    9: He who walks in integrity walks securely, but he who perverts his ways will be found out.
+    10: He who winks the eye causes trouble, but he who boldly reproves makes peace.
+    11: The mouth of the righteous is a fountain of life, but the mouth of the wicked conceals violence.
+    12: Hatred stirs up strife, but love covers all offenses.
+    13: On the lips of him who has understanding wisdom is found, but a rod is for the back of him who lacks sense.
+    14: Wise men lay up knowledge, but the babbling of a fool brings ruin near.
+    15: A rich man's wealth is his strong city; the poverty of the poor is their ruin.
+    16: The wage of the righteous leads to life, the gain of the wicked to sin.
+    17: He who heeds instruction is on the path to life, but he who rejects reproof goes astray.
+    18: He who conceals hatred has lying lips, and he who utters slander is a fool.
+    19: When words are many, transgression is not lacking, but he who restrains his lips is prudent.
+    20: The tongue of the righteous is choice silver; the mind of the wicked is of little worth.
+    21: The lips of the righteous feed many, but fools die for lack of sense.
+    22: The blessing of the LORD makes rich, and he adds no sorrow with it.
+    23: It is like sport to a fool to do wrong, but wise conduct is pleasure to a man of understanding.
+    24: What the wicked dreads will come upon him, but the desire of the righteous will be granted.
+    25: When the tempest passes, the wicked is no more, but the righteous is established for ever.
+    26: Like vinegar to the teeth, and smoke to the eyes, so is the sluggard to those who send him.
+    27: The fear of the LORD prolongs life, but the years of the wicked will be short.
+    28: The hope of the righteous ends in gladness, but the expectation of the wicked comes to nought.
+    29: The LORD is a stronghold to him whose way is upright, but destruction to evildoers.
+    30: The righteous will never be removed, but the wicked will not dwell in the land.
+    31: The mouth of the righteous brings forth wisdom, but the perverse tongue will be cut off.
+    32: The lips of the righteous know what is acceptable, but the mouth of the wicked, what is perverse.
+
+  Chapter 11.
+
+    1: A false balance is an abomination to the LORD, but a just weight is his delight.
+    2: When pride comes, then comes disgrace; but with the humble is wisdom.
+    3: The integrity of the upright guides them, but the crookedness of the treacherous destroys them.
+    4: Riches do not profit in the day of wrath, but righteousness delivers from death.
+    5: The righteousness of the blameless keeps his way straight, but the wicked falls by his own wickedness.
+    6: The righteousness of the upright delivers them, but the treacherous are taken captive by their lust.
+    7: When the wicked dies, his hope perishes, and the expectation of the godless comes to nought.
+    8: The righteous is delivered from trouble, and the wicked gets into it instead.
+    9: With his mouth the godless man would destroy his neighbor, but by knowledge the righteous are delivered.
+    10: When it goes well with the righteous, the city rejoices; and when the wicked perish there are shouts of gladness.
+    11: By the blessing of the upright a city is exalted, but it is overthrown by the mouth of the wicked.
+    12: He who belittles his neighbor lacks sense, but a man of understanding remains silent.
+    13: He who goes about as a talebearer reveals secrets, but he who is trustworthy in spirit keeps a thing hidden.
+    14: Where there is no guidance, a people falls; but in an abundance of counselors there is safety.
+    15: He who gives surety for a stranger will smart for it, but he who hates suretyship is secure.
+    16: A gracious woman gets honor, and violent men get riches.
+    17: A man who is kind benefits himself, but a cruel man hurts himself.
+    18: A wicked man earns deceptive wages, but one who sows righteousness gets a sure reward.
+    19: He who is steadfast in righteousness will live, but he who pursues evil will die.
+    20: Men of perverse mind are an abomination to the LORD, but those of blameless ways are his delight.
+    21: Be assured, an evil man will not go unpunished, but those who are righteous will be delivered.
+    22: Like a gold ring in a swine's snout is a beautiful woman without discretion.
+    23: The desire of the righteous ends only in good; the expectation of the wicked in wrath.
+    24: One man gives freely, yet grows all the richer; another withholds what he should give, and only suffers want.
+    25: A liberal man will be enriched, and one who waters will himself be watered.
+    26: The people curse him who holds back grain, but a blessing is on the head of him who sells it.
+    27: He who diligently seeks good seeks favor, but evil comes to him who searches for it.
+    28: He who trusts in his riches will wither, but the righteous will flourish like a green leaf.
+    29: He who troubles his household will inherit wind, and the fool will be servant to the wise.
+    30: The fruit of the righteous is a tree of life, but lawlessness takes away lives.
+    31: If the righteous is requited on earth, how much more the wicked and the sinner!
+
+  Chapter 12.
+
+    1: Whoever loves discipline loves knowledge, but he who hates reproof is stupid.
+    2: A good man obtains favor from the LORD, but a man of evil devices he condemns.
+    3: A man is not established by wickedness, but the root of the righteous will never be moved.
+    4: A good wife is the crown of her husband, but she who brings shame is like rottenness in his bones.
+    5: The thoughts of the righteous are just; the counsels of the wicked are treacherous.
+    6: The words of the wicked lie in wait for blood, but the mouth of the upright delivers men.
+    7: The wicked are overthrown and are no more, but the house of the righteous will stand.
+    8: A man is commended according to his good sense, but one of perverse mind is despised.
+    9: Better is a man of humble standing who works for himself than one who plays the great man but lacks bread.
+    10: A righteous man has regard for the life of his beast, but the mercy of the wicked is cruel.
+    11: He who tills his land will have plenty of bread, but he who follows worthless pursuits has no sense.
+    12: The strong tower of the wicked comes to ruin, but the root of the righteous stands firm.
+    13: An evil man is ensnared by the transgression of his lips, but the righteous escapes from trouble.
+    14: From the fruit of his words a man is satisfied with good, and the work of a man's hand comes back to him.
+    15: The way of a fool is right in his own eyes, but a wise man listens to advice.
+    16: The vexation of a fool is known at once, but the prudent man ignores an insult.
+    17: He who speaks the truth gives honest evidence, but a false witness utters deceit.
+    18: There is one whose rash words are like sword thrusts, but the tongue of the wise brings healing.
+    19: Truthful lips endure for ever, but a lying tongue is but for a moment.
+    20: Deceit is in the heart of those who devise evil, but those who plan good have joy.
+    21: No ill befalls the righteous, but the wicked are filled with trouble.
+    22: Lying lips are an abomination to the LORD, but those who act faithfully are his delight.
+    23: A prudent man conceals his knowledge, but fools proclaim their folly.
+    24: The hand of the diligent will rule, while the slothful will be put to forced labor.
+    25: Anxiety in a man's heart weighs him down, but a good word makes him glad.
+    26: A righteous man turns away from evil, but the way of the wicked leads them astray.
+    27: A slothful man will not catch his prey, but the diligent man will get precious wealth.
+    28: In the path of righteousness is life, but the way of error leads to death.
+
+End of day 184.

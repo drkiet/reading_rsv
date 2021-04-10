@@ -1,0 +1,82 @@
+Day 180:
+
+Reading Psalms, chapters ['145', '146', '147', '148']:
+
+  Chapter 145.
+
+    1: I will extol thee, my God and King, and bless thy name for ever and ever.
+    2: Every day I will bless thee, and praise thy name for ever and ever.
+    3: Great is the LORD, and greatly to be praised, and his greatness is unsearchable.
+    4: One generation shall laud thy works to another, and shall declare thy mighty acts.
+    5: On the glorious splendor of thy majesty, and on thy wondrous works, I will meditate.
+    6: Men shall proclaim the might of thy terrible acts, and I will declare thy greatness.
+    7: They shall pour forth the fame of thy abundant goodness, and shall sing aloud of thy righteousness.
+    8: The LORD is gracious and merciful, slow to anger and abounding in steadfast love.
+    9: The LORD is good to all, and his compassion is over all that he has made.
+    10: All thy works shall give thanks to thee, O LORD, and all thy saints shall bless thee!
+    11: They shall speak of the glory of thy kingdom, and tell of thy power,
+    12: to make known to the sons of men thy mighty deeds, and the glorious splendor of thy kingdom.
+    13: Thy kingdom is an everlasting kingdom, and thy dominion endures throughout all generations. The LORD is faithful in all his words, and gracious in all his deeds.
+    14: The LORD upholds all who are falling, and raises up all who are bowed down.
+    15: The eyes of all look to thee, and thou givest them their food in due season.
+    16: Thou openest thy hand, thou satisfiest the desire of every living thing.
+    17: The LORD is just in all his ways, and kind in all his doings.
+    18: The LORD is near to all who call upon him, to all who call upon him in truth.
+    19: He fulfils the desire of all who fear him, he also hears their cry, and saves them.
+    20: The LORD preserves all who love him; but all the wicked he will destroy.
+    21: My mouth will speak the praise of the LORD, and let all flesh bless his holy name for ever and ever.
+
+  Chapter 146.
+
+    1: Praise the LORD! Praise the LORD, O my soul!
+    2: I will praise the LORD as long as I live; I will sing praises to my God while I have being.
+    3: Put not your trust in princes, in a son of man, in whom there is no help.
+    4: When his breath departs he returns to his earth; on that very day his plans perish.
+    5: Happy is he whose help is the God of Jacob, whose hope is in the LORD his God,
+    6: who made heaven and earth, the sea, and all that is in them; who keeps faith for ever;
+    7: who executes justice for the oppressed; who gives food to the hungry. The LORD sets the prisoners free;
+    8: the LORD opens the eyes of the blind. The LORD lifts up those who are bowed down; the LORD loves the righteous.
+    9: The LORD watches over the sojourners, he upholds the widow and the fatherless; but the way of the wicked he brings to ruin.
+    10: The LORD will reign for ever, thy God, O Zion, to all generations. Praise the LORD!
+
+  Chapter 147.
+
+    1: Praise the LORD! For it is good to sing praises to our God; for he is gracious, and a song of praise is seemly.
+    2: The LORD builds up Jerusalem; he gathers the outcasts of Israel.
+    3: He heals the brokenhearted, and binds up their wounds.
+    4: He determines the number of the stars, he gives to all of them their names.
+    5: Great is our LORD, and abundant in power; his understanding is beyond measure.
+    6: The LORD lifts up the downtrodden, he casts the wicked to the ground.
+    7: Sing to the LORD with thanksgiving; make melody to our God upon the lyre!
+    8: He covers the heavens with clouds, he prepares rain for the earth, he makes grass grow upon the hills.
+    9: He gives to the beasts their food, and to the young ravens which cry.
+    10: His delight is not in the strength of the horse, nor his pleasure in the legs of a man;
+    11: but the LORD takes pleasure in those who fear him, in those who hope in his steadfast love.
+    12: Praise the LORD, O Jerusalem! Praise your God, O Zion!
+    13: For he strengthens the bars of your gates; he blesses your sons within you.
+    14: He makes peace in your borders; he fills you with the finest of the wheat.
+    15: He sends forth his command to the earth; his word runs swiftly.
+    16: He gives snow like wool; he scatters hoarfrost like ashes.
+    17: He casts forth his ice like morsels; who can stand before his cold?
+    18: He sends forth his word, and melts them; he makes his wind blow, and the waters flow.
+    19: He declares his word to Jacob, his statutes and ordinances to Israel.
+    20: He has not dealt thus with any other nation; they do not know his ordinances. Praise the LORD!
+
+  Chapter 148.
+
+    1: Praise the LORD! Praise the LORD from the heavens, praise him in the heights!
+    2: Praise him, all his angels, praise him, all his host!
+    3: Praise him, sun and moon, praise him, all you shining stars!
+    4: Praise him, you highest heavens, and you waters above the heavens!
+    5: Let them praise the name of the LORD! For he commanded and they were created.
+    6: And he established them for ever and ever; he fixed their bounds which cannot be passed.
+    7: Praise the LORD from the earth, you sea monsters and all deeps,
+    8: fire and hail, snow and frost, stormy wind fulfilling his command!
+    9: Mountains and all hills, fruit trees and all cedars!
+    10: Beasts and all cattle, creeping things and flying birds!
+    11: Kings of the earth and all peoples, princes and all rulers of the earth!
+    12: Young men and maidens together, old men and children!
+    13: Let them praise the name of the LORD, for his name alone is exalted; his glory is above earth and heaven.
+    14: He has raised up a horn for his people, praise for all his saints, for the people of Israel who are near to him. Praise the LORD!
+
+End of day 180.

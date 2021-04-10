@@ -1,0 +1,88 @@
+Day 156:
+
+Reading Psalms, chapters ['49', '50', '51', '52']:
+
+  Chapter 49.
+
+    1: Hear this, all peoples! Give ear, all inhabitants of the world,
+    2: both low and high, rich and poor together!
+    3: My mouth shall speak wisdom; the meditation of my heart shall be understanding.
+    4: I will incline my ear to a proverb; I will solve my riddle to the music of the lyre.
+    5: Why should I fear in times of trouble, when the iniquity of my persecutors surrounds me,
+    6: men who trust in their wealth and boast of the abundance of their riches?
+    7: Truly no man can ransom himself, or give to God the price of his life,
+    8: for the ransom of his life is costly, and can never suffice,
+    9: that he should continue to live on for ever, and never see the Pit.
+    10: Yea, he shall see that even the wise die, the fool and the stupid alike must perish and leave their wealth to others.
+    11: Their graves are their homes for ever, their dwelling places to all generations, though they named lands their own.
+    12: Man cannot abide in his pomp, he is like the beasts that perish.
+    13: This is the fate of those who have foolish confidence, the end of those who are pleased with their portion. [Selah]
+    14: Like sheep they are appointed for Sheol; Death shall be their shepherd; straight to the grave they descend, and their form shall waste away; Sheol shall be their home.
+    15: But God will ransom my soul from the power of Sheol, for he will receive me. [Selah]
+    16: Be not afraid when one becomes rich, when the glory of his house increases.
+    17: For when he dies he will carry nothing away; his glory will not go down after him.
+    18: Though, while he lives, he counts himself happy, and though a man gets praise when he does well for himself,
+    19: he will go to the generation of his fathers, who will never more see the light.
+    20: Man cannot abide in his pomp, he is like the beasts that perish.
+
+  Chapter 50.
+
+    1: The Mighty One, God the LORD, speaks and summons the earth from the rising of the sun to its setting.
+    2: Out of Zion, the perfection of beauty, God shines forth.
+    3: Our God comes, he does not keep silence, before him is a devouring fire, round about him a mighty tempest.
+    4: He calls to the heavens above and to the earth, that he may judge his people:
+    5: "Gather to me my faithful ones, who made a covenant with me by sacrifice!"
+    6: The heavens declare his righteousness, for God himself is judge! [Selah]
+    7: "Hear, O my people, and I will speak, O Israel, I will testify against you. I am God, your God.
+    8: I do not reprove you for your sacrifices; your burnt offerings are continually before me.
+    9: I will accept no bull from your house, nor he-goat from your folds.
+    10: For every beast of the forest is mine, the cattle on a thousand hills.
+    11: I know all the birds of the air, and all that moves in the field is mine.
+    12: "If I were hungry, I would not tell you; for the world and all that is in it is mine.
+    13: Do I eat the flesh of bulls, or drink the blood of goats?
+    14: Offer to God a sacrifice of thanksgiving, and pay your vows to the Most High;
+    15: and call upon me in the day of trouble; I will deliver you, and you shall glorify me."
+    16: But to the wicked God says: "What right have you to recite my statutes, or take my covenant on your lips?
+    17: For you hate discipline, and you cast my words behind you.
+    18: If you see a thief, you are a friend of his; and you keep company with adulterers.
+    19: "You give your mouth free rein for evil, and your tongue frames deceit.
+    20: You sit and speak against your brother; you slander your own mother's son.
+    21: These things you have done and I have been silent; you thought that I was one like yourself. But now I rebuke you, and lay the charge before you.
+    22: "Mark this, then, you who forget God, lest I rend, and there be none to deliver!
+    23: He who brings thanksgiving as his sacrifice honors me; to him who orders his way aright I will show the salvation of God!"
+
+  Chapter 51.
+
+    1: Have mercy on me, O God, according to thy steadfast love; according to thy abundant mercy blot out my transgressions.
+    2: Wash me thoroughly from my iniquity, and cleanse me from my sin!
+    3: For I know my transgressions, and my sin is ever before me.
+    4: Against thee, thee only, have I sinned, and done that which is evil in thy sight, so that thou art justified in thy sentence and blameless in thy judgment.
+    5: Behold, I was brought forth in iniquity, and in sin did my mother conceive me.
+    6: Behold, thou desirest truth in the inward being; therefore teach me wisdom in my secret heart.
+    7: Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow.
+    8: Fill me with joy and gladness; let the bones which thou hast broken rejoice.
+    9: Hide thy face from my sins, and blot out all my iniquities.
+    10: Create in me a clean heart, O God, and put a new and right spirit within me.
+    11: Cast me not away from thy presence, and take not thy holy Spirit from me.
+    12: Restore to me the joy of thy salvation, and uphold me with a willing spirit.
+    13: Then I will teach transgressors thy ways, and sinners will return to thee.
+    14: Deliver me from bloodguiltiness, O God, thou God of my salvation, and my tongue will sing aloud of thy deliverance.
+    15: O Lord, open thou my lips, and my mouth shall show forth thy praise.
+    16: For thou hast no delight in sacrifice; were I to give a burnt offering, thou wouldst not be pleased.
+    17: The sacrifice acceptable to God is a broken spirit; a broken and contrite heart, O God, thou wilt not despise.
+    18: Do good to Zion in thy good pleasure; rebuild the walls of Jerusalem,
+    19: then wilt thou delight in right sacrifices, in burnt offerings and whole burnt offerings; then bulls will be offered on thy altar.
+
+  Chapter 52.
+
+    1: Why do you boast, O mighty man, of mischief done against the godly? All the day
+    2: you are plotting destruction. Your tongue is like a sharp razor, you worker of treachery.
+    3: You love evil more than good, and lying more than speaking the truth. [Selah]
+    4: You love all words that devour, O deceitful tongue.
+    5: But God will break you down for ever; he will snatch and tear you from your tent; he will uproot you from the land of the living. [Selah]
+    6: The righteous shall see, and fear, and shall laugh at him, saying,
+    7: "See the man who would not make God his refuge, but trusted in the abundance of his riches, and sought refuge in his wealth!"
+    8: But I am like a green olive tree in the house of God. I trust in the steadfast love of God for ever and ever.
+    9: I will thank thee for ever, because thou hast done it. I will proclaim thy name, for it is good, in the presence of the godly.
+
+End of day 156.

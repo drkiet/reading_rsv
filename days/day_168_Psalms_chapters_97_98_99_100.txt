@@ -1,0 +1,52 @@
+Day 168:
+
+Reading Psalms, chapters ['97', '98', '99', '100']:
+
+  Chapter 97.
+
+    1: The LORD reigns; let the earth rejoice; let the many coastlands be glad!
+    2: Clouds and thick darkness are round about him; righteousness and justice are the foundation of his throne.
+    3: Fire goes before him, and burns up his adversaries round about.
+    4: His lightnings lighten the world; the earth sees and trembles.
+    5: The mountains melt like wax before the LORD, before the Lord of all the earth.
+    6: The heavens proclaim his righteousness; and all the peoples behold his glory.
+    7: All worshipers of images are put to shame, who make their boast in worthless idols; all gods bow down before him.
+    8: Zion hears and is glad, and the daughters of Judah rejoice, because of thy judgments, O God.
+    9: For thou, O LORD, art most high over all the earth; thou art exalted far above all gods.
+    10: The LORD loves those who hate evil; he preserves the lives of his saints; he delivers them from the hand of the wicked.
+    11: Light dawns for the righteous, and joy for the upright in heart.
+    12: Rejoice in the LORD, O you righteous, and give thanks to his holy name!
+
+  Chapter 98.
+
+    1: O sing to the LORD a new song, for he has done marvelous things! His right hand and his holy arm have gotten him victory.
+    2: The LORD has made known his victory, he has revealed his vindication in the sight of the nations.
+    3: He has remembered his steadfast love and faithfulness to the house of Israel. All the ends of the earth have seen the victory of our God.
+    4: Make a joyful noise to the LORD, all the earth; break forth into joyous song and sing praises!
+    5: Sing praises to the LORD with the lyre, with the lyre and the sound of melody!
+    6: With trumpets and the sound of the horn make a joyful noise before the King, the LORD!
+    7: Let the sea roar, and all that fills it; the world and those who dwell in it!
+    8: Let the floods clap their hands; let the hills sing for joy together
+    9: before the LORD, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity.
+
+  Chapter 99.
+
+    1: The LORD reigns; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!
+    2: The LORD is great in Zion; he is exalted over all the peoples.
+    3: Let them praise thy great and terrible name! Holy is he!
+    4: Mighty King, lover of justice, thou hast established equity; thou hast executed justice and righteousness in Jacob.
+    5: Extol the LORD our God; worship at his footstool! Holy is he!
+    6: Moses and Aaron were among his priests, Samuel also was among those who called on his name. They cried to the LORD, and he answered them.
+    7: He spoke to them in the pillar of cloud; they kept his testimonies, and the statutes that he gave them.
+    8: O LORD our God, thou didst answer them; thou wast a forgiving God to them, but an avenger of their wrongdoings.
+    9: Extol the LORD our God, and worship at his holy mountain; for the LORD our God is holy!
+
+  Chapter 100.
+
+    1: Make a joyful noise to the LORD, all the lands!
+    2: Serve the LORD with gladness! Come into his presence with singing!
+    3: Know that the LORD is God! It is he that made us, and we are his; we are his people, and the sheep of his pasture.
+    4: Enter his gates with thanksgiving, and his courts with praise! Give thanks to him, bless his name!
+    5: For the LORD is good; his steadfast love endures for ever, and his faithfulness to all generations.
+
+End of day 168.

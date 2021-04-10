@@ -1,0 +1,127 @@
+Day 33:
+
+Reading Numbers, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: And the LORD spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,
+    2: "Let the people of Israel keep the passover at its appointed time.
+    3: On the fourteenth day of this month, in the evening, you shall keep it at its appointed time; according to all its statutes and all its ordinances you shall keep it."
+    4: So Moses told the people of Israel that they should keep the passover.
+    5: And they kept the passover in the first month, on the fourteenth day of the month, in the evening, in the wilderness of Sinai; according to all that the LORD commanded Moses, so the people of Israel did.
+    6: And there were certain men who were unclean through touching the dead body of a man, so that they could not keep the passover on that day; and they came before Moses and Aaron on that day;
+    7: and those men said to him, "We are unclean through touching the dead body of a man; why are we kept from offering the LORD's offering at its appointed time among the people of Israel?"
+    8: And Moses said to them, "Wait, that I may hear what the LORD will command concerning you."
+    9: The LORD said to Moses,
+    10: "Say to the people of Israel, If any man of you or of your descendants is unclean through touching a dead body, or is afar off on a journey, he shall still keep the passover to the LORD.
+    11: In the second month on the fourteenth day in the evening they shall keep it; they shall eat it with unleavened bread and bitter herbs.
+    12: They shall leave none of it until the morning, nor break a bone of it; according to all the statute for the passover they shall keep it.
+    13: But the man who is clean and is not on a journey, yet refrains from keeping the passover, that person shall be cut off from his people, because he did not offer the LORD's offering at its appointed time; that man shall bear his sin.
+    14: And if a stranger sojourns among you, and will keep the passover to the LORD, according to the statute of the passover and according to its ordinance, so shall he do; you shall have one statute, both for the sojourner and for the native."
+    15: On the day that the tabernacle was set up, the cloud covered the tabernacle, the tent of the testimony; and at evening it was over the tabernacle like the appearance of fire until morning.
+    16: So it was continually; the cloud covered it by day, and the appearance of fire by night.
+    17: And whenever the cloud was taken up from over the tent, after that the people of Israel set out; and in the place where the cloud settled down, there the people of Israel encamped.
+    18: At the command of the LORD the people of Israel set out, and at the command of the LORD they encamped; as long as the cloud rested over the tabernacle, they remained in camp.
+    19: Even when the cloud continued over the tabernacle many days, the people of Israel kept the charge of the LORD, and did not set out.
+    20: Sometimes the cloud was a few days over the tabernacle, and according to the command of the LORD they remained in camp; then according to the command of the LORD they set out.
+    21: And sometimes the cloud remained from evening until morning; and when the cloud was taken up in the morning, they set out, or if it continued for a day and a night, when the cloud was taken up they set out.
+    22: Whether it was two days, or a month, or a longer time, that the cloud continued over the tabernacle, abiding there, the people of Israel remained in camp and did not set out; but when it was taken up they set out.
+    23: At the command of the LORD they encamped, and at the command of the LORD they set out; they kept the charge of the LORD, at the command of the LORD by Moses.
+
+  Chapter 10.
+
+    1: The LORD said to Moses,
+    2: "Make two silver trumpets; of hammered work you shall make them; and you shall use them for summoning the congregation, and for breaking camp.
+    3: And when both are blown, all the congregation shall gather themselves to you at the entrance of the tent of meeting.
+    4: But if they blow only one, then the leaders, the heads of the tribes of Israel, shall gather themselves to you.
+    5: When you blow an alarm, the camps that are on the east side shall set out.
+    6: And when you blow an alarm the second time, the camps that are on the south side shall set out. An alarm is to be blown whenever they are to set out.
+    7: But when the assembly is to be gathered together, you shall blow, but you shall not sound an alarm.
+    8: And the sons of Aaron, the priests, shall blow the trumpets. The trumpets shall be to you for a perpetual statute throughout your generations.
+    9: And when you go to war in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets, that you may be remembered before the LORD your God, and you shall be saved from your enemies.
+    10: On the day of your gladness also, and at your appointed feasts, and at the beginnings of your months, you shall blow the trumpets over your burnt offerings and over the sacrifices of your peace offerings; they shall serve you for remembrance before your God: I am the LORD your God."
+    11: In the second year, in the second month, on the twentieth day of the month, the cloud was taken up from over the tabernacle of the testimony,
+    12: and the people of Israel set out by stages from the wilderness of Sinai; and the cloud settled down in the wilderness of Paran.
+    13: They set out for the first time at the command of the LORD by Moses.
+    14: The standard of the camp of the men of Judah set out first by their companies; and over their host was Nahshon the son of Ammin'adab.
+    15: And over the host of the tribe of the men of Is'sachar was Nethan'el the son of Zu'ar.
+    16: And over the host of the tribe of the men of Zeb'ulun was Eli'ab the son of Helon.
+    17: And when the tabernacle was taken down, the sons of Gershon and the sons of Merar'i, who carried the tabernacle, set out.
+    18: And the standard of the camp of Reuben set out by their companies; and over their host was Eli'zur the son of Shed'eur.
+    19: And over the host of the tribe of the men of Simeon was Shelu'mi-el the son of Zurishad'dai.
+    20: And over the host of the tribe of the men of Gad was Eli'asaph the son of Deu'el.
+    21: Then the Ko'hathites set out, carrying the holy things, and the tabernacle was set up before their arrival.
+    22: And the standard of the camp of the men of E'phraim set out by their companies; and over their host was Eli'shama the son of Ammi'hud.
+    23: And over the host of the tribe of the men of Manas'seh was Gama'liel the son of Pedah'zur.
+    24: And over the host of the tribe of the men of Benjamin was Abi'dan the son of Gideo'ni.
+    25: Then the standard of the camp of the men of Dan, acting as the rear guard of all the camps, set out by their companies; and over their host was Ahie'zer the son of Ammishad'dai.
+    26: And over the host of the tribe of the men of Asher was Pa'giel the son of Ochran.
+    27: And over the host of the tribe of the men of Naph'tali was Ahi'ra the son of Enan.
+    28: This was the order of march of the people of Israel according to their hosts, when they set out.
+    29: And Moses said to Hobab the son of Reu'el the Mid'ianite, Moses' father-in-law, "We are setting out for the place of which the LORD said, `I will give it to you'; come with us, and we will do you good; for the LORD has promised good to Israel."
+    30: But he said to him, "I will not go; I will depart to my own land and to my kindred."
+    31: And he said, "Do not leave us, I pray you, for you know how we are to encamp in the wilderness, and you will serve as eyes for us.
+    32: And if you go with us, whatever good the LORD will do to us, the same will we do to you."
+    33: So they set out from the mount of the LORD three days' journey; and the ark of the covenant of the LORD went before them three days' journey, to seek out a resting place for them.
+    34: And the cloud of the LORD was over them by day, whenever they set out from the camp.
+    35: And whenever the ark set out, Moses said, "Arise, O LORD, and let thy enemies be scattered; and let them that hate thee flee before thee."
+    36: And when it rested, he said, "Return, O LORD, to the ten thousand thousands of Israel."
+
+  Chapter 11.
+
+    1: And the people complained in the hearing of the LORD about their misfortunes; and when the LORD heard it, his anger was kindled, and the fire of the LORD burned among them, and consumed some outlying parts of the camp.
+    2: Then the people cried to Moses; and Moses prayed to the LORD, and the fire abated.
+    3: So the name of that place was called Tab'erah, because the fire of the LORD burned among them.
+    4: Now the rabble that was among them had a strong craving; and the people of Israel also wept again, and said, "O that we had meat to eat!
+    5: We remember the fish we ate in Egypt for nothing, the cucumbers, the melons, the leeks, the onions, and the garlic;
+    6: but now our strength is dried up, and there is nothing at all but this manna to look at."
+    7: Now the manna was like coriander seed, and its appearance like that of bdellium.
+    8: The people went about and gathered it, and ground it in mills or beat it in mortars, and boiled it in pots, and made cakes of it; and the taste of it was like the taste of cakes baked with oil.
+    9: When the dew fell upon the camp in the night, the manna fell with it.
+    10: Moses heard the people weeping throughout their families, every man at the door of his tent; and the anger of the LORD blazed hotly, and Moses was displeased.
+    11: Moses said to the LORD, "Why hast thou dealt ill with thy servant? And why have I not found favor in thy sight, that thou dost lay the burden of all this people upon me?
+    12: Did I conceive all this people? Did I bring them forth, that thou shouldst say to me, `Carry them in your bosom, as a nurse carries the sucking child, to the land which thou didst swear to give their fathers?'
+    13: Where am I to get meat to give to all this people? For they weep before me and say, `Give us meat, that we may eat.'
+    14: I am not able to carry all this people alone, the burden is too heavy for me.
+    15: If thou wilt deal thus with me, kill me at once, if I find favor in thy sight, that I may not see my wretchedness."
+    16: And the LORD said to Moses, "Gather for me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them; and bring them to the tent of meeting, and let them take their stand there with you.
+    17: And I will come down and talk with you there; and I will take some of the spirit which is upon you and put it upon them; and they shall bear the burden of the people with you, that you may not bear it yourself alone.
+    18: And say to the people, `Consecrate yourselves for tomorrow, and you shall eat meat; for you have wept in the hearing of the LORD, saying, "Who will give us meat to eat? For it was well with us in Egypt." Therefore the LORD will give you meat, and you shall eat.
+    19: You shall not eat one day, or two days, or five days, or ten days, or twenty days,
+    20: but a whole month, until it comes out at your nostrils and becomes loathsome to you, because you have rejected the LORD who is among you, and have wept before him, saying, "Why did we come forth out of Egypt?"'"
+    21: But Moses said, "The people among whom I am number six hundred thousand on foot; and thou hast said, `I will give them meat, that they may eat a whole month!'
+    22: Shall flocks and herds be slaughtered for them, to suffice them? Or shall all the fish of the sea be gathered together for them, to suffice them?"
+    23: And the LORD said to Moses, "Is the LORD's hand shortened? Now you shall see whether my word will come true for you or not."
+    24: So Moses went out and told the people the words of the LORD; and he gathered seventy men of the elders of the people, and placed them round about the tent.
+    25: Then the LORD came down in the cloud and spoke to him, and took some of the spirit that was upon him and put it upon the seventy elders; and when the spirit rested upon them, they prophesied. But they did so no more.
+    26: Now two men remained in the camp, one named Eldad, and the other named Medad, and the spirit rested upon them; they were among those registered, but they had not gone out to the tent, and so they prophesied in the camp.
+    27: And a young man ran and told Moses, "Eldad and Medad are prophesying in the camp."
+    28: And Joshua the son of Nun, the minister of Moses, one of his chosen men, said, "My lord Moses, forbid them."
+    29: But Moses said to him, "Are you jealous for my sake? Would that all the LORD's people were prophets, that the LORD would put his spirit upon them!"
+    30: And Moses and the elders of Israel returned to the camp.
+    31: And there went forth a wind from the LORD, and it brought quails from the sea, and let them fall beside the camp, about a day's journey on this side and a day's journey on the other side, round about the camp, and about two cubits above the face of the earth.
+    32: And the people rose all that day, and all night, and all the next day, and gathered the quails; he who gathered least gathered ten homers; and they spread them out for themselves all around the camp.
+    33: While the meat was yet between their teeth, before it was consumed, the anger of the LORD was kindled against the people, and the LORD smote the people with a very great plague.
+    34: Therefore the name of that place was called Kib'roth-hatta'avah, because there they buried the people who had the craving.
+    35: From Kib'roth-hatta'avah the people journeyed to Haze'roth; and they remained at Haze'roth.
+
+  Chapter 12.
+
+    1: Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman;
+    2: and they said, "Has the LORD indeed spoken only through Moses? Has he not spoken through us also?" And the LORD heard it.
+    3: Now the man Moses was very meek, more than all men that were on the face of the earth.
+    4: And suddenly the LORD said to Moses and to Aaron and Miriam, "Come out, you three, to the tent of meeting." And the three of them came out.
+    5: And the LORD came down in a pillar of cloud, and stood at the door of the tent, and called Aaron and Miriam; and they both came forward.
+    6: And he said, "Hear my words: If there is a prophet among you, I the LORD make myself known to him in a vision, I speak with him in a dream.
+    7: Not so with my servant Moses; he is entrusted with all my house.
+    8: With him I speak mouth to mouth, clearly, and not in dark speech; and he beholds the form of the LORD. Why then were you not afraid to speak against my servant Moses?"
+    9: And the anger of the LORD was kindled against them, and he departed;
+    10: and when the cloud removed from over the tent, behold, Miriam was leprous, as white as snow. And Aaron turned towards Miriam, and behold, she was leprous.
+    11: And Aaron said to Moses, "Oh, my lord, do not punish us because we have done foolishly and have sinned.
+    12: Let her not be as one dead, of whom the flesh is half consumed when he comes out of his mother's womb."
+    13: And Moses cried to the LORD, "Heal her, O God, I beseech thee."
+    14: But the LORD said to Moses, "If her father had but spit in her face, should she not be shamed seven days? Let her be shut up outside the camp seven days, and after that she may be brought in again."
+    15: So Miriam was shut up outside the camp seven days; and the people did not set out on the march till Miriam was brought in again.
+    16: After that the people set out from Haze'roth, and encamped in the wilderness of Paran.
+
+End of day 33.

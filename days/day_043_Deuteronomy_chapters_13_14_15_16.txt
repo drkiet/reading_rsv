@@ -1,0 +1,109 @@
+Day 43:
+
+Reading Deuteronomy, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: "If a prophet arises among you, or a dreamer of dreams, and gives you a sign or a wonder,
+    2: and the sign or wonder which he tells you comes to pass, and if he says, `Let us go after other gods,' which you have not known, `and let us serve them,'
+    3: you shall not listen to the words of that prophet or to that dreamer of dreams; for the LORD your God is testing you, to know whether you love the LORD your God with all your heart and with all your soul.
+    4: You shall walk after the LORD your God and fear him, and keep his commandments and obey his voice, and you shall serve him and cleave to him.
+    5: But that prophet or that dreamer of dreams shall be put to death, because he has taught rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you out of the house of bondage, to make you leave the way in which the LORD your God commanded you to walk. So you shall purge the evil from the midst of you.
+    6: "If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, `Let us go and serve other gods,' which neither you nor your fathers have known,
+    7: some of the gods of the peoples that are round about you, whether near you or far off from you, from the one end of the earth to the other,
+    8: you shall not yield to him or listen to him, nor shall your eye pity him, nor shall you spare him, nor shall you conceal him;
+    9: but you shall kill him; your hand shall be first against him to put him to death, and afterwards the hand of all the people.
+    10: You shall stone him to death with stones, because he sought to draw you away from the LORD your God, who brought you out of the land of Egypt, out of the house of bondage.
+    11: And all Israel shall hear, and fear, and never again do any such wickedness as this among you.
+    12: "If you hear in one of your cities, which the LORD your God gives you to dwell there,
+    13: that certain base fellows have gone out among you and have drawn away the inhabitants of the city, saying, `Let us go and serve other gods,' which you have not known,
+    14: then you shall inquire and make search and ask diligently; and behold, if it be true and certain that such an abominable thing has been done among you,
+    15: you shall surely put the inhabitants of that city to the sword, destroying it utterly, all who are in it and its cattle, with the edge of the sword.
+    16: You shall gather all its spoil into the midst of its open square, and burn the city and all its spoil with fire, as a whole burnt offering to the LORD your God; it shall be a heap for ever, it shall not be built again.
+    17: None of the devoted things shall cleave to your hand; that the LORD may turn from the fierceness of his anger, and show you mercy, and have compassion on you, and multiply you, as he swore to your fathers,
+    18: if you obey the voice of the LORD your God, keeping all his commandments which I command you this day, and doing what is right in the sight of the LORD your God.
+
+  Chapter 14.
+
+    1: "You are the sons of the LORD your God; you shall not cut yourselves or make any baldness on your foreheads for the dead.
+    2: For you are a people holy to the LORD your God, and the LORD has chosen you to be a people for his own possession, out of all the peoples that are on the face of the earth.
+    3: "You shall not eat any abominable thing.
+    4: These are the animals you may eat: the ox, the sheep, the goat,
+    5: the hart, the gazelle, the roebuck, the wild goat, the ibex, the antelope, and the mountain-sheep.
+    6: Every animal that parts the hoof and has the hoof cloven in two, and chews the cud, among the animals, you may eat.
+    7: Yet of those that chew the cud or have the hoof cloven you shall not eat these: the camel, the hare, and the rock badger, because they chew the cud but do not part the hoof, are unclean for you.
+    8: And the swine, because it parts the hoof but does not chew the cud, is unclean for you. Their flesh you shall not eat, and their carcasses you shall not touch.
+    9: "Of all that are in the waters you may eat these: whatever has fins and scales you may eat.
+    10: And whatever does not have fins and scales you shall not eat; it is unclean for you.
+    11: "You may eat all clean birds.
+    12: But these are the ones which you shall not eat: the eagle, the vulture, the osprey,
+    13: the buzzard, the kite, after their kinds;
+    14: every raven after its kind;
+    15: the ostrich, the nighthawk, the sea gull, the hawk, after their kinds;
+    16: the little owl and the great owl, the water hen
+    17: and the pelican, the carrion vulture and the cormorant,
+    18: the stork, the heron, after their kinds; the hoopoe and the bat.
+    19: And all winged insects are unclean for you; they shall not be eaten.
+    20: All clean winged things you may eat.
+    21: "You shall not eat anything that dies of itself; you may give it to the alien who is within your towns, that he may eat it, or you may sell it to a foreigner; for you are a people holy to the LORD your God. "You shall not boil a kid in its mother's milk.
+    22: "You shall tithe all the yield of your seed, which comes forth from the field year by year.
+    23: And before the LORD your God, in the place which he will choose, to make his name dwell there, you shall eat the tithe of your grain, of your wine, and of your oil, and the firstlings of your herd and flock; that you may learn to fear the LORD your God always.
+    24: And if the way is too long for you, so that you are not able to bring the tithe, when the LORD your God blesses you, because the place is too far from you, which the LORD your God chooses, to set his name there,
+    25: then you shall turn it into money, and bind up the money in your hand, and go to the place which the LORD your God chooses,
+    26: and spend the money for whatever you desire, oxen, or sheep, or wine or strong drink, whatever your appetite craves; and you shall eat there before the LORD your God and rejoice, you and your household.
+    27: And you shall not forsake the Levite who is within your towns, for he has no portion or inheritance with you.
+    28: "At the end of every three years you shall bring forth all the tithe of your produce in the same year, and lay it up within your towns;
+    29: and the Levite, because he has no portion or inheritance with you, and the sojourner, the fatherless, and the widow, who are within your towns, shall come and eat and be filled; that the LORD your God may bless you in all the work of your hands that you do.
+
+  Chapter 15.
+
+    1: "At the end of every seven years you shall grant a release.
+    2: And this is the manner of the release: every creditor shall release what he has lent to his neighbor; he shall not exact it of his neighbor, his brother, because the LORD's release has been proclaimed.
+    3: Of a foreigner you may exact it; but whatever of yours is with your brother your hand shall release.
+    4: But there will be no poor among you (for the LORD will bless you in the land which the LORD your God gives you for an inheritance to possess),
+    5: if only you will obey the voice of the LORD your God, being careful to do all this commandment which I command you this day.
+    6: For the LORD your God will bless you, as he promised you, and you shall lend to many nations, but you shall not borrow; and you shall rule over many nations, but they shall not rule over you.
+    7: "If there is among you a poor man, one of your brethren, in any of your towns within your land which the LORD your God gives you, you shall not harden your heart or shut your hand against your poor brother,
+    8: but you shall open your hand to him, and lend him sufficient for his need, whatever it may be.
+    9: Take heed lest there be a base thought in your heart, and you say, `The seventh year, the year of release is near,' and your eye be hostile to your poor brother, and you give him nothing, and he cry to the LORD against you, and it be sin in you.
+    10: You shall give to him freely, and your heart shall not be grudging when you give to him; because for this the LORD your God will bless you in all your work and in all that you undertake.
+    11: For the poor will never cease out of the land; therefore I command you, You shall open wide your hand to your brother, to the needy and to the poor, in the land.
+    12: "If your brother, a Hebrew man, or a Hebrew woman, is sold to you, he shall serve you six years, and in the seventh year you shall let him go free from you.
+    13: And when you let him go free from you, you shall not let him go empty-handed;
+    14: you shall furnish him liberally out of your flock, out of your threshing floor, and out of your wine press; as the LORD your God has blessed you, you shall give to him.
+    15: You shall remember that you were a slave in the land of Egypt, and the LORD your God redeemed you; therefore I command you this today.
+    16: But if he says to you, `I will not go out from you,' because he loves you and your household, since he fares well with you,
+    17: then you shall take an awl, and thrust it through his ear into the door, and he shall be your bondman for ever. And to your bondwoman you shall do likewise.
+    18: It shall not seem hard to you, when you let him go free from you; for at half the cost of a hired servant he has served you six years. So the LORD your God will bless you in all that you do.
+    19: "All the firstling males that are born of your herd and flock you shall consecrate to the LORD your God; you shall do no work with the firstling of your herd, nor shear the firstling of your flock.
+    20: You shall eat it, you and your household, before the LORD your God year by year at the place which the LORD will choose.
+    21: But if it has any blemish, if it is lame or blind, or has any serious blemish whatever, you shall not sacrifice it to the LORD your God.
+    22: You shall eat it within your towns; the unclean and the clean alike may eat it, as though it were a gazelle or a hart.
+    23: Only you shall not eat its blood; you shall pour it out on the ground like water.
+
+  Chapter 16.
+
+    1: "Observe the month of Abib, and keep the passover to the LORD your God; for in the month of Abib the LORD your God brought you out of Egypt by night.
+    2: And you shall offer the passover sacrifice to the LORD your God, from the flock or the herd, at the place which the LORD will choose, to make his name dwell there.
+    3: You shall eat no leavened bread with it; seven days you shall eat it with unleavened bread, the bread of affliction -- for you came out of the land of Egypt in hurried flight -- that all the days of your life you may remember the day when you came out of the land of Egypt.
+    4: No leaven shall be seen with you in all your territory for seven days; nor shall any of the flesh which you sacrifice on the evening of the first day remain all night until morning.
+    5: You may not offer the passover sacrifice within any of your towns which the LORD your God gives you;
+    6: but at the place which the LORD your God will choose, to make his name dwell in it, there you shall offer the passover sacrifice, in the evening at the going down of the sun, at the time you came out of Egypt.
+    7: And you shall boil it and eat it at the place which the LORD your God will choose; and in the morning you shall turn and go to your tents.
+    8: For six days you shall eat unleavened bread; and on the seventh day there shall be a solemn assembly to the LORD your God; you shall do no work on it.
+    9: "You shall count seven weeks; begin to count the seven weeks from the time you first put the sickle to the standing grain.
+    10: Then you shall keep the feast of weeks to the LORD your God with the tribute of a freewill offering from your hand, which you shall give as the LORD your God blesses you;
+    11: and you shall rejoice before the LORD your God, you and your son and your daughter, your manservant and your maidservant, the Levite who is within your towns, the sojourner, the fatherless, and the widow who are among you, at the place which the LORD your God will choose, to make his name dwell there.
+    12: You shall remember that you were a slave in Egypt; and you shall be careful to observe these statutes.
+    13: "You shall keep the feast of booths seven days, when you make your ingathering from your threshing floor and your wine press;
+    14: you shall rejoice in your feast, you and your son and your daughter, your manservant and your maidservant, the Levite, the sojourner, the fatherless, and the widow who are within your towns.
+    15: For seven days you shall keep the feast to the LORD your God at the place which the LORD will choose; because the LORD your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful.
+    16: "Three times a year all your males shall appear before the LORD your God at the place which he will choose: at the feast of unleavened bread, at the feast of weeks, and at the feast of booths. They shall not appear before the LORD empty-handed;
+    17: every man shall give as he is able, according to the blessing of the LORD your God which he has given you.
+    18: "You shall appoint judges and officers in all your towns which the LORD your God gives you, according to your tribes; and they shall judge the people with righteous judgment.
+    19: You shall not pervert justice; you shall not show partiality; and you shall not take a bribe, for a bribe blinds the eyes of the wise and subverts the cause of the righteous.
+    20: Justice, and only justice, you shall follow, that you may live and inherit the land which the LORD your God gives you.
+    21: "You shall not plant any tree as an Ashe'rah beside the altar of the LORD your God which you shall make.
+    22: And you shall not set up a pillar, which the LORD your God hates.
+
+End of day 43.

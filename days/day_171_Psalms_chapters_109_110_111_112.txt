@@ -1,0 +1,75 @@
+Day 171:
+
+Reading Psalms, chapters ['109', '110', '111', '112']:
+
+  Chapter 109.
+
+    1: Be not silent, O God of my praise!
+    2: For wicked and deceitful mouths are opened against me, speaking against me with lying tongues.
+    3: They beset me with words of hate, and attack me without cause.
+    4: In return for my love they accuse me, even as I make prayer for them.
+    5: So they reward me evil for good, and hatred for my love.
+    6: Appoint a wicked man against him; let an accuser bring him to trial.
+    7: When he is tried, let him come forth guilty; let his prayer be counted as sin!
+    8: May his days be few; may another seize his goods!
+    9: May his children be fatherless, and his wife a widow!
+    10: May his children wander about and beg; may they be driven out of the ruins they inhabit!
+    11: May the creditor seize all that he has; may strangers plunder the fruits of his toil!
+    12: Let there be none to extend kindness to him, nor any to pity his fatherless children!
+    13: May his posterity be cut off; may his name be blotted out in the second generation!
+    14: May the iniquity of his fathers be remembered before the LORD, and let not the sin of his mother be blotted out!
+    15: Let them be before the LORD continually; and may his memory be cut off from the earth!
+    16: For he did not remember to show kindness, but pursued the poor and needy and the brokenhearted to their death.
+    17: He loved to curse; let curses come on him! He did not like blessing; may it be far from him!
+    18: He clothed himself with cursing as his coat, may it soak into his body like water, like oil into his bones!
+    19: May it be like a garment which he wraps round him, like a belt with which he daily girds himself!
+    20: May this be the reward of my accusers from the LORD, of those who speak evil against my life!
+    21: But thou, O GOD my Lord, deal on my behalf for thy name's sake; because thy steadfast love is good, deliver me!
+    22: For I am poor and needy, and my heart is stricken within me.
+    23: I am gone, like a shadow at evening; I am shaken off like a locust.
+    24: My knees are weak through fasting; my body has become gaunt.
+    25: I am an object of scorn to my accusers; when they see me, they wag their heads.
+    26: Help me, O LORD my God! Save me according to thy steadfast love!
+    27: Let them know that this is thy hand; thou, O LORD, hast done it!
+    28: Let them curse, but do thou bless! Let my assailants be put to shame; may thy servant be glad!
+    29: May my accusers be clothed with dishonor; may they be wrapped in their own shame as in a mantle!
+    30: With my mouth I will give great thanks to the LORD; I will praise him in the midst of the throng.
+    31: For he stands at the right hand of the needy, to save him from those who condemn him to death.
+
+  Chapter 110.
+
+    1: The LORD says to my lord: "Sit at my right hand, till I make your enemies your footstool."
+    2: The LORD sends forth from Zion your mighty scepter. Rule in the midst of your foes!
+    3: Your people will offer themselves freely on the day you lead your host upon the holy mountains. From the womb of the morning like dew your youth will come to you.
+    4: The LORD has sworn and will not change his mind, "You are a priest for ever after the order of Melchiz'edek."
+    5: The Lord is at your right hand; he will shatter kings on the day of his wrath.
+    6: He will execute judgment among the nations, filling them with corpses; he will shatter chiefs over the wide earth.
+    7: He will drink from the brook by the way; therefore he will lift up his head.
+
+  Chapter 111.
+
+    1: Praise the LORD. I will give thanks to the LORD with my whole heart, in the company of the upright, in the congregation.
+    2: Great are the works of the LORD, studied by all who have pleasure in them.
+    3: Full of honor and majesty is his work, and his righteousness endures for ever.
+    4: He has caused his wonderful works to be remembered; the LORD is gracious and merciful.
+    5: He provides food for those who fear him; he is ever mindful of his covenant.
+    6: He has shown his people the power of his works, in giving them the heritage of the nations.
+    7: The works of his hands are faithful and just; all his precepts are trustworthy,
+    8: they are established for ever and ever, to be performed with faithfulness and uprightness.
+    9: He sent redemption to his people; he has commanded his covenant for ever. Holy and terrible is his name!
+    10: The fear of the LORD is the beginning of wisdom; a good understanding have all those who practice it. His praise endures for ever!
+
+  Chapter 112.
+
+    1: Praise the LORD. Blessed is the man who fears the LORD, who greatly delights in his commandments!
+    2: His descendants will be mighty in the land; the generation of the upright will be blessed.
+    3: Wealth and riches are in his house; and his righteousness endures for ever.
+    4: Light rises in the darkness for the upright; the LORD is gracious, merciful, and righteous.
+    5: It is well with the man who deals generously and lends, who conducts his affairs with justice.
+    6: For the righteous will never be moved; he will be remembered for ever.
+    7: He is not afraid of evil tidings; his heart is firm, trusting in the LORD.
+    8: His heart is steady, he will not be afraid, until he sees his desire on his adversaries.
+    9: He has distributed freely, he has given to the poor; his righteousness endures for ever; his horn is exalted in honor.
+    10: The wicked man sees it and is angry; he gnashes his teeth and melts away; the desire of the wicked man comes to nought.
+
+End of day 171.

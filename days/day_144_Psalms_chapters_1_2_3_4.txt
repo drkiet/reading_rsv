@@ -1,0 +1,51 @@
+Day 144:
+
+Reading Psalms, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;
+    2: but his delight is in the law of the LORD, and on his law he meditates day and night.
+    3: He is like a tree planted by streams of water, that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.
+    4: The wicked are not so, but are like chaff which the wind drives away.
+    5: Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous;
+    6: for the LORD knows the way of the righteous, but the way of the wicked will perish.
+
+  Chapter 2.
+
+    1: Why do the nations conspire, and the peoples plot in vain?
+    2: The kings of the earth set themselves, and the rulers take counsel together, against the LORD and his anointed, saying,
+    3: "Let us burst their bonds asunder, and cast their cords from us."
+    4: He who sits in the heavens laughs; the LORD has them in derision.
+    5: Then he will speak to them in his wrath, and terrify them in his fury, saying,
+    6: "I have set my king on Zion, my holy hill."
+    7: I will tell of the decree of the LORD: He said to me, "You are my son, today I have begotten you.
+    8: Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.
+    9: You shall break them with a rod of iron, and dash them in pieces like a potter's vessel."
+    10: Now therefore, O kings, be wise; be warned, O rulers of the earth.
+    11: Serve the LORD with fear, with trembling
+    12: kiss his feet, lest he be angry, and you perish in the way; for his wrath is quickly kindled. Blessed are all who take refuge in him.
+
+  Chapter 3.
+
+    1: O LORD, how many are my foes! Many are rising against me;
+    2: many are saying of me, there is no help for him in God. [Selah]
+    3: But thou, O LORD, art a shield about me, my glory, and the lifter of my head.
+    4: I cry aloud to the LORD, and he answers me from his holy hill. [Selah]
+    5: I lie down and sleep; I wake again, for the LORD sustains me.
+    6: I am not afraid of ten thousands of people who have set themselves against me round about.
+    7: Arise, O LORD! Deliver me, O my God! For thou dost smite all my enemies on the cheek, thou dost break the teeth of the wicked.
+    8: Deliverance belongs to the LORD; thy blessing be upon thy people! [Selah]
+
+  Chapter 4.
+
+    1: Answer me when I call, O God of my right! Thou hast given me room when I was in distress. Be gracious to me, and hear my prayer.
+    2: O men, how long shall my honor suffer shame? How long will you love vain words, and seek after lies? [Selah]
+    3: But know that the LORD has set apart the godly for himself; the LORD hears when I call to him.
+    4: Be angry, but sin not; commune with your own hearts on your beds, and be silent. [Selah]
+    5: Offer right sacrifices, and put your trust in the LORD.
+    6: There are many who say, "O that we might see some good! Lift up the light of thy countenance upon us, O LORD!"
+    7: Thou hast put more joy in my heart than they have when their grain and wine abound.
+    8: In peace I will both lie down and sleep; for thou alone, O LORD, makest me dwell in safety.
+
+End of day 144.

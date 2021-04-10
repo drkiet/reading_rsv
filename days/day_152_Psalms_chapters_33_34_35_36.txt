@@ -1,0 +1,101 @@
+Day 152:
+
+Reading Psalms, chapters ['33', '34', '35', '36']:
+
+  Chapter 33.
+
+    1: Rejoice in the LORD, O you righteous! Praise befits the upright.
+    2: Praise the LORD with the lyre, make melody to him with the harp of ten strings!
+    3: Sing to him a new song, play skilfully on the strings, with loud shouts.
+    4: For the word of the LORD is upright; and all his work is done in faithfulness.
+    5: He loves righteousness and justice; the earth is full of the steadfast love of the LORD.
+    6: By the word of the LORD the heavens were made, and all their host by the breath of his mouth.
+    7: He gathered the waters of the sea as in a bottle; he put the deeps in storehouses.
+    8: Let all the earth fear the LORD, let all the inhabitants of the world stand in awe of him!
+    9: For he spoke, and it came to be; he commanded, and it stood forth.
+    10: The LORD brings the counsel of the nations to nought; he frustrates the plans of the peoples.
+    11: The counsel of the LORD stands for ever, the thoughts of his heart to all generations.
+    12: Blessed is the nation whose God is the LORD, the people whom he has chosen as his heritage!
+    13: The LORD looks down from heaven, he sees all the sons of men;
+    14: from where he sits enthroned he looks forth on all the inhabitants of the earth,
+    15: he who fashions the hearts of them all, and observes all their deeds.
+    16: A king is not saved by his great army; a warrior is not delivered by his great strength.
+    17: The war horse is a vain hope for victory, and by its great might it cannot save.
+    18: Behold, the eye of the LORD is on those who fear him, on those who hope in his steadfast love,
+    19: that he may deliver their soul from death, and keep them alive in famine.
+    20: Our soul waits for the LORD; he is our help and shield.
+    21: Yea, our heart is glad in him, because we trust in his holy name.
+    22: Let thy steadfast love, O LORD, be upon us, even as we hope in thee.
+
+  Chapter 34.
+
+    1: I will bless the LORD at all times; his praise shall continually be in my mouth.
+    2: My soul makes its boast in the LORD; let the afflicted hear and be glad.
+    3: O magnify the LORD with me, and let us exalt his name together!
+    4: I sought the LORD, and he answered me, and delivered me from all my fears.
+    5: Look to him, and be radiant; so your faces shall never be ashamed.
+    6: This poor man cried, and the LORD heard him, and saved him out of all his troubles.
+    7: The angel of the LORD encamps around those who fear him, and delivers them.
+    8: O taste and see that the LORD is good! Happy is the man who takes refuge in him!
+    9: O fear the LORD, you his saints, for those who fear him have no want!
+    10: The young lions suffer want and hunger; but those who seek the LORD lack no good thing.
+    11: Come, O sons, listen to me, I will teach you the fear of the LORD.
+    12: What man is there who desires life, and covets many days, that he may enjoy good?
+    13: Keep your tongue from evil, and your lips from speaking deceit.
+    14: Depart from evil, and do good; seek peace, and pursue it.
+    15: The eyes of the LORD are toward the righteous, and his ears toward their cry.
+    16: The face of the LORD is against evildoers, to cut off the remembrance of them from the earth.
+    17: When the righteous cry for help, the LORD hears, and delivers them out of all their troubles.
+    18: The LORD is near to the brokenhearted, and saves the crushed in spirit.
+    19: Many are the afflictions of the righteous; but the LORD delivers him out of them all.
+    20: He keeps all his bones; not one of them is broken.
+    21: Evil shall slay the wicked; and those who hate the righteous will be condemned.
+    22: The LORD redeems the life of his servants; none of those who take refuge in him will be condemned.
+
+  Chapter 35.
+
+    1: Contend, O LORD, with those who contend with me; fight against those who fight against me!
+    2: Take hold of shield and buckler, and rise for my help!
+    3: Draw the spear and javelin against my pursuers! Say to my soul, "I am your deliverance!"
+    4: Let them be put to shame and dishonor who seek after my life! Let them be turned back and confounded who devise evil against me!
+    5: Let them be like chaff before the wind, with the angel of the LORD driving them on!
+    6: Let their way be dark and slippery, with the angel of the LORD pursuing them!
+    7: For without cause they hid their net for me; without cause they dug a pit for my life.
+    8: Let ruin come upon them unawares! And let the net which they hid ensnare them; let them fall therein to ruin!
+    9: Then my soul shall rejoice in the LORD, exulting in his deliverance.
+    10: All my bones shall say, "O LORD, who is like thee, thou who deliverest the weak from him who is too strong for him, the weak and needy from him who despoils him?"
+    11: Malicious witnesses rise up; they ask me of things that I know not.
+    12: They requite me evil for good; my soul is forlorn.
+    13: But I, when they were sick -- I wore sackcloth, I afflicted myself with fasting. I prayed with head bowed on my bosom,
+    14: as though I grieved for my friend or my brother; I went about as one who laments his mother, bowed down and in mourning.
+    15: But at my stumbling they gathered in glee, they gathered together against me; cripples whom I knew not slandered me without ceasing;
+    16: they impiously mocked more and more, gnashing at me with their teeth.
+    17: How long, O LORD, wilt thou look on? Rescue me from their ravages, my life from the lions!
+    18: Then I will thank thee in the great congregation; in the mighty throng I will praise thee.
+    19: Let not those rejoice over me who are wrongfully my foes, and let not those wink the eye who hate me without cause.
+    20: For they do not speak peace, but against those who are quiet in the land they conceive words of deceit.
+    21: They open wide their mouths against me; they say, "Aha, Aha! our eyes have seen it!"
+    22: Thou hast seen, O LORD; be not silent! O Lord, be not far from me!
+    23: Bestir thyself, and awake for my right, for my cause, my God and my Lord!
+    24: Vindicate me, O LORD, my God, according to thy righteousness; and let them not rejoice over me!
+    25: Let them not say to themselves, "Aha, we have our heart's desire!" Let them not say, "We have swallowed him up."
+    26: Let them be put to shame and confusion altogether who rejoice at my calamity! Let them be clothed with shame and dishonor who magnify themselves against me!
+    27: Let those who desire my vindication shout for joy and be glad, and say evermore, "Great is the LORD, who delights in the welfare of his servant!"
+    28: Then my tongue shall tell of thy righteousness and of thy praise all the day long.
+
+  Chapter 36.
+
+    1: Transgression speaks to the wicked deep in his heart; there is no fear of God before his eyes.
+    2: For he flatters himself in his own eyes that his iniquity cannot be found out and hated.
+    3: The words of his mouth are mischief and deceit; he has ceased to act wisely and do good.
+    4: He plots mischief while on his bed; he sets himself in a way that is not good; he spurns not evil.
+    5: Thy steadfast love, O LORD, extends to the heavens, thy faithfulness to the clouds.
+    6: Thy righteousness is like the mountains of God, thy judgments are like the great deep; man and beast thou savest, O LORD.
+    7: How precious is thy steadfast love, O God! The children of men take refuge in the shadow of thy wings.
+    8: They feast on the abundance of thy house, and thou givest them drink from the river of thy delights.
+    9: For with thee is the fountain of life; in thy light do we see light.
+    10: O continue thy steadfast love to those who know thee, and thy salvation to the upright of heart!
+    11: Let not the foot of arrogance come upon me, nor the hand of the wicked drive me away.
+    12: There the evildoers lie prostrate, they are thrust down, unable to rise.
+
+End of day 152.

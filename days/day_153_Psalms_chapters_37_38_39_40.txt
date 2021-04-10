@@ -1,0 +1,109 @@
+Day 153:
+
+Reading Psalms, chapters ['37', '38', '39', '40']:
+
+  Chapter 37.
+
+    1: Fret not yourself because of the wicked, be not envious of wrongdoers!
+    2: For they will soon fade like the grass, and wither like the green herb.
+    3: Trust in the LORD, and do good; so you will dwell in the land, and enjoy security.
+    4: Take delight in the LORD, and he will give you the desires of your heart.
+    5: Commit your way to the LORD; trust in him, and he will act.
+    6: He will bring forth your vindication as the light, and your right as the noonday.
+    7: Be still before the LORD, and wait patiently for him; fret not yourself over him who prospers in his way, over the man who carries out evil devices!
+    8: Refrain from anger, and forsake wrath! Fret not yourself; it tends only to evil.
+    9: For the wicked shall be cut off; but those who wait for the LORD shall possess the land.
+    10: Yet a little while, and the wicked will be no more; though you look well at his place, he will not be there.
+    11: But the meek shall possess the land, and delight themselves in abundant prosperity.
+    12: The wicked plots against the righteous, and gnashes his teeth at him;
+    13: but the LORD laughs at the wicked, for he sees that his day is coming.
+    14: The wicked draw the sword and bend their bows, to bring down the poor and needy, to slay those who walk uprightly;
+    15: their sword shall enter their own heart, and their bows shall be broken.
+    16: Better is a little that the righteous has than the abundance of many wicked.
+    17: For the arms of the wicked shall be broken; but the LORD upholds the righteous.
+    18: The LORD knows the days of the blameless, and their heritage will abide for ever;
+    19: they are not put to shame in evil times, in the days of famine they have abundance.
+    20: But the wicked perish; the enemies of the LORD are like the glory of the pastures, they vanish -- like smoke they vanish away.
+    21: The wicked borrows, and cannot pay back, but the righteous is generous and gives;
+    22: for those blessed by the LORD shall possess the land, but those cursed by him shall be cut off.
+    23: The steps of a man are from the LORD, and he establishes him in whose way he delights;
+    24: though he fall, he shall not be cast headlong, for the LORD is the stay of his hand.
+    25: I have been young, and now am old; yet I have not seen the righteous forsaken or his children begging bread.
+    26: He is ever giving liberally and lending, and his children become a blessing.
+    27: Depart from evil, and do good; so shall you abide for ever.
+    28: For the LORD loves justice; he will not forsake his saints. The righteous shall be preserved for ever, but the children of the wicked shall be cut off.
+    29: The righteous shall possess the land, and dwell upon it for ever.
+    30: The mouth of the righteous utters wisdom, and his tongue speaks justice.
+    31: The law of his God is in his heart; his steps do not slip.
+    32: The wicked watches the righteous, and seeks to slay him.
+    33: The LORD will not abandon him to his power, or let him be condemned when he is brought to trial.
+    34: Wait for the LORD, and keep to his way, and he will exalt you to possess the land; you will look on the destruction of the wicked.
+    35: I have seen a wicked man overbearing, and towering like a cedar of Lebanon.
+    36: Again I passed by, and, lo, he was no more; though I sought him, he could not be found.
+    37: Mark the blameless man, and behold the upright, for there is posterity for the man of peace.
+    38: But transgressors shall be altogether destroyed; the posterity of the wicked shall be cut off.
+    39: The salvation of the righteous is from the LORD; he is their refuge in the time of trouble.
+    40: The LORD helps them and delivers them; he delivers them from the wicked, and saves them, because they take refuge in him.
+
+  Chapter 38.
+
+    1: O LORD, rebuke me not in thy anger, nor chasten me in thy wrath!
+    2: For thy arrows have sunk into me, and thy hand has come down on me.
+    3: There is no soundness in my flesh because of thy indignation; there is no health in my bones because of my sin.
+    4: For my iniquities have gone over my head; they weigh like a burden too heavy for me.
+    5: My wounds grow foul and fester because of my foolishness,
+    6: I am utterly bowed down and prostrate; all the day I go about mourning.
+    7: For my loins are filled with burning, and there is no soundness in my flesh.
+    8: I am utterly spent and crushed; I groan because of the tumult of my heart.
+    9: Lord, all my longing is known to thee, my sighing is not hidden from thee.
+    10: My heart throbs, my strength fails me; and the light of my eyes -- it also has gone from me.
+    11: My friends and companions stand aloof from my plague, and my kinsmen stand afar off.
+    12: Those who seek my life lay their snares, those who seek my hurt speak of ruin, and meditate treachery all the day long.
+    13: But I am like a deaf man, I do not hear, like a dumb man who does not open his mouth.
+    14: Yea, I am like a man who does not hear, and in whose mouth are no rebukes.
+    15: But for thee, O LORD, do I wait; it is thou, O LORD my God, who wilt answer.
+    16: For I pray, "Only let them not rejoice over me, who boast against me when my foot slips!"
+    17: For I am ready to fall, and my pain is ever with me.
+    18: I confess my iniquity, I am sorry for my sin.
+    19: Those who are my foes without cause are mighty, and many are those who hate me wrongfully.
+    20: Those who render me evil for good are my adversaries because I follow after good.
+    21: Do not forsake me, O LORD! O my God, be not far from me!
+    22: Make haste to help me, O Lord, my salvation!
+
+  Chapter 39.
+
+    1: I said, "I will guard my ways, that I may not sin with my tongue; I will bridle my mouth, so long as the wicked are in my presence."
+    2: I was dumb and silent, I held my peace to no avail; my distress grew worse,
+    3: my heart became hot within me. As I mused, the fire burned; then I spoke with my tongue:
+    4: "LORD, let me know my end, and what is the measure of my days; let me know how fleeting my life is!
+    5: Behold, thou hast made my days a few handbreadths, and my lifetime is as nothing in thy sight. Surely every man stands as a mere breath! [Selah]
+    6: Surely man goes about as a shadow! Surely for nought are they in turmoil; man heaps up, and knows not who will gather!
+    7: "And now, Lord, for what do I wait? My hope is in thee.
+    8: Deliver me from all my transgressions. Make me not the scorn of the fool!
+    9: I am dumb, I do not open my mouth; for it is thou who hast done it.
+    10: Remove thy stroke from me; I am spent by the blows of thy hand.
+    11: When thou dost chasten man with rebukes for sin, thou dost consume like a moth what is dear to him; surely every man is a mere breath! [Selah]
+    12: "Hear my prayer, O LORD, and give ear to my cry; hold not thy peace at my tears! For I am thy passing guest, a sojourner, like all my fathers.
+    13: Look away from me, that I may know gladness, before I depart and be no more!"
+
+  Chapter 40.
+
+    1: I waited patiently for the LORD; he inclined to me and heard my cry.
+    2: He drew me up from the desolate pit, out of the miry bog, and set my feet upon a rock, making my steps secure.
+    3: He put a new song in my mouth, a song of praise to our God. Many will see and fear, and put their trust in the LORD.
+    4: Blessed is the man who makes the LORD his trust, who does not turn to the proud, to those who go astray after false gods!
+    5: Thou hast multiplied, O LORD my God, thy wondrous deeds and thy thoughts toward us; none can compare with thee! Were I to proclaim and tell of them, they would be more than can be numbered.
+    6: Sacrifice and offering thou dost not desire; but thou hast given me an open ear. Burnt offering and sin offering thou hast not required.
+    7: Then I said, "Lo, I come; in the roll of the book it is written of me;
+    8: I delight to do thy will, O my God; thy law is within my heart."
+    9: I have told the glad news of deliverance in the great congregation; lo, I have not restrained my lips, as thou knowest, O LORD.
+    10: I have not hid thy saving help within my heart, I have spoken of thy faithfulness and thy salvation; I have not concealed thy steadfast love and thy faithfulness from the great congregation.
+    11: Do not thou, O LORD, withhold thy mercy from me, let thy steadfast love and thy faithfulness ever preserve me!
+    12: For evils have encompassed me without number; my iniquities have overtaken me, till I cannot see; they are more than the hairs of my head; my heart fails me.
+    13: Be pleased, O LORD, to deliver me! O LORD, make haste to help me!
+    14: Let them be put to shame and confusion altogether who seek to snatch away my life; let them be turned back and brought to dishonor who desire my hurt!
+    15: Let them be appalled because of their shame who say to me, "Aha, Aha!"
+    16: But may all who seek thee rejoice and be glad in thee; may those who love thy salvation say continually, "Great is the LORD!"
+    17: As for me, I am poor and needy; but the Lord takes thought for me. Thou art my help and my deliverer; do not tarry, O my God!
+
+End of day 153.

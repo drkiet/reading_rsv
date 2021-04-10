@@ -1,0 +1,138 @@
+Day 183:
+
+Reading Proverbs, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: My son, be attentive to my wisdom, incline your ear to my understanding;
+    2: that you may keep discretion, and your lips may guard knowledge.
+    3: For the lips of a loose woman drip honey, and her speech is smoother than oil;
+    4: but in the end she is bitter as wormwood, sharp as a two-edged sword.
+    5: Her feet go down to death; her steps follow the path to Sheol;
+    6: she does not take heed to the path of life; her ways wander, and she does not know it.
+    7: And now, O sons, listen to me, and do not depart from the words of my mouth.
+    8: Keep your way far from her, and do not go near the door of her house;
+    9: lest you give your honor to others and your years to the merciless;
+    10: lest strangers take their fill of your strength, and your labors go to the house of an alien;
+    11: and at the end of your life you groan, when your flesh and body are consumed,
+    12: and you say, "How I hated discipline, and my heart despised reproof!
+    13: I did not listen to the voice of my teachers or incline my ear to my instructors.
+    14: I was at the point of utter ruin in the assembled congregation."
+    15: Drink water from your own cistern, flowing water from your own well.
+    16: Should your springs be scattered abroad, streams of water in the streets?
+    17: Let them be for yourself alone, and not for strangers with you.
+    18: Let your fountain be blessed, and rejoice in the wife of your youth,
+    19: a lovely hind, a graceful doe. Let her affection fill you at all times with delight, be infatuated always with her love.
+    20: Why should you be infatuated, my son, with a loose woman and embrace the bosom of an adventuress?
+    21: For a man's ways are before the eyes of the LORD, and he watches all his paths.
+    22: The iniquities of the wicked ensnare him, and he is caught in the toils of his sin.
+    23: He dies for lack of discipline, and because of his great folly he is lost.
+
+  Chapter 6.
+
+    1: My son, if you have become surety for your neighbor, have given your pledge for a stranger;
+    2: if you are snared in the utterance of your lips, caught in the words of your mouth;
+    3: then do this, my son, and save yourself, for you have come into your neighbor's power: go, hasten, and importune your neighbor.
+    4: Give your eyes no sleep and your eyelids no slumber;
+    5: save yourself like a gazelle from the hunter, like a bird from the hand of the fowler.
+    6: Go to the ant, O sluggard; consider her ways, and be wise.
+    7: Without having any chief, officer or ruler,
+    8: she prepares her food in summer, and gathers her sustenance in harvest.
+    9: How long will you lie there, O sluggard? When will you arise from your sleep?
+    10: A little sleep, a little slumber, a little folding of the hands to rest,
+    11: and poverty will come upon you like a vagabond, and want like an armed man.
+    12: A worthless person, a wicked man, goes about with crooked speech,
+    13: winks with his eyes, scrapes with his feet, points with his finger,
+    14: with perverted heart devises evil, continually sowing discord;
+    15: therefore calamity will come upon him suddenly; in a moment he will be broken beyond healing.
+    16: There are six things which the LORD hates, seven which are an abomination to him:
+    17: haughty eyes, a lying tongue, and hands that shed innocent blood,
+    18: a heart that devises wicked plans, feet that make haste to run to evil,
+    19: a false witness who breathes out lies, and a man who sows discord among brothers.
+    20: My son, keep your father's commandment, and forsake not your mother's teaching.
+    21: Bind them upon your heart always; tie them about your neck.
+    22: When you walk, they will lead you; when you lie down, they will watch over you; and when you awake, they will talk with you.
+    23: For the commandment is a lamp and the teaching a light, and the reproofs of discipline are the way of life,
+    24: to preserve you from the evil woman, from the smooth tongue of the adventuress.
+    25: Do not desire her beauty in your heart, and do not let her capture you with her eyelashes;
+    26: for a harlot may be hired for a loaf of bread, but an adulteress stalks a man's very life.
+    27: Can a man carry fire in his bosom and his clothes not be burned?
+    28: Or can one walk upon hot coals and his feet not be scorched?
+    29: So is he who goes in to his neighbor's wife; none who touches her will go unpunished.
+    30: Do not men despise a thief if he steals to satisfy his appetite when he is hungry?
+    31: And if he is caught, he will pay sevenfold; he will give all the goods of his house.
+    32: He who commits adultery has no sense; he who does it destroys himself.
+    33: Wounds and dishonor will he get, and his disgrace will not be wiped away.
+    34: For jealousy makes a man furious, and he will not spare when he takes revenge.
+    35: He will accept no compensation, nor be appeased though you multiply gifts.
+
+  Chapter 7.
+
+    1: My son, keep my words and treasure up my commandments with you;
+    2: keep my commandments and live, keep my teachings as the apple of your eye;
+    3: bind them on your fingers, write them on the tablet of your heart.
+    4: Say to wisdom, "You are my sister," and call insight your intimate friend;
+    5: to preserve you from the loose woman, from the adventuress with her smooth words.
+    6: For at the window of my house I have looked out through my lattice,
+    7: and I have seen among the simple, I have perceived among the youths, a young man without sense,
+    8: passing along the street near her corner, taking the road to her house
+    9: in the twilight, in the evening, at the time of night and darkness.
+    10: And lo, a woman meets him, dressed as a harlot, wily of heart.
+    11: She is loud and wayward, her feet do not stay at home;
+    12: now in the street, now in the market, and at every corner she lies in wait.
+    13: She seizes him and kisses him, and with impudent face she says to him:
+    14: "I had to offer sacrifices, and today I have paid my vows;
+    15: so now I have come out to meet you, to seek you eagerly, and I have found you.
+    16: I have decked my couch with coverings, colored spreads of Egyptian linen;
+    17: I have perfumed my bed with myrrh, aloes, and cinnamon.
+    18: Come, let us take our fill of love till morning; let us delight ourselves with love.
+    19: For my husband is not at home; he has gone on a long journey;
+    20: he took a bag of money with him; at full moon he will come home."
+    21: With much seductive speech she persuades him; with her smooth talk she compels him.
+    22: All at once he follows her, as an ox goes to the slaughter, or as a stag is caught fast
+    23: till an arrow pierces its entrails; as a bird rushes into a snare; he does not know that it will cost him his life.
+    24: And now, O sons, listen to me, and be attentive to the words of my mouth.
+    25: Let not your heart turn aside to her ways, do not stray into her paths;
+    26: for many a victim has she laid low; yea, all her slain are a mighty host.
+    27: Her house is the way to Sheol, going down to the chambers of death.
+
+  Chapter 8.
+
+    1: Does not wisdom call, does not understanding raise her voice?
+    2: On the heights beside the way, in the paths she takes her stand;
+    3: beside the gates in front of the town, at the entrance of the portals she cries aloud:
+    4: "To you, O men, I call, and my cry is to the sons of men.
+    5: O simple ones, learn prudence; O foolish men, pay attention.
+    6: Hear, for I will speak noble things, and from my lips will come what is right;
+    7: for my mouth will utter truth; wickedness is an abomination to my lips.
+    8: All the words of my mouth are righteous; there is nothing twisted or crooked in them.
+    9: They are all straight to him who understands and right to those who find knowledge.
+    10: Take my instruction instead of silver, and knowledge rather than choice gold;
+    11: for wisdom is better than jewels, and all that you may desire cannot compare with her.
+    12: I, wisdom, dwell in prudence, and I find knowledge and discretion.
+    13: The fear of the LORD is hatred of evil. Pride and arrogance and the way of evil and perverted speech I hate.
+    14: I have counsel and sound wisdom, I have insight, I have strength.
+    15: By me kings reign, and rulers decree what is just;
+    16: by me princes rule, and nobles govern the earth.
+    17: I love those who love me, and those who seek me diligently find me.
+    18: Riches and honor are with me, enduring wealth and prosperity.
+    19: My fruit is better than gold, even fine gold, and my yield than choice silver.
+    20: I walk in the way of righteousness, in the paths of justice,
+    21: endowing with wealth those who love me, and filling their treasuries.
+    22: The LORD created me at the beginning of his work, the first of his acts of old.
+    23: Ages ago I was set up, at the first, before the beginning of the earth.
+    24: When there were no depths I was brought forth, when there were no springs abounding with water.
+    25: Before the mountains had been shaped, before the hills, I was brought forth;
+    26: before he had made the earth with its fields, or the first of the dust of the world.
+    27: When he established the heavens, I was there, when he drew a circle on the face of the deep,
+    28: when he made firm the skies above, when he established the fountains of the deep,
+    29: when he assigned to the sea its limit, so that the waters might not transgress his command, when he marked out the foundations of the earth,
+    30: then I was beside him, like a master workman; and I was daily his delight, rejoicing before him always,
+    31: rejoicing in his inhabited world and delighting in the sons of men.
+    32: And now, my sons, listen to me: happy are those who keep my ways.
+    33: Hear instruction and be wise, and do not neglect it.
+    34: Happy is the man who listens to me, watching daily at my gates, waiting beside my doors.
+    35: For he who finds me finds life and obtains favor from the LORD;
+    36: but he who misses me injures himself; all who hate me love death."
+
+End of day 183.

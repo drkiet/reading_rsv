@@ -1,0 +1,191 @@
+Day 299:
+
+Reading Luke, chapters ['17', '18', '19', '20']:
+
+  Chapter 17.
+
+    1: And he said to his disciples, "Temptations to sin are sure to come; but woe to him by whom they come!
+    2: It would be better for him if a millstone were hung round his neck and he were cast into the sea, than that he should cause one of these little ones to sin.
+    3: Take heed to yourselves; if your brother sins, rebuke him, and if he repents, forgive him;
+    4: and if he sins against you seven times in the day, and turns to you seven times, and says, `I repent,' you must forgive him."
+    5: The apostles said to the Lord, "Increase our faith!"
+    6: And the Lord said, "If you had faith as a grain of mustard seed, you could say to this sycamine tree, `Be rooted up, and be planted in the sea,' and it would obey you.
+    7: "Will any one of you, who has a servant plowing or keeping sheep, say to him when he has come in from the field, `Come at once and sit down at table'?
+    8: Will he not rather say to him, `Prepare supper for me, and gird yourself and serve me, till I eat and drink; and afterward you shall eat and drink'?
+    9: Does he thank the servant because he did what was commanded?
+    10: So you also, when you have done all that is commanded you, say, `We are unworthy servants; we have only done what was our duty.'"
+    11: On the way to Jerusalem he was passing along between Sama'ria and Galilee.
+    12: And as he entered a village, he was met by ten lepers, who stood at a distance
+    13: and lifted up their voices and said, "Jesus, Master, have mercy on us."
+    14: When he saw them he said to them, "Go and show yourselves to the priests." And as they went they were cleansed.
+    15: Then one of them, when he saw that he was healed, turned back, praising God with a loud voice;
+    16: and he fell on his face at Jesus' feet, giving him thanks. Now he was a Samaritan.
+    17: Then said Jesus, "Were not ten cleansed? Where are the nine?
+    18: Was no one found to return and give praise to God except this foreigner?"
+    19: And he said to him, "Rise and go your way; your faith has made you well."
+    20: Being asked by the Pharisees when the kingdom of God was coming, he answered them, "The kingdom of God is not coming with signs to be observed;
+    21: nor will they say, `Lo, here it is!' or `There!' for behold, the kingdom of God is in the midst of you."
+    22: And he said to the disciples, "The days are coming when you will desire to see one of the days of the Son of man, and you will not see it.
+    23: And they will say to you, `Lo, there!' or `Lo, here!' Do not go, do not follow them.
+    24: For as the lightning flashes and lights up the sky from one side to the other, so will the Son of man be in his day.
+    25: But first he must suffer many things and be rejected by this generation.
+    26: As it was in the days of Noah, so will it be in the days of the Son of man.
+    27: They ate, they drank, they married, they were given in marriage, until the day when Noah entered the ark, and the flood came and destroyed them all.
+    28: Likewise as it was in the days of Lot -- they ate, they drank, they bought, they sold, they planted, they built,
+    29: but on the day when Lot went out from Sodom fire and sulphur rained from heaven and destroyed them all --
+    30: so will it be on the day when the Son of man is revealed.
+    31: On that day, let him who is on the housetop, with his goods in the house, not come down to take them away; and likewise let him who is in the field not turn back.
+    32: Remember Lot's wife.
+    33: Whoever seeks to gain his life will lose it, but whoever loses his life will preserve it.
+    34: I tell you, in that night there will be two in one bed; one will be taken and the other left.
+    35: There will be two women grinding together; one will be taken and the other left."
+    36: And they said to him, "Where, Lord?" He said to them, "Where the body is, there the eagles will be gathered together."
+
+  Chapter 18.
+
+    1: And he told them a parable, to the effect that they ought always to pray and not lose heart.
+    2: He said, "In a certain city there was a judge who neither feared God nor regarded man;
+    3: and there was a widow in that city who kept coming to him and saying, `Vindicate me against my adversary.'
+    4: For a while he refused; but afterward he said to himself, `Though I neither fear God nor regard man,
+    5: yet because this widow bothers me, I will vindicate her, or she will wear me out by her continual coming.'"
+    6: And the Lord said, "Hear what the unrighteous judge says.
+    7: And will not God vindicate his elect, who cry to him day and night? Will he delay long over them?
+    8: I tell you, he will vindicate them speedily. Nevertheless, when the Son of man comes, will he find faith on earth?"
+    9: He also told this parable to some who trusted in themselves that they were righteous and despised others:
+    10: "Two men went up into the temple to pray, one a Pharisee and the other a tax collector.
+    11: The Pharisee stood and prayed thus with himself, `God, I thank thee that I am not like other men, extortioners, unjust, adulterers, or even like this tax collector.
+    12: I fast twice a week, I give tithes of all that I get.'
+    13: But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, `God, be merciful to me a sinner!'
+    14: I tell you, this man went down to his house justified rather than the other; for every one who exalts himself will be humbled, but he who humbles himself will be exalted."
+    15: Now they were bringing even infants to him that he might touch them; and when the disciples saw it, they rebuked them.
+    16: But Jesus called them to him, saying, "Let the children come to me, and do not hinder them; for to such belongs the kingdom of God.
+    17: Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it."
+    18: And a ruler asked him, "Good Teacher, what shall I do to inherit eternal life?"
+    19: And Jesus said to him, "Why do you call me good? No one is good but God alone.
+    20: You know the commandments: `Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honor your father and mother.'"
+    21: And he said, "All these I have observed from my youth."
+    22: And when Jesus heard it, he said to him, "One thing you still lack. Sell all that you have and distribute to the poor, and you will have treasure in heaven; and come, follow me."
+    23: But when he heard this he became sad, for he was very rich.
+    24: Jesus looking at him said, "How hard it is for those who have riches to enter the kingdom of God!
+    25: For it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God."
+    26: Those who heard it said, "Then who can be saved?"
+    27: But he said, "What is impossible with men is possible with God."
+    28: And Peter said, "Lo, we have left our homes and followed you."
+    29: And he said to them, "Truly, I say to you, there is no man who has left house or wife or brothers or parents or children, for the sake of the kingdom of God,
+    30: who will not receive manifold more in this time, and in the age to come eternal life."
+    31: And taking the twelve, he said to them, "Behold, we are going up to Jerusalem, and everything that is written of the Son of man by the prophets will be accomplished.
+    32: For he will be delivered to the Gentiles, and will be mocked and shamefully treated and spit upon;
+    33: they will scourge him and kill him, and on the third day he will rise."
+    34: But they understood none of these things; this saying was hid from them, and they did not grasp what was said.
+    35: As he drew near to Jericho, a blind man was sitting by the roadside begging;
+    36: and hearing a multitude going by, he inquired what this meant.
+    37: They told him, "Jesus of Nazareth is passing by."
+    38: And he cried, "Jesus, Son of David, have mercy on me!"
+    39: And those who were in front rebuked him, telling him to be silent; but he cried out all the more, "Son of David, have mercy on me!"
+    40: And Jesus stopped, and commanded him to be brought to him; and when he came near, he asked him,
+    41: "What do you want me to do for you?" He said, "Lord, let me receive my sight."
+    42: And Jesus said to him, "Receive your sight; your faith has made you well."
+    43: And immediately he received his sight and followed him, glorifying God; and all the people, when they saw it, gave praise to God.
+
+  Chapter 19.
+
+    1: He entered Jericho and was passing through.
+    2: And there was a man named Zacchae'us; he was a chief tax collector, and rich.
+    3: And he sought to see who Jesus was, but could not, on account of the crowd, because he was small of stature.
+    4: So he ran on ahead and climbed up into a sycamore tree to see him, for he was to pass that way.
+    5: And when Jesus came to the place, he looked up and said to him, "Zacchae'us, make haste and come down; for I must stay at your house today."
+    6: So he made haste and came down, and received him joyfully.
+    7: And when they saw it they all murmured, "He has gone in to be the guest of a man who is a sinner."
+    8: And Zacchae'us stood and said to the Lord, "Behold, Lord, the half of my goods I give to the poor; and if I have defrauded any one of anything, I restore it fourfold."
+    9: And Jesus said to him, "Today salvation has come to this house, since he also is a son of Abraham.
+    10: For the Son of man came to seek and to save the lost."
+    11: As they heard these things, he proceeded to tell a parable, because he was near to Jerusalem, and because they supposed that the kingdom of God was to appear immediately.
+    12: He said therefore, "A nobleman went into a far country to receive a kingdom and then return.
+    13: Calling ten of his servants, he gave them ten pounds, and said to them, `Trade with these till I come.'
+    14: But his citizens hated him and sent an embassy after him, saying, `We do not want this man to reign over us.'
+    15: When he returned, having received the kingdom, he commanded these servants, to whom he had given the money, to be called to him, that he might know what they had gained by trading.
+    16: The first came before him, saying, `Lord, your pound has made ten pounds more.'
+    17: And he said to him, `Well done, good servant! Because you have been faithful in a very little, you shall have authority over ten cities.'
+    18: And the second came, saying, `Lord, your pound has made five pounds.'
+    19: And he said to him, `And you are to be over five cities.'
+    20: Then another came, saying, `Lord, here is your pound, which I kept laid away in a napkin;
+    21: for I was afraid of you, because you are a severe man; you take up what you did not lay down, and reap what you did not sow.'
+    22: He said to him, `I will condemn you out of your own mouth, you wicked servant! You knew that I was a severe man, taking up what I did not lay down and reaping what I did not sow?
+    23: Why then did you not put my money into the bank, and at my coming I should have collected it with interest?'
+    24: And he said to those who stood by, `Take the pound from him, and give it to him who has the ten pounds.'
+    25: (And they said to him, `Lord, he has ten pounds!')
+    26: `I tell you, that to every one who has will more be given; but from him who has not, even what he has will be taken away.
+    27: But as for these enemies of mine, who did not want me to reign over them, bring them here and slay them before me.'"
+    28: And when he had said this, he went on ahead, going up to Jerusalem.
+    29: When he drew near to Beth'phage and Bethany, at the mount that is called Olivet, he sent two of the disciples,
+    30: saying, "Go into the village opposite, where on entering you will find a colt tied, on which no one has ever yet sat; untie it and bring it here.
+    31: If any one asks you, `Why are you untying it?' you shall say this, `The Lord has need of it.'"
+    32: So those who were sent went away and found it as he had told them.
+    33: And as they were untying the colt, its owners said to them, "Why are you untying the colt?"
+    34: And they said, "The Lord has need of it."
+    35: And they brought it to Jesus, and throwing their garments on the colt they set Jesus upon it.
+    36: And as he rode along, they spread their garments on the road.
+    37: As he was now drawing near, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen,
+    38: saying, "Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!"
+    39: And some of the Pharisees in the multitude said to him, "Teacher, rebuke your disciples."
+    40: He answered, "I tell you, if these were silent, the very stones would cry out."
+    41: And when he drew near and saw the city he wept over it,
+    42: saying, "Would that even today you knew the things that make for peace! But now they are hid from your eyes.
+    43: For the days shall come upon you, when your enemies will cast up a bank about you and surround you, and hem you in on every side,
+    44: and dash you to the ground, you and your children within you, and they will not leave one stone upon another in you; because you did not know the time of your visitation."
+    45: And he entered the temple and began to drive out those who sold,
+    46: saying to them, "It is written, `My house shall be a house of prayer'; but you have made it a den of robbers."
+    47: And he was teaching daily in the temple. The chief priests and the scribes and the principal men of the people sought to destroy him;
+    48: but they did not find anything they could do, for all the people hung upon his words.
+
+  Chapter 20.
+
+    1: One day, as he was teaching the people in the temple and preaching the gospel, the chief priests and the scribes with the elders came up
+    2: and said to him, "Tell us by what authority you do these things, or who it is that gave you this authority."
+    3: He answered them, "I also will ask you a question; now tell me,
+    4: Was the baptism of John from heaven or from men?"
+    5: And they discussed it with one another, saying, "If we say, `From heaven,' he will say, `Why did you not believe him?'
+    6: But if we say, `From men,' all the people will stone us; for they are convinced that John was a prophet."
+    7: So they answered that they did not know whence it was.
+    8: And Jesus said to them, "Neither will I tell you by what authority I do these things."
+    9: And he began to tell the people this parable: "A man planted a vineyard, and let it out to tenants, and went into another country for a long while.
+    10: When the time came, he sent a servant to the tenants, that they should give him some of the fruit of the vineyard; but the tenants beat him, and sent him away empty-handed.
+    11: And he sent another servant; him also they beat and treated shamefully, and sent him away empty-handed.
+    12: And he sent yet a third; this one they wounded and cast out.
+    13: Then the owner of the vineyard said, `What shall I do? I will send my beloved son; it may be they will respect him.'
+    14: But when the tenants saw him, they said to themselves, `This is the heir; let us kill him, that the inheritance may be ours.'
+    15: And they cast him out of the vineyard and killed him. What then will the owner of the vineyard do to them?
+    16: He will come and destroy those tenants, and give the vineyard to others." When they heard this, they said, "God forbid!"
+    17: But he looked at them and said, "What then is this that is written: `The very stone which the builders rejected has become the head of the corner'?
+    18: Every one who falls on that stone will be broken to pieces; but when it falls on any one it will crush him."
+    19: The scribes and the chief priests tried to lay hands on him at that very hour, but they feared the people; for they perceived that he had told this parable against them.
+    20: So they watched him, and sent spies, who pretended to be sincere, that they might take hold of what he said, so as to deliver him up to the authority and jurisdiction of the governor.
+    21: They asked him, "Teacher, we know that you speak and teach rightly, and show no partiality, but truly teach the way of God.
+    22: Is it lawful for us to give tribute to Caesar, or not?"
+    23: But he perceived their craftiness, and said to them,
+    24: "Show me a coin. Whose likeness and inscription has it?" They said, "Caesar's."
+    25: He said to them, "Then render to Caesar the things that are Caesar's, and to God the things that are God's."
+    26: And they were not able in the presence of the people to catch him by what he said; but marveling at his answer they were silent.
+    27: There came to him some Sadducees, those who say that there is no resurrection,
+    28: and they asked him a question, saying, "Teacher, Moses wrote for us that if a man's brother dies, having a wife but no children, the man must take the wife and raise up children for his brother.
+    29: Now there were seven brothers; the first took a wife, and died without children;
+    30: and the second
+    31: and the third took her, and likewise all seven left no children and died.
+    32: Afterward the woman also died.
+    33: In the resurrection, therefore, whose wife will the woman be? For the seven had her as wife."
+    34: And Jesus said to them, "The sons of this age marry and are given in marriage;
+    35: but those who are accounted worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage,
+    36: for they cannot die any more, because they are equal to angels and are sons of God, being sons of the resurrection.
+    37: But that the dead are raised, even Moses showed, in the passage about the bush, where he calls the Lord the God of Abraham and the God of Isaac and the God of Jacob.
+    38: Now he is not God of the dead, but of the living; for all live to him."
+    39: And some of the scribes answered, "Teacher, you have spoken well."
+    40: For they no longer dared to ask him any question.
+    41: But he said to them, "How can they say that the Christ is David's son?
+    42: For David himself says in the Book of Psalms, `The Lord said to my Lord, Sit at my right hand,
+    43: till I make thy enemies a stool for thy feet.'
+    44: David thus calls him Lord; so how is he his son?"
+    45: And in the hearing of all the people he said to his disciples,
+    46: "Beware of the scribes, who like to go about in long robes, and love salutations in the market places and the best seats in the synagogues and the places of honor at feasts,
+    47: who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation."
+
+End of day 299.

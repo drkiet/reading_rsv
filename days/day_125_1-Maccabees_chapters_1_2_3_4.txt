@@ -1,0 +1,272 @@
+Day 125:
+
+Reading 1-Maccabees, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: After Alexander son of Philip, the Macedonian, who came from the land of Kittim, had defeated Darius, king of the Persians and the Medes, he succeeded him as king. (He had previously become king of Greece.)
+    2: He fought many battles, conquered strongholds, and put to death the kings of the earth.
+    3: He advanced to the ends of the earth, and plundered many nations. When the earth became quiet before him, he was exalted, and his heart was lifted up.
+    4: He gathered a very strong army and ruled over countries, nations, and princes, and they became tributary to him.
+    5: After this he fell sick and perceived that he was dying.
+    6: So he summoned his most honored officers, who had been brought up with him from youth, and divided his kingdom among them while he was still alive.
+    7: And after Alexander had reigned twelve years, he died.
+    8: Then his officers began to rule, each in his own place.
+    9: They all put on crowns after his death, and so did their sons after them for many years; and they caused many evils on the earth.
+    10: From them came forth a sinful root, Antiochus Epiphanes, son of Antiochus the king; he had been a hostage in Rome. He began to reign in the one hundred and thirty-seventh year of the kingdom of the Greeks.
+    11: In those days lawless men came forth from Israel, and misled many, saying, "Let us go and make a covenant with the Gentiles round about us, for since we separated from them many evils have come upon us."
+    12: This proposal pleased them,
+    13: and some of the people eagerly went to the king. He authorized them to observe the ordinances of the Gentiles.
+    14: So they built a gymnasium in Jerusalem, according to Gentile custom,
+    15: and removed the marks of circumcision, and abandoned the holy covenant. They joined with the Gentiles and sold themselves to do evil.
+    16: When Antiochus saw that his kingdom was established, he determined to become king of the land of Egypt, that he might reign over both kingdoms.
+    17: So he invaded Egypt with a strong force, with chariots and elephants and cavalry and with a large fleet.
+    18: He engaged Ptolemy king of Egypt in battle, and Ptolemy turned and fled before him, and many were wounded and fell.
+    19: And they captured the fortified cities in the land of Egypt, and he plundered the land of Egypt.
+    20: After subduing Egypt, Antiochus returned in the one hundred and forty-third year. He went up against Israel and came to Jerusalem with a strong force.
+    21: He arrogantly entered the sanctuary and took the golden altar, the lampstand for the light, and all its utensils.
+    22: He took also the table for the bread of the Presence, the cups for drink offerings, the bowls, the golden censers, the curtain, the crowns, and the gold decoration on the front of the temple; he stripped it all off.
+    23: He took the silver and the gold, and the costly vessels; he took also the hidden treasures which he found.
+    24: Taking them all, he departed to his own land. He committed deeds of murder, and spoke with great arrogance.
+    25: Israel mourned deeply in every community,
+    26: rulers and elders groaned, maidens and young men became faint, the beauty of women faded.
+    27: Every bridegroom took up the lament; she who sat in the bridal chamber was mourning.
+    28: Even the land shook for its inhabitants, and all the house of Jacob was clothed with shame.
+    29: Two years later the king sent to the cities of Judah a chief collector of tribute, and he came to Jerusalem with a large force.
+    30: Deceitfully he spoke peaceable words to them, and they believed him; but he suddenly fell upon the city, dealt it a severe blow, and destroyed many people of Israel.
+    31: He plundered the city, burned it with fire, and tore down its houses and its surrounding walls.
+    32: And they took captive the women and children, and seized the cattle.
+    33: Then they fortified the city of David with a great strong wall and strong towers, and it became their citadel.
+    34: And they stationed there a sinful people, lawless men. These strengthened their position;
+    35: they stored up arms and food, and collecting the spoils of Jerusalem they stored them there, and became a great snare.
+    36: It became an ambush against the sanctuary, an evil adversary of Israel continually.
+    37: On every side of the sanctuary they shed innocent blood; they even defiled the sanctuary.
+    38: Because of them the residents of Jerusalem fled; she became a dwelling of strangers; she became strange to her offspring, and her children forsook her.
+    39: Her sanctuary became desolate as a desert; her feasts were turned into mourning, her sabbaths into a reproach, her honor into contempt.
+    40: Her dishonor now grew as great as her glory; her exaltation was turned into mourning.
+    41: Then the king wrote to his whole kingdom that all should be one people,
+    42: and that each should give up his customs.
+    43: All the Gentiles accepted the command of the king. Many even from Israel gladly adopted his religion; they sacrificed to idols and profaned the sabbath.
+    44: And the king sent letters by messengers to Jerusalem and the cities of Judah; he directed them to follow customs strange to the land,
+    45: to forbid burnt offerings and sacrifices and drink offerings in the sanctuary, to profane sabbaths and feasts,
+    46: to defile the sanctuary and the priests,
+    47: to build altars and sacred precincts and shrines for idols, to sacrifice swine and unclean animals,
+    48: and to leave their sons uncircumcised. They were to make themselves abominable by everything unclean and profane,
+    49: so that they should forget the law and change all the ordinances.
+    50: "And whoever does not obey the command of the king shall die."
+    51: In such words he wrote to his whole kingdom. And he appointed inspectors over all the people and commanded the cities of Judah to offer sacrifice, city by city.
+    52: Many of the people, every one who forsook the law, joined them, and they did evil in the land;
+    53: they drove Israel into hiding in every place of refuge they had.
+    54: Now on the fifteenth day of Chislev, in the one hundred and forty-fifth year, they erected a desolating sacrilege upon the altar of burnt offering. They also built altars in the surrounding cities of Judah,
+    55: and burned incense at the doors of the houses and in the streets.
+    56: The books of the law which they found they tore to pieces and burned with fire.
+    57: Where the book of the covenant was found in the possession of any one, or if any one adhered to the law, the decree of the king condemned him to death.
+    58: They kept using violence against Israel, against those found month after month in the cities.
+    59: And on the twenty-fifth day of the month they offered sacrifice on the altar which was upon the altar of burnt offering.
+    60: According to the decree, they put to death the women who had their children circumcised,
+    61: and their families and those who circumcised them; and they hung the infants from their mothers' necks.
+    62: But many in Israel stood firm and were resolved in their hearts not to eat unclean food.
+    63: They chose to die rather than to be defiled by food or to profane the holy covenant; and they did die.
+    64: And very great wrath came upon Israel.
+
+  Chapter 2.
+
+    1: In those days Mattathias the son of John, son of Simeon, a priest of the sons of Joarib, moved from Jerusalem and settled in Modein.
+    2: He had five sons, John surnamed Gaddi,
+    3: Simon called Thassi,
+    4: Judas called Maccabeus,
+    5: Eleazar called Avaran, and Jonathan called Apphus.
+    6: He saw the blasphemies being committed in Judah and Jerusalem,
+    7: and said, "Alas! Why was I born to see this, the ruin of my people, the ruin of the holy city, and to dwell there when it was given over to the enemy, the sanctuary given over to aliens?
+    8: Her temple has become like a man without honor;
+    9: her glorious vessels have been carried into captivity. Her babes have been killed in her streets, her youths by the sword of the foe.
+    10: What nation has not inherited her palaces and has not seized her spoils?
+    11: All her adornment has been taken away; no longer free, she has become a slave.
+    12: And behold, our holy place, our beauty, and our glory have been laid waste; the Gentiles have profaned it.
+    13: Why should we live any longer?"
+    14: And Mattathias and his sons rent their clothes, put on sackcloth, and mourned greatly.
+    15: Then the king's officers who were enforcing the apostasy came to the city of Modein to make them offer sacrifice.
+    16: Many from Israel came to them; and Mattathias and his sons were assembled.
+    17: Then the king's officers spoke to Mattathias as follows: "You are a leader, honored and great in this city, and supported by sons and brothers.
+    18: Now be the first to come and do what the king commands, as all the Gentiles and the men of Judah and those that are left in Jerusalem have done. Then you and your sons will be numbered among the friends of the king, and you and your sons will be honored with silver and gold and many gifts."
+    19: But Mattathias answered and said in a loud voice: "Even if all the nations that live under the rule of the king obey him, and have chosen to do his commandments, departing each one from the religion of his fathers,
+    20: yet I and my sons and my brothers will live by the covenant of our fathers.
+    21: Far be it from us to desert the law and the ordinances.
+    22: We will not obey the king's words by turning aside from our religion to the right hand or to the left."
+    23: When he had finished speaking these words, a Jew came forward in the sight of all to offer sacrifice upon the altar in Modein, according to the king's command.
+    24: When Mattathias saw it, be burned with zeal and his heart was stirred. He gave vent to righteous anger; he ran and killed him upon the altar.
+    25: At the same time he killed the king's officer who was forcing them to sacrifice, and he tore down the altar.
+    26: Thus he burned with zeal for the law, as Phinehas did against Zimri the son of Salu.
+    27: Then Mattathias cried out in the city with a loud voice, saying: "Let every one who is zealous for the law and supports the covenant come out with me!"
+    28: And he and his sons fled to the hills and left all that they had in the city.
+    29: Then many who were seeking righteousness and justice went down to the wilderness to dwell there,
+    30: they, their sons, their wives, and their cattle, because evils pressed heavily upon them.
+    31: And it was reported to the king's officers, and to the troops in Jerusalem the city of David, that men who had rejected the king's command had gone down to the hiding places in the wilderness.
+    32: Many pursued them, and overtook them; they encamped opposite them and prepared for battle against them on the sabbath day.
+    33: And they said to them, "Enough of this! Come out and do what the king commands, and you will live."
+    34: But they said, "We will not come out, nor will we do what the king commands and so profane the sabbath day."
+    35: Then the enemy hastened to attack them.
+    36: But they did not answer them or hurl a stone at them or block up their hiding places,
+    37: for they said, "Let us all die in our innocence; heaven and earth testify for us that you are killing us unjustly."
+    38: So they attacked them on the sabbath, and they died, with their wives and children and cattle, to the number of a thousand persons.
+    39: When Mattathias and his friends learned of it, they mourned for them deeply.
+    40: And each said to his neighbor: "If we all do as our brethren have done and refuse to fight with the Gentiles for our lives and for our ordinances, they will quickly destroy us from the earth."
+    41: So they made this decision that day: "Let us fight against every man who comes to attack us on the sabbath day; let us not all die as our brethren died in their hiding places."
+    42: Then there united with them a company of Hasideans, mighty warriors of Israel, every one who offered himself willingly for the law.
+    43: And all who became fugitives to escape their troubles joined them and reinforced them.
+    44: They organized an army, and struck down sinners in their anger and lawless men in their wrath; the survivors fled to the Gentiles for safety.
+    45: And Mattathias and his friends went about and tore down the altars;
+    46: they forcibly circumcised all the uncircumcised boys that they found within the borders of Israel.
+    47: They hunted down the arrogant men, and the work prospered in their hands.
+    48: They rescued the law out of the hands of the Gentiles and kings, and they never let the sinner gain the upper hand.
+    49: Now the days drew near for Mattathias to die, and he said to his sons: "Arrogance and reproach have now become strong; it is a time of ruin and furious anger.
+    50: Now, my children, show zeal for the law, and give your lives for the covenant of our fathers.
+    51: "Remember the deeds of the fathers, which they did in their generations; and receive great honor and an everlasting name.
+    52: Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?
+    53: Joseph in the time of his distress kept the commandment, and became lord of Egypt.
+    54: Phinehas our father, because he was deeply zealous, received the covenant of everlasting priesthood.
+    55: Joshua, because he fulfilled the command, became a judge in Israel.
+    56: Caleb, because he testified in the assembly, received an inheritance in the land.
+    57: David, because he was merciful, inherited the throne of the kingdom for ever.
+    58: Elijah because of great zeal for the law was taken up into heaven.
+    59: Hannaniah, Azariah, and Mishael believed and were saved from the flame.
+    60: Daniel because of his innocence was delivered from the mouth of the lions.
+    61: "And so observe, from generation to generation, that none who put their trust in him will lack strength.
+    62: Do not fear the words of a sinner, for his splendor will turn into dung and worms.
+    63: Today he will be exalted, but tomorrow he will not be found, because he has returned to the dust, and his plans will perish.
+    64: My children, be courageous and grow strong in the law, for by it you will gain honor.
+    65: "Now behold, I know that Simeon your brother is wise in counsel; always listen to him; he shall be your father.
+    66: Judas Maccabeus has been a mighty warrior from his youth; he shall command the army for you and fight the battle against the peoples.
+    67: You shall rally about you all who observe the law, and avenge the wrong done to your people.
+    68: Pay back the Gentiles in full, and heed what the law commands."
+    69: Then he blessed them, and was gathered to his fathers.
+    70: He died in the one hundred and forty-sixth year and was buried in the tomb of his fathers at Modein. And all Israel mourned for him with great lamentation.
+
+  Chapter 3.
+
+    1: Then Judas his son, who was called Maccabeus, took command in his place.
+    2: All his brothers and all who had joined his father helped him; they gladly fought for Israel.
+    3: He extended the glory of his people. Like a giant he put on his breastplate; he girded on his armor of war and waged battles, protecting the host by his sword.
+    4: He was like a lion in his deeds, like a lion's cub roaring for prey.
+    5: He searched out and pursued the lawless; he burned those who troubled his people.
+    6: Lawless men shrank back for fear of him; all the evildoers were confounded; and deliverance prospered by his hand.
+    7: He embittered many kings, but he made Jacob glad by his deeds, and his memory is blessed for ever.
+    8: He went through the cities of Judah; he destroyed the ungodly out of the land; thus he turned away wrath from Israel.
+    9: He was renowned to the ends of the earth; he gathered in those who were perishing.
+    10: But Apollonius gathered together Gentiles and a large force from Samaria to fight against Israel.
+    11: When Judas learned of it, he went out to meet him, and he defeated and killed him. Many were wounded and fell, and the rest fled.
+    12: Then they seized their spoils; and Judas took the sword of Apollonius, and used it in battle the rest of his life.
+    13: Now when Seron, the commander of the Syrian army, heard that Judas had gathered a large company, including a body of faithful men who stayed with him and went out to battle,
+    14: he said, "I will make a name for myself and win honor in the kingdom. I will make war on Judas and his companions, who scorn the king's command."
+    15: And again a strong army of ungodly men went up with him to help him, to take vengeance on the sons of Israel.
+    16: When he approached the ascent of Beth-horon, Judas went out to meet him with a small company.
+    17: But when they saw the army coming to meet them, they said to Judas, "How can we, few as we are, fight against so great and strong a multitude? And we are faint, for we have eaten nothing today."
+    18: Judas replied, "It is easy for many to be hemmed in by few, for in the sight of Heaven there is no difference between saving by many or by few.
+    19: It is not on the size of the army that victory in battle depends, but strength comes from Heaven.
+    20: They come against us in great pride and lawlessness to destroy us and our wives and our children, and to despoil us;
+    21: but we fight for our lives and our laws.
+    22: He himself will crush them before us; as for you, do not be afraid of them."
+    23: When he finished speaking, he rushed suddenly against Seron and his army, and they were crushed before him.
+    24: They pursued them down the descent of Beth-horon to the plain; eight hundred of them fell, and the rest fled into the land of the Philistines.
+    25: Then Judas and his brothers began to be feared, and terror fell upon the Gentiles round about them.
+    26: His fame reached the king, and the Gentiles talked of the battles of Judas.
+    27: When king Antiochus heard these reports, he was greatly angered; and he sent and gathered all the forces of his kingdom, a very strong army.
+    28: And he opened his coffers and gave a year's pay to his forces, and ordered them to be ready for any need.
+    29: Then he saw that the money in the treasury was exhausted, and that the revenues from the country were small because of the dissension and disaster which he had caused in the land by abolishing the laws that had existed from the earliest days.
+    30: He feared that he might not have such funds as he had before for his expenses and for the gifts which he used to give more lavishly than preceding kings.
+    31: He was greatly perplexed in mind, and determined to go to Persia and collect the revenues from those regions and raise a large fund.
+    32: He left Lysias, a distinguished man of royal lineage, in charge of the king's affairs from the river Euphrates to the borders of Egypt.
+    33: Lysias was also to take care of Antiochus his son until he returned.
+    34: And he turned over to Lysias half of his troops and the elephants, and gave him orders about all that he wanted done. As for the residents of Judea and Jerusalem,
+    35: Lysias was to send a force against them to wipe out and destroy the strength of Israel and the remnant of Jerusalem; he was to banish the memory of them from the place,
+    36: settle aliens in all their territory, and distribute their land.
+    37: Then the king took the remaining half of his troops and departed from Antioch his capital in the one hundred and forty-seventh year. He crossed the Euphrates river and went through the upper provinces.
+    38: Lysias chose Ptolemy the son of Dorymenes, and Nicanor and Gorgias, mighty men among the friends of the king,
+    39: and sent with them forty thousand infantry and seven thousand cavalry to go into the land of Judah and destroy it, as the king had commanded.
+    40: so they departed with their entire force, and when they arrived they encamped near Emmaus in the plain.
+    41: When the traders of the region heard what was said to them, they took silver and gold in immense amounts, and fetters, and went to the camp to get the sons of Israel for slaves. And forces from Syria and the land of the Philistines joined with them.
+    42: Now Judas and his brothers saw that misfortunes had increased and that the forces were encamped in their territory. They also learned what the king had commanded to do to the people to cause their final destruction.
+    43: But they said to one another, "Let us repair the destruction of our people, and fight for our people and the sanctuary."
+    44: And the congregation assembled to be ready for battle, and to pray and ask for mercy and compassion.
+    45: Jerusalem was uninhabited like a wilderness; not one of her children went in or out. The sanctuary was trampled down, and the sons of aliens held the citadel; it was a lodging place for the Gentiles. Joy was taken from Jacob; the flute and the harp ceased to play.
+    46: So they assembled and went to Mizpah, opposite Jerusalem, because Israel formerly had a place of prayer in Mizpah.
+    47: They fasted that day, put on sackcloth and sprinkled ashes on their heads, and rent their clothes.
+    48: And they opened the book of the law to inquire into those matters about which the Gentiles were consulting the images of their idols.
+    49: They also brought the garments of the priesthood and the first fruits and the tithes, and they stirred up the Nazirites who had completed their days;
+    50: and they cried aloud to Heaven, saying, "What shall we do with these? Where shall we take them?
+    51: Thy sanctuary is trampled down and profaned, and thy priests mourn in humiliation.
+    52: And behold, the Gentiles are assembled against us to destroy us; thou knowest what they plot against us.
+    53: How will we be able to withstand them, if thou dost not help us?"
+    54: Then they sounded the trumpets and gave a loud shout.
+    55: After this Judas appointed leaders of the people, in charge of thousands and hundreds and fifties and tens.
+    56: And he said to those who were building houses, or were betrothed, or were planting vineyards, or were fainthearted, that each should return to his home, according to the law.
+    57: Then the army marched out and encamped to the south of Emmaus.
+    58: And Judas said, "Gird yourselves and be valiant. Be ready early in the morning to fight with these Gentiles who have assembled against us to destroy us and our sanctuary.
+    59: It is better for us to die in battle than to see the misfortunes of our nation and of the sanctuary.
+    60: But as his will in heaven may be, so he will do."
+
+  Chapter 4.
+
+    1: Now Gorgias took five thousand infantry and a thousand picked cavalry, and this division moved out by night
+    2: to fall upon the camp of the Jews and attack them suddenly. Men from the citadel were his guides.
+    3: But Judas heard of it, and he and his mighty men moved out to attack the king's force in Emmaus
+    4: while the division was still absent from the camp.
+    5: When Gorgias entered the camp of Judas by night, he found no one there, so he looked for them in the hills, because he said, "These men are fleeing from us."
+    6: At daybreak Judas appeared in the plain with three thousand men, but they did not have armor and swords such as they desired.
+    7: And they saw the camp of the Gentiles, strong and fortified, with cavalry round about it; and these men were trained in war.
+    8: But Judas said to the men who were with him, "Do not fear their numbers or be afraid when they charge.
+    9: Remember how our fathers were saved at the Red Sea, when Pharaoh with his forces pursued them.
+    10: And now let us cry to Heaven, to see whether he will favor us and remember his covenant with our fathers and crush this army before us today.
+    11: Then all the Gentiles will know that there is one who redeems and saves Israel."
+    12: When the foreigners looked up and saw them coming against them,
+    13: they went forth from their camp to battle. Then the men with Judas blew their trumpets
+    14: and engaged in battle. The Gentiles were crushed and fled into the plain,
+    15: and all those in the rear fell by the sword. They pursued them to Gazara, and to the plains of Idumea, and to Azotus and Jamnia; and three thousand of them fell.
+    16: Then Judas and his force turned back from pursuing them,
+    17: and he said to the people, "Do not be greedy for plunder, for there is a battle before us;
+    18: Gorgias and his force are near us in the hills. But stand now against our enemies and fight them, and afterward seize the plunder boldly."
+    19: Just as Judas was finishing this speech, a detachment appeared, coming out of the hills.
+    20: They saw that their army had been put to flight, and that the Jews were burning the camp, for the smoke that was seen showed what had happened.
+    21: When they perceived this they were greatly frightened, and when they also saw the army of Judas drawn up in the plain for battle,
+    22: they all fled into the land of the Philistines.
+    23: Then Judas returned to plunder the camp, and they seized much gold and silver, and cloth dyed blue and sea purple, and great riches.
+    24: On their return they sang hymns and praises to Heaven, for he is good, for his mercy endures for ever.
+    25: Thus Israel had a great deliverance that day.
+    26: Those of the foreigners who escaped went and reported to Lysias all that had happened.
+    27: When he heard it, he was perplexed and discouraged, for things had not happened to Israel as he had intended, nor had they turned out as the king had commanded him.
+    28: But the next year he mustered sixty thousand picked infantrymen and five thousand cavalry to subdue them.
+    29: They came into Idumea and encamped at Beth-zur, and Judas met them with ten thousand men.
+    30: When he saw that the army was strong, he prayed, saying, "Blessed art thou, O Savior of Israel, who didst crush the attack of the mighty warrior by the hand of thy servant David, and didst give the camp of the Philistines into the hands of Jonathan, the son of Saul, and of the man who carried his armor.
+    31: So do thou hem in this army by the hand of thy people Israel, and let them be ashamed of their troops and their cavalry.
+    32: Fill them with cowardice; melt the boldness of their strength; let them tremble in their destruction.
+    33: Strike them down with the sword of those who love thee, and let all who know thy name praise thee with hymns."
+    34: Then both sides attacked, and there fell of the army of Lysias five thousand men; they fell in action.
+    35: And when Lysias saw the rout of his troops and observed the boldness which inspired those of Judas, and how ready they were either to live or to die nobly, he departed to Antioch and enlisted mercenaries, to invade Judea again with an even larger army.
+    36: Then said Judas and his brothers, "Behold, our enemies are crushed; let us go up to cleanse the sanctuary and dedicate it."
+    37: So all the army assembled and they went up to Mount Zion.
+    38: And they saw the sanctuary desolate, the altar profaned, and the gates burned. In the courts they saw bushes sprung up as in a thicket, or as on one of the mountains. They saw also the chambers of the priests in ruins.
+    39: Then they rent their clothes, and mourned with great lamentation, and sprinkled themselves with ashes.
+    40: They fell face down on the ground, and sounded the signal on the trumpets, and cried out to Heaven.
+    41: Then Judas detailed men to fight against those in the citadel until he had cleansed the sanctuary.
+    42: He chose blameless priests devoted to the law,
+    43: and they cleansed the sanctuary and removed the defiled stones to an unclean place.
+    44: They deliberated what to do about the altar of burnt offering, which had been profaned.
+    45: And they thought it best to tear it down, lest it bring reproach upon them, for the Gentiles had defiled it. So they tore down the altar,
+    46: and stored the stones in a convenient place on the temple hill until there should come a prophet to tell what to do with them.
+    47: Then they took unhewn stones, as the law directs, and built a new altar like the former one.
+    48: They also rebuilt the sanctuary and the interior of the temple, and consecrated the courts.
+    49: They made new holy vessels, and brought the lampstand, the altar of incense, and the table into the temple.
+    50: Then they burned incense on the altar and lighted the lamps on the lampstand, and these gave light in the temple.
+    51: They placed the bread on the table and hung up the curtains. Thus they finished all the work they had undertaken.
+    52: Early in the morning on the twenty-fifth day of the ninth month, which is the month of Chislev, in the one hundred and forty-eighth year,
+    53: they rose and offered sacrifice, as the law directs, on the new altar of burnt offering which they had built.
+    54: At the very season and on the very day that the Gentiles had profaned it, it was dedicated with songs and harps and lutes and cymbals.
+    55: All the people fell on their faces and worshiped and blessed Heaven, who had prospered them.
+    56: So they celebrated the dedication of the altar for eight days, and offered burnt offerings with gladness; they offered a sacrifice of deliverance and praise.
+    57: They decorated the front of the temple with golden crowns and small shields; they restored the gates and the chambers for the priests, and furnished them with doors.
+    58: There was very great gladness among the people, and the reproach of the Gentiles was removed.
+    59: Then Judas and his brothers and all the assembly of Israel determined that every year at that season the days of dedication of the altar should be observed with gladness and joy for eight days, beginning with the twenty-fifth day of the month of Chislev.
+    60: At that time they fortified Mount Zion with high walls and strong towers round about, to keep the Gentiles from coming and trampling them down as they had done before.
+    61: And he stationed a garrison there to hold it. He also fortified Beth-zur, so that the people might have a stronghold that faced Idumea.
+
+End of day 125.

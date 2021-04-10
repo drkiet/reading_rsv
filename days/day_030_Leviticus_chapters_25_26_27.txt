@@ -1,0 +1,149 @@
+Day 30:
+
+Reading Leviticus, chapters ['25', '26', '27']:
+
+  Chapter 25.
+
+    1: The LORD said to Moses on Mount Sinai,
+    2: "Say to the people of Israel, When you come into the land which I give you, the land shall keep a sabbath to the LORD.
+    3: Six years you shall sow your field, and six years you shall prune your vineyard, and gather in its fruits;
+    4: but in the seventh year there shall be a sabbath of solemn rest for the land, a sabbath to the LORD; you shall not sow your field or prune your vineyard.
+    5: What grows of itself in your harvest you shall not reap, and the grapes of your undressed vine you shall not gather; it shall be a year of solemn rest for the land.
+    6: The sabbath of the land shall provide food for you, for yourself and for your male and female slaves and for your hired servant and the sojourner who lives with you;
+    7: for your cattle also and for the beasts that are in your land all its yield shall be for food.
+    8: "And you shall count seven weeks of years, seven times seven years, so that the time of the seven weeks of years shall be to you forty-nine years.
+    9: Then you shall send abroad the loud trumpet on the tenth day of the seventh month; on the day of atonement you shall send abroad the trumpet throughout all your land.
+    10: And you shall hallow the fiftieth year, and proclaim liberty throughout the land to all its inhabitants; it shall be a jubilee for you, when each of you shall return to his property and each of you shall return to his family.
+    11: A jubilee shall that fiftieth year be to you; in it you shall neither sow, nor reap what grows of itself, nor gather the grapes from the undressed vines.
+    12: For it is a jubilee; it shall be holy to you; you shall eat what it yields out of the field.
+    13: "In this year of jubilee each of you shall return to his property.
+    14: And if you sell to your neighbor or buy from your neighbor, you shall not wrong one another.
+    15: According to the number of years after the jubilee, you shall buy from your neighbor, and according to the number of years for crops he shall sell to you.
+    16: If the years are many you shall increase the price, and if the years are few you shall diminish the price, for it is the number of the crops that he is selling to you.
+    17: You shall not wrong one another, but you shall fear your God; for I am the LORD your God.
+    18: "Therefore you shall do my statutes, and keep my ordinances and perform them; so you will dwell in the land securely.
+    19: The land will yield its fruit, and you will eat your fill, and dwell in it securely.
+    20: And if you say, `What shall we eat in the seventh year, if we may not sow or gather in our crop?'
+    21: I will command my blessing upon you in the sixth year, so that it will bring forth fruit for three years.
+    22: When you sow in the eighth year, you will be eating old produce; until the ninth year, when its produce comes in, you shall eat the old.
+    23: The land shall not be sold in perpetuity, for the land is mine; for you are strangers and sojourners with me.
+    24: And in all the country you possess, you shall grant a redemption of the land.
+    25: "If your brother becomes poor, and sells part of his property, then his next of kin shall come and redeem what his brother has sold.
+    26: If a man has no one to redeem it, and then himself becomes prosperous and finds sufficient means to redeem it,
+    27: let him reckon the years since he sold it and pay back the overpayment to the man to whom he sold it; and he shall return to his property.
+    28: But if he has not sufficient means to get it back for himself, then what he sold shall remain in the hand of him who bought it until the year of jubilee; in the jubilee it shall be released, and he shall return to his property.
+    29: "If a man sells a dwelling house in a walled city, he may redeem it within a whole year after its sale; for a full year he shall have the right of redemption.
+    30: If it is not redeemed within a full year, then the house that is in the walled city shall be made sure in perpetuity to him who bought it, throughout his generations; it shall not be released in the jubilee.
+    31: But the houses of the villages which have no wall around them shall be reckoned with the fields of the country; they may be redeemed, and they shall be released in the jubilee.
+    32: Nevertheless the cities of the Levites, the houses in the cities of their possession, the Levites may redeem at any time.
+    33: And if one of the Levites does not exercise his right of redemption, then the house that was sold in a city of their possession shall be released in the jubilee; for the houses in the cities of the Levites are their possession among the people of Israel.
+    34: But the fields of common land belonging to their cities may not be sold; for that is their perpetual possession.
+    35: "And if your brother becomes poor, and cannot maintain himself with you, you shall maintain him; as a stranger and a sojourner he shall live with you.
+    36: Take no interest from him or increase, but fear your God; that your brother may live beside you.
+    37: You shall not lend him your money at interest, nor give him your food for profit.
+    38: I am the LORD your God, who brought you forth out of the land of Egypt to give you the land of Canaan, and to be your God.
+    39: "And if your brother becomes poor beside you, and sells himself to you, you shall not make him serve as a slave:
+    40: he shall be with you as a hired servant and as a sojourner. He shall serve with you until the year of the jubilee;
+    41: then he shall go out from you, he and his children with him, and go back to his own family, and return to the possession of his fathers.
+    42: For they are my servants, whom I brought forth out of the land of Egypt; they shall not be sold as slaves.
+    43: You shall not rule over him with harshness, but shall fear your God.
+    44: As for your male and female slaves whom you may have: you may buy male and female slaves from among the nations that are round about you.
+    45: You may also buy from among the strangers who sojourn with you and their families that are with you, who have been born in your land; and they may be your property.
+    46: You may bequeath them to your sons after you, to inherit as a possession for ever; you may make slaves of them, but over your brethren the people of Israel you shall not rule, one over another, with harshness.
+    47: "If a stranger or sojourner with you becomes rich, and your brother beside him becomes poor and sells himself to the stranger or sojourner with you, or to a member of the stranger's family,
+    48: then after he is sold he may be redeemed; one of his brothers may redeem him,
+    49: or his uncle, or his cousin may redeem him, or a near kinsman belonging to his family may redeem him; or if he grows rich he may redeem himself.
+    50: He shall reckon with him who bought him from the year when he sold himself to him until the year of jubilee, and the price of his release shall be according to the number of years; the time he was with his owner shall be rated as the time of a hired servant.
+    51: If there are still many years, according to them he shall refund out of the price paid for him the price for his redemption.
+    52: If there remain but a few years until the year of jubilee, he shall make a reckoning with him; according to the years of service due from him he shall refund the money for his redemption.
+    53: As a servant hired year by year shall he be with him; he shall not rule with harshness over him in your sight.
+    54: And if he is not redeemed by these means, then he shall be released in the year of jubilee, he and his children with him.
+    55: For to me the people of Israel are servants, they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God.
+
+  Chapter 26.
+
+    1: "You shall make for yourselves no idols and erect no graven image or pillar, and you shall not set up a figured stone in your land, to bow down to them; for I am the LORD your God.
+    2: You shall keep my sabbaths and reverence my sanctuary: I am the LORD.
+    3: "If you walk in my statutes and observe my commandments and do them,
+    4: then I will give you your rains in their season, and the land shall yield its increase, and the trees of the field shall yield their fruit.
+    5: And your threshing shall last to the time of vintage, and the vintage shall last to the time for sowing; and you shall eat your bread to the full, and dwell in your land securely.
+    6: And I will give peace in the land, and you shall lie down, and none shall make you afraid; and I will remove evil beasts from the land, and the sword shall not go through your land.
+    7: And you shall chase your enemies, and they shall fall before you by the sword.
+    8: Five of you shall chase a hundred, and a hundred of you shall chase ten thousand; and your enemies shall fall before you by the sword.
+    9: And I will have regard for you and make you fruitful and multiply you, and will confirm my covenant with you.
+    10: And you shall eat old store long kept, and you shall clear out the old to make way for the new.
+    11: And I will make my abode among you, and my soul shall not abhor you.
+    12: And I will walk among you, and will be your God, and you shall be my people.
+    13: I am the LORD your God, who brought you forth out of the land of Egypt, that you should not be their slaves; and I have broken the bars of your yoke and made you walk erect.
+    14: "But if you will not hearken to me, and will not do all these commandments,
+    15: if you spurn my statutes, and if your soul abhors my ordinances, so that you will not do all my commandments, but break my covenant,
+    16: I will do this to you: I will appoint over you sudden terror, consumption, and fever that waste the eyes and cause life to pine away. And you shall sow your seed in vain, for your enemies shall eat it;
+    17: I will set my face against you, and you shall be smitten before your enemies; those who hate you shall rule over you, and you shall flee when none pursues you.
+    18: And if in spite of this you will not hearken to me, then I will chastise you again sevenfold for your sins,
+    19: and I will break the pride of your power, and I will make your heavens like iron and your earth like brass;
+    20: and your strength shall be spent in vain, for your land shall not yield its increase, and the trees of the land shall not yield their fruit.
+    21: "Then if you walk contrary to me, and will not hearken to me, I will bring more plagues upon you, sevenfold as many as your sins.
+    22: And I will let loose the wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number, so that your ways shall become desolate.
+    23: "And if by this discipline you are not turned to me, but walk contrary to me,
+    24: then I also will walk contrary to you, and I myself will smite you sevenfold for your sins.
+    25: And I will bring a sword upon you, that shall execute vengeance for the covenant; and if you gather within your cities I will send pestilence among you, and you shall be delivered into the hand of the enemy.
+    26: When I break your staff of bread, ten women shall bake your bread in one oven, and shall deliver your bread again by weight; and you shall eat, and not be satisfied.
+    27: "And if in spite of this you will not hearken to me, but walk contrary to me,
+    28: then I will walk contrary to you in fury, and chastise you myself sevenfold for your sins.
+    29: You shall eat the flesh of your sons, and you shall eat the flesh of your daughters.
+    30: And I will destroy your high places, and cut down your incense altars, and cast your dead bodies upon the dead bodies of your idols; and my soul will abhor you.
+    31: And I will lay your cities waste, and will make your sanctuaries desolate, and I will not smell your pleasing odors.
+    32: And I will devastate the land, so that your enemies who settle in it shall be astonished at it.
+    33: And I will scatter you among the nations, and I will unsheathe the sword after you; and your land shall be a desolation, and your cities shall be a waste.
+    34: "Then the land shall enjoy its sabbaths as long as it lies desolate, while you are in your enemies' land; then the land shall rest, and enjoy its sabbaths.
+    35: As long as it lies desolate it shall have rest, the rest which it had not in your sabbaths when you dwelt upon it.
+    36: And as for those of you that are left, I will send faintness into their hearts in the lands of their enemies; the sound of a driven leaf shall put them to flight, and they shall flee as one flees from the sword, and they shall fall when none pursues.
+    37: They shall stumble over one another, as if to escape a sword, though none pursues; and you shall have no power to stand before your enemies.
+    38: And you shall perish among the nations, and the land of your enemies shall eat you up.
+    39: And those of you that are left shall pine away in your enemies' lands because of their iniquity; and also because of the iniquities of their fathers they shall pine away like them.
+    40: "But if they confess their iniquity and the iniquity of their fathers in their treachery which they committed against me, and also in walking contrary to me,
+    41: so that I walked contrary to them and brought them into the land of their enemies; if then their uncircumcised heart is humbled and they make amends for their iniquity;
+    42: then I will remember my covenant with Jacob, and I will remember my covenant with Isaac and my covenant with Abraham, and I will remember the land.
+    43: But the land shall be left by them, and enjoy its sabbaths while it lies desolate without them; and they shall make amends for their iniquity, because they spurned my ordinances, and their soul abhorred my statutes.
+    44: Yet for all that, when they are in the land of their enemies, I will not spurn them, neither will I abhor them so as to destroy them utterly and break my covenant with them; for I am the LORD their God;
+    45: but I will for their sake remember the covenant with their forefathers, whom I brought forth out of the land of Egypt in the sight of the nations, that I might be their God: I am the LORD."
+    46: These are the statutes and ordinances and laws which the LORD made between him and the people of Israel on Mount Sinai by Moses.
+
+  Chapter 27.
+
+    1: The LORD said to Moses,
+    2: "Say to the people of Israel, When a man makes a special vow of persons to the LORD at your valuation,
+    3: then your valuation of a male from twenty years old up to sixty years old shall be fifty shekels of silver, according to the shekel of the sanctuary.
+    4: If the person is a female, your valuation shall be thirty shekels.
+    5: If the person is from five years old up to twenty years old, your valuation shall be for a male twenty shekels, and for a female ten shekels.
+    6: If the person is from a month old up to five years old, your valuation shall be for a male five shekels of silver, and for a female your valuation shall be three shekels of silver.
+    7: And if the person is sixty years old and upward, then your valuation for a male shall be fifteen shekels, and for a female ten shekels.
+    8: And if a man is too poor to pay your valuation, then he shall bring the person before the priest, and the priest shall value him; according to the ability of him who vowed the priest shall value him.
+    9: "If it is an animal such as men offer as an offering to the LORD, all of such that any man gives to the LORD is holy.
+    10: He shall not substitute anything for it or exchange it, a good for a bad, or a bad for a good; and if he makes any exchange of beast for beast, then both it and that for which it is exchanged shall be holy.
+    11: And if it is an unclean animal such as is not offered as an offering to the LORD, then the man shall bring the animal before the priest,
+    12: and the priest shall value it as either good or bad; as you, the priest, value it, so it shall be.
+    13: But if he wishes to redeem it, he shall add a fifth to the valuation.
+    14: "When a man dedicates his house to be holy to the LORD, the priest shall value it as either good or bad; as the priest values it, so it shall stand.
+    15: And if he who dedicates it wishes to redeem his house, he shall add a fifth of the valuation in money to it, and it shall be his.
+    16: "If a man dedicates to the LORD part of the land which is his by inheritance, then your valuation shall be according to the seed for it; a sowing of a homer of barley shall be valued at fifty shekels of silver.
+    17: If he dedicates his field from the year of jubilee, it shall stand at your full valuation;
+    18: but if he dedicates his field after the jubilee, then the priest shall compute the money-value for it according to the years that remain until the year of jubilee, and a deduction shall be made from your valuation.
+    19: And if he who dedicates the field wishes to redeem it, then he shall add a fifth of the valuation in money to it, and it shall remain his.
+    20: But if he does not wish to redeem the field, or if he has sold the field to another man, it shall not be redeemed any more;
+    21: but the field, when it is released in the jubilee, shall be holy to the LORD, as a field that has been devoted; the priest shall be in possession of it.
+    22: If he dedicates to the LORD a field which he has bought, which is not a part of his possession by inheritance,
+    23: then the priest shall compute the valuation for it up to the year of jubilee, and the man shall give the amount of the valuation on that day as a holy thing to the LORD.
+    24: In the year of jubilee the field shall return to him from whom it was bought, to whom the land belongs as a possession by inheritance.
+    25: Every valuation shall be according to the shekel of the sanctuary: twenty gerahs shall make a shekel.
+    26: "But a firstling of animals, which as a firstling belongs to the LORD, no man may dedicate; whether ox or sheep, it is the LORD's.
+    27: And if it is an unclean animal, then he shall buy it back at your valuation, and add a fifth to it; or, if it is not redeemed, it shall be sold at your valuation.
+    28: "But no devoted thing that a man devotes to the LORD, of anything that he has, whether of man or beast, or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the LORD.
+    29: No one devoted, who is to be utterly destroyed from among men, shall be ransomed; he shall be put to death.
+    30: "All the tithe of the land, whether of the seed of the land or of the fruit of the trees, is the LORD's; it is holy to the LORD.
+    31: If a man wishes to redeem any of his tithe, he shall add a fifth to it.
+    32: And all the tithe of herds and flocks, every tenth animal of all that pass under the herdsman's staff, shall be holy to the LORD.
+    33: A man shall not inquire whether it is good or bad, neither shall he exchange it; and if he exchanges it, then both it and that for which it is exchanged shall be holy; it shall not be redeemed."
+    34: These are the commandments which the LORD commanded Moses for the people of Israel on Mount Sinai.
+
+End of day 30.

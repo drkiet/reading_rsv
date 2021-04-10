@@ -1,0 +1,92 @@
+Day 160:
+
+Reading Psalms, chapters ['65', '66', '67', '68']:
+
+  Chapter 65.
+
+    1: Praise is due to thee, O God, in Zion; and to thee shall vows be performed,
+    2: O thou who hearest prayer! To thee shall all flesh come
+    3: on account of sins. When our transgressions prevail over us, thou dost forgive them.
+    4: Blessed is he whom thou dost choose and bring near, to dwell in thy courts! We shall be satisfied with the goodness of thy house, thy holy temple!
+    5: By dread deeds thou dost answer us with deliverance, O God of our salvation, who art the hope of all the ends of the earth, and of the farthest seas;
+    6: who by thy strength hast established the mountains, being girded with might;
+    7: who dost still the roaring of the seas, the roaring of their waves, the tumult of the peoples;
+    8: so that those who dwell at earth's farthest bounds are afraid at thy signs; thou makest the outgoings of the morning and the evening to shout for joy.
+    9: Thou visitest the earth and waterest it, thou greatly enrichest it; the river of God is full of water; thou providest their grain, for so thou hast prepared it.
+    10: Thou waterest its furrows abundantly, settling its ridges, softening it with showers, and blessing its growth.
+    11: Thou crownest the year with thy bounty; the tracks of thy chariot drip with fatness.
+    12: The pastures of the wilderness drip, the hills gird themselves with joy,
+    13: the meadows clothe themselves with flocks, the valleys deck themselves with grain, they shout and sing together for joy.
+
+  Chapter 66.
+
+    1: Make a joyful noise to God, all the earth;
+    2: sing the glory of his name; give to him glorious praise!
+    3: Say to God, "How terrible are thy deeds! So great is thy power that thy enemies cringe before thee.
+    4: All the earth worships thee; they sing praises to thee, sing praises to thy name." [Selah]
+    5: Come and see what God has done: he is terrible in his deeds among men.
+    6: He turned the sea into dry land; men passed through the river on foot. There did we rejoice in him,
+    7: who rules by his might for ever, whose eyes keep watch on the nations -- let not the rebellious exalt themselves. [Selah]
+    8: Bless our God, O peoples, let the sound of his praise be heard,
+    9: who has kept us among the living, and has not let our feet slip.
+    10: For thou, O God, hast tested us; thou hast tried us as silver is tried.
+    11: Thou didst bring us into the net; thou didst lay affliction on our loins;
+    12: thou didst let men ride over our heads; we went through fire and through water; yet thou hast brought us forth to a spacious place.
+    13: I will come into thy house with burnt offerings; I will pay thee my vows,
+    14: that which my lips uttered and my mouth promised when I was in trouble.
+    15: I will offer to thee burnt offerings of fatlings, with the smoke of the sacrifice of rams; I will make an offering of bulls and goats. [Selah]
+    16: Come and hear, all you who fear God, and I will tell what he has done for me.
+    17: I cried aloud to him, and he was extolled with my tongue.
+    18: If I had cherished iniquity in my heart, the Lord would not have listened.
+    19: But truly God has listened; he has given heed to the voice of my prayer.
+    20: Blessed be God, because he has not rejected my prayer or removed his steadfast love from me!
+
+  Chapter 67.
+
+    1: May God be gracious to us and bless us and make his face to shine upon us, [Selah]
+    2: that thy way may be known upon earth, thy saving power among all nations.
+    3: Let the peoples praise thee, O God; let all the peoples praise thee!
+    4: Let the nations be glad and sing for joy, for thou dost judge the peoples with equity and guide the nations upon earth. [Selah]
+    5: Let the peoples praise thee, O God; let all the peoples praise thee!
+    6: The earth has yielded its increase; God, our God, has blessed us.
+    7: God has blessed us; let all the ends of the earth fear him!
+
+  Chapter 68.
+
+    1: Let God arise, let his enemies be scattered; let those who hate him flee before him!
+    2: As smoke is driven away, so drive them away; as wax melts before fire, let the wicked perish before God!
+    3: But let the righteous be joyful; let them exult before God; let them be jubilant with joy!
+    4: Sing to God, sing praises to his name; lift up a song to him who rides upon the clouds; his name is the LORD, exult before him!
+    5: Father of the fatherless and protector of widows is God in his holy habitation.
+    6: God gives the desolate a home to dwell in; he leads out the prisoners to prosperity; but the rebellious dwell in a parched land.
+    7: O God, when thou didst go forth before thy people, when thou didst march through the wilderness, [Selah]
+    8: the earth quaked, the heavens poured down rain, at the presence of God; yon Sinai quaked at the presence of God, the God of Israel.
+    9: Rain in abundance, O God, thou didst shed abroad; thou didst restore thy heritage as it languished;
+    10: thy flock found a dwelling in it; in thy goodness, O God, thou didst provide for the needy.
+    11: The Lord gives the command; great is the host of those who bore the tidings:
+    12: "The kings of the armies, they flee, they flee!" The women at home divide the spoil,
+    13: though they stay among the sheepfolds -- the wings of a dove covered with silver, its pinions with green gold.
+    14: When the Almighty scattered kings there, snow fell on Zalmon.
+    15: O mighty mountain, mountain of Bashan; O many-peaked mountain, mountain of Bashan!
+    16: Why look you with envy, O many-peaked mountain, at the mount which God desired for his abode, yea, where the LORD will dwell for ever?
+    17: With mighty chariotry, twice ten thousand, thousands upon thousands, the Lord came from Sinai into the holy place.
+    18: Thou didst ascend the high mount, leading captives in thy train, and receiving gifts among men, even among the rebellious, that the LORD God may dwell there.
+    19: Blessed be the Lord, who daily bears us up; God is our salvation. [Selah]
+    20: Our God is a God of salvation; and to GOD, the Lord, belongs escape from death.
+    21: But God will shatter the heads of his enemies, the hairy crown of him who walks in his guilty ways.
+    22: The Lord said, "I will bring them back from Bashan, I will bring them back from the depths of the sea,
+    23: that you may bathe your feet in blood, that the tongues of your dogs may have their portion from the foe."
+    24: Thy solemn processions are seen, O God, the processions of my God, my King, into the sanctuary --
+    25: the singers in front, the minstrels last, between them maidens playing timbrels:
+    26: "Bless God in the great congregation, the LORD, O you who are of Israel's fountain!"
+    27: There is Benjamin, the least of them, in the lead, the princes of Judah in their throng, the princes of Zeb'ulun, the princes of Naph'tali.
+    28: Summon thy might, O God; show thy strength, O God, thou who hast wrought for us.
+    29: Because of thy temple at Jerusalem kings bear gifts to thee.
+    30: Rebuke the beasts that dwell among the reeds, the herd of bulls with the calves of the peoples. Trample under foot those who lust after tribute; scatter the peoples who delight in war.
+    31: Let bronze be brought from Egypt; let Ethiopia hasten to stretch out her hands to God.
+    32: Sing to God, O kingdoms of the earth; sing praises to the Lord, [Selah]
+    33: to him who rides in the heavens, the ancient heavens; lo, he sends forth his voice, his mighty voice.
+    34: Ascribe power to God, whose majesty is over Israel, and his power is in the skies.
+    35: Terrible is God in his sanctuary, the God of Israel, he gives power and strength to his people. Blessed be God!
+
+End of day 160.

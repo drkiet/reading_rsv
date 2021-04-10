@@ -1,0 +1,107 @@
+Day 214:
+
+Reading Isaiah, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: Let me sing for my beloved a love song concerning his vineyard: My beloved had a vineyard on a very fertile hill.
+    2: He digged it and cleared it of stones, and planted it with choice vines; he built a watchtower in the midst of it, and hewed out a wine vat in it; and he looked for it to yield grapes, but it yielded wild grapes.
+    3: And now, O inhabitants of Jerusalem and men of Judah, judge, I pray you, between me and my vineyard.
+    4: What more was there to do for my vineyard, that I have not done in it? When I looked for it to yield grapes, why did it yield wild grapes?
+    5: And now I will tell you what I will do to my vineyard. I will remove its hedge, and it shall be devoured; I will break down its wall, and it shall be trampled down.
+    6: I will make it a waste; it shall not be pruned or hoed, and briers and thorns shall grow up; I will also command the clouds that they rain no rain upon it.
+    7: For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah are his pleasant planting; and he looked for justice, but behold, bloodshed; for righteousness, but behold, a cry!
+    8: Woe to those who join house to house, who add field to field, until there is no more room, and you are made to dwell alone in the midst of the land.
+    9: The LORD of hosts has sworn in my hearing: "Surely many houses shall be desolate, large and beautiful houses, without inhabitant.
+    10: For ten acres of vineyard shall yield but one bath, and a homer of seed shall yield but an ephah."
+    11: Woe to those who rise early in the morning, that they may run after strong drink, who tarry late into the evening till wine inflames them!
+    12: They have lyre and harp, timbrel and flute and wine at their feasts; but they do not regard the deeds of the LORD, or see the work of his hands.
+    13: Therefore my people go into exile for want of knowledge; their honored men are dying of hunger, and their multitude is parched with thirst.
+    14: Therefore Sheol has enlarged its appetite and opened its mouth beyond measure, and the nobility of Jerusalem and her multitude go down, her throng and he who exults in her.
+    15: Man is bowed down, and men are brought low, and the eyes of the haughty are humbled.
+    16: But the LORD of hosts is exalted in justice, and the Holy God shows himself holy in righteousness.
+    17: Then shall the lambs graze as in their pasture, fatlings and kids shall feed among the ruins.
+    18: Woe to those who draw iniquity with cords of falsehood, who draw sin as with cart ropes,
+    19: who say: "Let him make haste, let him speed his work that we may see it; let the purpose of the Holy One of Israel draw near, and let it come, that we may know it!"
+    20: Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter!
+    21: Woe to those who are wise in their own eyes, and shrewd in their own sight!
+    22: Woe to those who are heroes at drinking wine, and valiant men in mixing strong drink,
+    23: who acquit the guilty for a bribe, and deprive the innocent of his right!
+    24: Therefore, as the tongue of fire devours the stubble, and as dry grass sinks down in the flame, so their root will be as rottenness, and their blossom go up like dust; for they have rejected the law of the LORD of hosts, and have despised the word of the Holy One of Israel.
+    25: Therefore the anger of the LORD was kindled against his people, and he stretched out his hand against them and smote them, and the mountains quaked; and their corpses were as refuse in the midst of the streets. For all this his anger is not turned away and his hand is stretched out still.
+    26: He will raise a signal for a nation afar off, and whistle for it from the ends of the earth; and lo, swiftly, speedily it comes!
+    27: None is weary, none stumbles, none slumbers or sleeps, not a waistcloth is loose, not a sandal-thong broken;
+    28: their arrows are sharp, all their bows bent, their horses' hoofs seem like flint, and their wheels like the whirlwind.
+    29: Their roaring is like a lion, like young lions they roar; they growl and seize their prey, they carry it off, and none can rescue.
+    30: They will growl over it on that day, like the roaring of the sea. And if one look to the land, behold, darkness and distress; and the light is darkened by its clouds.
+
+  Chapter 6.
+
+    1: In the year that King Uzzi'ah died I saw the Lord sitting upon a throne, high and lifted up; and his train filled the temple.
+    2: Above him stood the seraphim; each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew.
+    3: And one called to another and said: "Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory."
+    4: And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke.
+    5: And I said: "Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the LORD of hosts!"
+    6: Then flew one of the seraphim to me, having in his hand a burning coal which he had taken with tongs from the altar.
+    7: And he touched my mouth, and said: "Behold, this has touched your lips; your guilt is taken away, and your sin forgiven."
+    8: And I heard the voice of the Lord saying, "Whom shall I send, and who will go for us?" Then I said, "Here am I! Send me."
+    9: And he said, "Go, and say to this people: `Hear and hear, but do not understand; see and see, but do not perceive.'
+    10: Make the heart of this people fat, and their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their hearts, and turn and be healed."
+    11: Then I said, "How long, O Lord?" And he said: "Until cities lie waste without inhabitant, and houses without men, and the land is utterly desolate,
+    12: and the LORD removes men far away, and the forsaken places are many in the midst of the land.
+    13: And though a tenth remain in it, it will be burned again, like a terebinth or an oak, whose stump remains standing when it is felled." The holy seed is its stump.
+
+  Chapter 7.
+
+    1: In the days of Ahaz the son of Jotham, son of Uzzi'ah, king of Judah, Rezin the king of Syria and Pekah the son of Remali'ah the king of Israel came up to Jerusalem to wage war against it, but they could not conquer it.
+    2: When the house of David was told, "Syria is in league with E'phraim," his heart and the heart of his people shook as the trees of the forest shake before the wind.
+    3: And the LORD said to Isaiah, "Go forth to meet Ahaz, you and She'ar-jash'ub your son, at the end of the conduit of the upper pool on the highway to the Fuller's Field,
+    4: and say to him, `Take heed, be quiet, do not fear, and do not let your heart be faint because of these two smoldering stumps of firebrands, at the fierce anger of Rezin and Syria and the son of Remali'ah.
+    5: Because Syria, with E'phraim and the son of Remali'ah, has devised evil against you, saying,
+    6: "Let us go up against Judah and terrify it, and let us conquer it for ourselves, and set up the son of Ta'be-el as king in the midst of it,"
+    7: thus says the Lord GOD: It shall not stand, and it shall not come to pass.
+    8: For the head of Syria is Damascus, and the head of Damascus is Rezin. (Within sixty-five years E'phraim will be broken to pieces so that it will no longer be a people.)
+    9: And the head of E'phraim is Sama'ria, and the head of Sama'ria is the son of Remali'ah. If you will not believe, surely you shall not be established.'"
+    10: Again the LORD spoke to Ahaz,
+    11: "Ask a sign of the LORD your God; let it be deep as Sheol or high as heaven."
+    12: But Ahaz said, "I will not ask, and I will not put the LORD to the test."
+    13: And he said, "Hear then, O house of David! Is it too little for you to weary men, that you weary my God also?
+    14: Therefore the Lord himself will give you a sign. Behold, a young woman shall conceive and bear a son, and shall call his name Imman'u-el.
+    15: He shall eat curds and honey when he knows how to refuse the evil and choose the good.
+    16: For before the child knows how to refuse the evil and choose the good, the land before whose two kings you are in dread will be deserted.
+    17: The LORD will bring upon you and upon your people and upon your father's house such days as have not come since the day that E'phraim departed from Judah -- the king of Assyria."
+    18: In that day the LORD will whistle for the fly which is at the sources of the streams of Egypt, and for the bee which is in the land of Assyria.
+    19: And they will all come and settle in the steep ravines, and in the clefts of the rocks, and on all the thornbushes, and on all the pastures.
+    20: In that day the Lord will shave with a razor which is hired beyond the River -- with the king of Assyria -- the head and the hair of the feet, and it will sweep away the beard also.
+    21: In that day a man will keep alive a young cow and two sheep;
+    22: and because of the abundance of milk which they give, he will eat curds; for every one that is left in the land will eat curds and honey.
+    23: In that day every place where there used to be a thousand vines, worth a thousand shekels of silver, will become briers and thorns.
+    24: With bow and arrows men will come there, for all the land will be briers and thorns;
+    25: and as for all the hills which used to be hoed with a hoe, you will not come there for fear of briers and thorns; but they will become a place where cattle are let loose and where sheep tread.
+
+  Chapter 8.
+
+    1: Then the LORD said to me, "Take a large tablet and write upon it in common characters, `Belonging to Ma'her-shal'al-hash-baz.'"
+    2: And I got reliable witnesses, Uri'ah the priest and Zechari'ah the son of Jeberechi'ah, to attest for me.
+    3: And I went to the prophetess, and she conceived and bore a son. Then the LORD said to me, "Call his name Ma'her-shal'al-hash-baz;
+    4: for before the child knows how to cry `My father' or `My mother,' the wealth of Damascus and the spoil of Sama'ria will be carried away before the king of Assyria."
+    5: The LORD spoke to me again:
+    6: "Because this people have refused the waters of Shilo'ah that flow gently, and melt in fear before Rezin and the son of Remali'ah;
+    7: therefore, behold, the Lord is bringing up against them the waters of the River, mighty and many, the king of Assyria and all his glory; and it will rise over all its channels and go over all its banks;
+    8: and it will sweep on into Judah, it will overflow and pass on, reaching even to the neck; and its outspread wings will fill the breadth of your land, O Imman'u-el."
+    9: Be broken, you peoples, and be dismayed; give ear, all you far countries; gird yourselves and be dismayed; gird yourselves and be dismayed.
+    10: Take counsel together, but it will come to nought; speak a word, but it will not stand, for God is with us.
+    11: For the LORD spoke thus to me with his strong hand upon me, and warned me not to walk in the way of this people, saying:
+    12: "Do not call conspiracy all that this people call conspiracy, and do not fear what they fear, nor be in dread.
+    13: But the LORD of hosts, him you shall regard as holy; let him be your fear, and let him be your dread.
+    14: And he will become a sanctuary, and a stone of offense, and a rock of stumbling to both houses of Israel, a trap and a snare to the inhabitants of Jerusalem.
+    15: And many shall stumble thereon; they shall fall and be broken; they shall be snared and taken."
+    16: Bind up the testimony, seal the teaching among my disciples.
+    17: I will wait for the LORD, who is hiding his face from the house of Jacob, and I will hope in him.
+    18: Behold, I and the children whom the LORD has given me are signs and portents in Israel from the LORD of hosts, who dwells on Mount Zion.
+    19: And when they say to you, "Consult the mediums and the wizards who chirp and mutter," should not a people consult their God? Should they consult the dead on behalf of the living?
+    20: To the teaching and to the testimony! Surely for this word which they speak there is no dawn.
+    21: They will pass through the land, greatly distressed and hungry; and when they are hungry, they will be enraged and will curse their king and their God, and turn their faces upward;
+    22: and they will look to the earth, but behold, distress and darkness, the gloom of anguish; and they will be thrust into thick darkness.
+
+End of day 214.

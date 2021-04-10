@@ -1,0 +1,135 @@
+Day 106:
+
+Reading Ezra, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: In the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia so that he made a proclamation throughout all his kingdom and also put it in writing:
+    2: "Thus says Cyrus king of Persia: The LORD, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah.
+    3: Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the LORD, the God of Israel -- he is the God who is in Jerusalem;
+    4: and let each survivor, in whatever place he sojourns, be assisted by the men of his place with silver and gold, with goods and with beasts, besides freewill offerings for the house of God which is in Jerusalem."
+    5: Then rose up the heads of the fathers' houses of Judah and Benjamin, and the priests and the Levites, every one whose spirit God had stirred to go up to rebuild the house of the LORD which is in Jerusalem;
+    6: and all who were about them aided them with vessels of silver, with gold, with goods, with beasts, and with costly wares, besides all that was freely offered.
+    7: Cyrus the king also brought out the vessels of the house of the LORD which Nebuchadnez'zar had carried away from Jerusalem and placed in the house of his gods.
+    8: Cyrus king of Persia brought these out in charge of Mith'redath the treasurer, who counted them out to Shesh-baz'zar the prince of Judah.
+    9: And this was the number of them: a thousand basins of gold, a thousand basins of silver, twenty-nine censers,
+    10: thirty bowls of gold, two thousand four hundred and ten bowls of silver, and a thousand other vessels;
+    11: all the vessels of gold and of silver were five thousand four hundred and sixty-nine. All these did Shesh-baz'zar bring up, when the exiles were brought up from Babylonia to Jerusalem.
+
+  Chapter 2.
+
+    1: Now these were the people of the province who came up out of the captivity of those exiles whom Nebuchadnez'zar the king of Babylon had carried captive to Babylonia; they returned to Jerusalem and Judah, each to his own town.
+    2: They came with Zerub'babel, Jeshua, Nehemi'ah, Serai'ah, Re-el-ai'ah, Mor'decai, Bilshan, Mispar, Bigva'i, Rehum, and Ba'anah. The number of the men of the people of Israel:
+    3: the sons of Parosh, two thousand one hundred and seventy-two.
+    4: The sons of Shephati'ah, three hundred and seventy-two.
+    5: The sons of Arah, seven hundred and seventy-five.
+    6: The sons of Pa'hath-moab, namely the sons of Jeshua and Jo'ab, two thousand eight hundred and twelve.
+    7: The sons of Elam, one thousand two hundred and fifty-four.
+    8: The sons of Zattu, nine hundred and forty-five.
+    9: The sons of Zac'cai, seven hundred and sixty.
+    10: The sons of Bani, six hundred and forty-two.
+    11: The sons of Be'bai, six hundred and twenty-three.
+    12: The sons of Azgad, one thousand two hundred and twenty-two.
+    13: The sons of Adoni'kam, six hundred and sixty-six.
+    14: The sons of Bigva'i, two thousand and fifty-six.
+    15: The sons of Adin, four hundred and fifty-four.
+    16: The sons of Ater, namely of Hezeki'ah, ninety-eight.
+    17: The sons of Be'zai, three hundred and twenty-three.
+    18: The sons of Jorah, one hundred and twelve.
+    19: The sons of Hashum, two hundred and twenty-three.
+    20: The sons of Gibbar, ninety-five.
+    21: The sons of Bethlehem, one hundred and twenty-three.
+    22: The men of Neto'phah, fifty-six.
+    23: The men of An'athoth, one hundred and twenty-eight.
+    24: The sons of Az'maveth, forty-two.
+    25: The sons of Kir'iathar'im, Chephi'rah, and Be-er'oth, seven hundred and forty-three.
+    26: The sons of Ramah and Geba, six hundred and twenty-one.
+    27: The men of Michmas, one hundred and twenty-two.
+    28: The men of Bethel and Ai, two hundred and twenty-three.
+    29: The sons of Nebo, fifty-two.
+    30: The sons of Magbish, one hundred and fifty-six.
+    31: The sons of the other Elam, one thousand two hundred and fifty-four.
+    32: The sons of Harim, three hundred and twenty.
+    33: The sons of Lod, Hadid, and Ono, seven hundred and twenty-five.
+    34: The sons of Jericho, three hundred and forty-five.
+    35: The sons of Sena'ah, three thousand six hundred and thirty.
+    36: The priests: the sons of Jedai'ah, of the house of Jeshua, nine hundred and seventy-three.
+    37: The sons of Immer, one thousand and fifty-two.
+    38: The sons of Pashhur, one thousand two hundred and forty-seven.
+    39: The sons of Harim, one thousand and seventeen.
+    40: The Levites: the sons of Jeshua and Kad'mi-el, of the sons of Hodavi'ah, seventy-four.
+    41: The singers: the sons of Asaph, one hundred and twenty-eight.
+    42: The sons of the gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hati'ta, and the sons of Sho'bai, in all one hundred and thirty-nine.
+    43: The temple servants: the sons of Ziha, the sons of Hasu'pha, the sons of Tabba'oth,
+    44: the sons of Keros, the sons of Si'aha, the sons of Padon,
+    45: the sons of Leba'nah, the sons of Hag'abah, the sons of Akkub,
+    46: the sons of Hagab, the sons of Shamlai, the sons of Hanan,
+    47: the sons of Giddel, the sons of Gahar, the sons of Re-ai'ah,
+    48: the sons of Rezin, the sons of Neko'da, the sons of Gazzam,
+    49: the sons of Uzza, the sons of Pase'ah, the sons of Besai,
+    50: the sons of Asnah, the sons of Me-u'nim, the sons of Nephi'sim,
+    51: the sons of Bakbuk, the sons of Haku'pha, the sons of Harhur,
+    52: the sons of Bazluth, the sons of Mehi'da, the sons of Harsha,
+    53: the sons of Barkos, the sons of Sis'era, the sons of Temah,
+    54: the sons of Nezi'ah, and the sons of Hati'pha.
+    55: The sons of Solomon's servants: the sons of So'tai, the sons of Hasso'phereth, the sons of Peru'da,
+    56: the sons of Ja'alah, the sons of Darkon, the sons of Giddel,
+    57: the sons of Shephati'ah, the sons of Hattil, the sons of Po'chereth-hazzeba'im, and the sons of Ami.
+    58: All the temple servants and the sons of Solomon's servants were three hundred and ninety-two.
+    59: The following were those who came up from Tel-me'lah, Tel-har'sha, Cherub, Addan, and Immer, though they could not prove their fathers' houses or their descent, whether they belonged to Israel:
+    60: the sons of Delai'ah, the sons of Tobi'ah, and the sons of Neko'da, six hundred and fifty-two.
+    61: Also, of the sons of the priests: the sons of Habai'ah, the sons of Hakkoz, and the sons of Barzil'lai (who had taken a wife from the daughters of Barzil'lai the Gileadite, and was called by their name).
+    62: These sought their registration among those enrolled in the genealogies, but they were not found there, and so they were excluded from the priesthood as unclean;
+    63: the governor told them that they were not to partake of the most holy food, until there should be a priest to consult Urim and Thummim.
+    64: The whole assembly together was forty-two thousand three hundred and sixty,
+    65: besides their menservants and maidservants, of whom there were seven thousand three hundred and thirty-seven; and they had two hundred male and female singers.
+    66: Their horses were seven hundred and thirty-six, their mules were two hundred and forty-five,
+    67: their camels were four hundred and thirty-five, and their asses were six thousand seven hundred and twenty.
+    68: Some of the heads of families, when they came to the house of the LORD which is in Jerusalem, made freewill offerings for the house of God, to erect it on its site;
+    69: according to their ability they gave to the treasury of the work sixty-one thousand darics of gold, five thousand minas of silver, and one hundred priests' garments.
+    70: The priests, the Levites, and some of the people lived in Jerusalem and its vicinity; and the singers, the gatekeepers, and the temple servants lived in their towns, and all Israel in their towns.
+
+  Chapter 3.
+
+    1: When the seventh month came, and the sons of Israel were in the towns, the people gathered as one man to Jerusalem.
+    2: Then arose Jeshua the son of Jo'zadak, with his fellow priests, and Zerub'babel the son of She-al'ti-el with his kinsmen, and they built the altar of the God of Israel, to offer burnt offerings upon it, as it is written in the law of Moses the man of God.
+    3: They set the altar in its place, for fear was upon them because of the peoples of the lands, and they offered burnt offerings upon it to the LORD, burnt offerings morning and evening.
+    4: And they kept the feast of booths, as it is written, and offered the daily burnt offerings by number according to the ordinance, as each day required,
+    5: and after that the continual burnt offerings, the offerings at the new moon and at all the appointed feasts of the LORD, and the offerings of every one who made a freewill offering to the LORD.
+    6: From the first day of the seventh month they began to offer burnt offerings to the LORD. But the foundation of the temple of the LORD was not yet laid.
+    7: So they gave money to the masons and the carpenters, and food, drink, and oil to the Sido'nians and the Tyrians to bring cedar trees from Lebanon to the sea, to Joppa, according to the grant which they had from Cyrus king of Persia.
+    8: Now in the second year of their coming to the house of God at Jerusalem, in the second month, Zerub'babel the son of She-al'ti-el and Jeshua the son of Jo'zadak made a beginning, together with the rest of their brethren, the priests and the Levites and all who had come to Jerusalem from the captivity. They appointed the Levites, from twenty years old and upward, to have the oversight of the work of the house of the LORD.
+    9: And Jeshua with his sons and his kinsmen, and Kad'mi-el and his sons, the sons of Judah, together took the oversight of the workmen in the house of God, along with the sons of Hen'adad and the Levites, their sons and kinsmen.
+    10: And when the builders laid the foundation of the temple of the LORD, the priests in their vestments came forward with trumpets, and the Levites, the sons of Asaph, with cymbals, to praise the LORD, according to the directions of David king of Israel;
+    11: and they sang responsively, praising and giving thanks to the LORD, "For he is good, for his steadfast love endures for ever toward Israel." And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid.
+    12: But many of the priests and Levites and heads of fathers' houses, old men who had seen the first house, wept with a loud voice when they saw the foundation of this house being laid, though many shouted aloud for joy;
+    13: so that the people could not distinguish the sound of the joyful shout from the sound of the people's weeping, for the people shouted with a great shout, and the sound was heard afar.
+
+  Chapter 4.
+
+    1: Now when the adversaries of Judah and Benjamin heard that the returned exiles were building a temple to the LORD, the God of Israel,
+    2: they approached Zerub'babel and the heads of fathers' houses and said to them, "Let us build with you; for we worship your God as you do, and we have been sacrificing to him ever since the days of E'sar-had'don king of Assyria who brought us here."
+    3: But Zerub'babel, Jeshua, and the rest of the heads of fathers' houses in Israel said to them, "You have nothing to do with us in building a house to our God; but we alone will build to the LORD, the God of Israel, as King Cyrus the king of Persia has commanded us."
+    4: Then the people of the land discouraged the people of Judah, and made them afraid to build,
+    5: and hired counselors against them to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
+    6: And in the reign of Ahasu-e'rus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem.
+    7: And in the days of Ar-ta-xerx'es, Bishlam and Mith'redath and Tab'eel and the rest of their associates wrote to Ar-ta-xerx'es king of Persia; the letter was written in Aramaic and translated.
+    8: Rehum the commander and Shim'shai the scribe wrote a letter against Jerusalem to Ar-ta-xerx'es the king as follows --
+    9: then wrote Rehum the commander, Shim'shai the scribe, and the rest of their associates, the judges, the governors, the officials, the Persians, the men of Erech, the Babylonians, the men of Susa, that is, the Elamites,
+    10: and the rest of the nations whom the great and noble Osnap'par deported and settled in the cities of Sama'ria and in the rest of the province Beyond the River, and now
+    11: this is a copy of the letter that they sent -- "To Ar-ta-xerx'es the king: Your servants, the men of the province Beyond the River, send greeting. And now
+    12: be it known to the king that the Jews who came up from you to us have gone to Jerusalem. They are rebuilding that rebellious and wicked city; they are finishing the walls and repairing the foundations.
+    13: Now be it known to the king that, if this city is rebuilt and the walls finished, they will not pay tribute, custom, or toll, and the royal revenue will be impaired.
+    14: Now because we eat the salt of the palace and it is not fitting for us to witness the king's dishonor, therefore we send and inform the king,
+    15: in order that search may be made in the book of the records of your fathers. You will find in the book of the records and learn that this city is a rebellious city, hurtful to kings and provinces, and that sedition was stirred up in it from of old. That was why this city was laid waste.
+    16: We make known to the king that, if this city is rebuilt and its walls finished, you will then have no possession in the province Beyond the River."
+    17: The king sent an answer: "To Rehum the commander and Shim'shai the scribe and the rest of their associates who live in Sama'ria and in the rest of the province Beyond the River, greeting. And now
+    18: the letter which you sent to us has been plainly read before me.
+    19: And I made a decree, and search has been made, and it has been found that this city from of old has risen against kings, and that rebellion and sedition have been made in it.
+    20: And mighty kings have been over Jerusalem, who ruled over the whole province Beyond the River, to whom tribute, custom, and toll were paid.
+    21: Therefore make a decree that these men be made to cease, and that this city be not rebuilt, until a decree is made by me.
+    22: And take care not to be slack in this matter; why should damage grow to the hurt of the king?"
+    23: Then, when the copy of King Ar-ta-xerx'es' letter was read before Rehum and Shim'shai the scribe and their associates, they went in haste to the Jews at Jerusalem and by force and power made them cease.
+    24: Then the work on the house of God which is in Jerusalem stopped; and it ceased until the second year of the reign of Darius king of Persia.
+
+End of day 106.

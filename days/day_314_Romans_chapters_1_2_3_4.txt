@@ -1,0 +1,134 @@
+Day 314:
+
+Reading Romans, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Paul, a servant of Jesus Christ, called to be an apostle, set apart for the gospel of God
+    2: which he promised beforehand through his prophets in the holy scriptures,
+    3: the gospel concerning his Son, who was descended from David according to the flesh
+    4: and designated Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,
+    5: through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,
+    6: including yourselves who are called to belong to Jesus Christ;
+    7: To all God's beloved in Rome, who are called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
+    8: First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world.
+    9: For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you always in my prayers,
+    10: asking that somehow by God's will I may now at last succeed in coming to you.
+    11: For I long to see you, that I may impart to you some spiritual gift to strengthen you,
+    12: that is, that we may be mutually encouraged by each other's faith, both yours and mine.
+    13: I want you to know, brethren, that I have often intended to come to you (but thus far have been prevented), in order that I may reap some harvest among you as well as among the rest of the Gentiles.
+    14: I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish:
+    15: so I am eager to preach the gospel to you also who are in Rome.
+    16: For I am not ashamed of the gospel: it is the power of God for salvation to every one who has faith, to the Jew first and also to the Greek.
+    17: For in it the righteousness of God is revealed through faith for faith; as it is written, "He who through faith is righteous shall live."
+    18: For the wrath of God is revealed from heaven against all ungodliness and wickedness of men who by their wickedness suppress the truth.
+    19: For what can be known about God is plain to them, because God has shown it to them.
+    20: Ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made. So they are without excuse;
+    21: for although they knew God they did not honor him as God or give thanks to him, but they became futile in their thinking and their senseless minds were darkened.
+    22: Claiming to be wise, they became fools,
+    23: and exchanged the glory of the immortal God for images resembling mortal man or birds or animals or reptiles.
+    24: Therefore God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves,
+    25: because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed for ever! Amen.
+    26: For this reason God gave them up to dishonorable passions. Their women exchanged natural relations for unnatural,
+    27: and the men likewise gave up natural relations with women and were consumed with passion for one another, men committing shameless acts with men and receiving in their own persons the due penalty for their error.
+    28: And since they did not see fit to acknowledge God, God gave them up to a base mind and to improper conduct.
+    29: They were filled with all manner of wickedness, evil, covetousness, malice. Full of envy, murder, strife, deceit, malignity, they are gossips,
+    30: slanderers, haters of God, insolent, haughty, boastful, inventors of evil, disobedient to parents,
+    31: foolish, faithless, heartless, ruthless.
+    32: Though they know God's decree that those who do such things deserve to die, they not only do them but approve those who practice them.
+
+  Chapter 2.
+
+    1: Therefore you have no excuse, O man, whoever you are, when you judge another; for in passing judgment upon him you condemn yourself, because you, the judge, are doing the very same things.
+    2: We know that the judgment of God rightly falls upon those who do such things.
+    3: Do you suppose, O man, that when you judge those who do such things and yet do them yourself, you will escape the judgment of God?
+    4: Or do you presume upon the riches of his kindness and forbearance and patience? Do you not know that God's kindness is meant to lead you to repentance?
+    5: But by your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed.
+    6: For he will render to every man according to his works:
+    7: to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life;
+    8: but for those who are factious and do not obey the truth, but obey wickedness, there will be wrath and fury.
+    9: There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek,
+    10: but glory and honor and peace for every one who does good, the Jew first and also the Greek.
+    11: For God shows no partiality.
+    12: All who have sinned without the law will also perish without the law, and all who have sinned under the law will be judged by the law.
+    13: For it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified.
+    14: When Gentiles who have not the law do by nature what the law requires, they are a law to themselves, even though they do not have the law.
+    15: They show that what the law requires is written on their hearts, while their conscience also bears witness and their conflicting thoughts accuse or perhaps excuse them
+    16: on that day when, according to my gospel, God judges the secrets of men by Christ Jesus.
+    17: But if you call yourself a Jew and rely upon the law and boast of your relation to God
+    18: and know his will and approve what is excellent, because you are instructed in the law,
+    19: and if you are sure that you are a guide to the blind, a light to those who are in darkness,
+    20: a corrector of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth --
+    21: you then who teach others, will you not teach yourself? While you preach against stealing, do you steal?
+    22: You who say that one must not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?
+    23: You who boast in the law, do you dishonor God by breaking the law?
+    24: For, as it is written, "The name of God is blasphemed among the Gentiles because of you."
+    25: Circumcision indeed is of value if you obey the law; but if you break the law, your circumcision becomes uncircumcision.
+    26: So, if a man who is uncircumcised keeps the precepts of the law, will not his uncircumcision be regarded as circumcision?
+    27: Then those who are physically uncircumcised but keep the law will condemn you who have the written code and circumcision but break the law.
+    28: For he is not a real Jew who is one outwardly, nor is true circumcision something external and physical.
+    29: He is a Jew who is one inwardly, and real circumcision is a matter of the heart, spiritual and not literal. His praise is not from men but from God.
+
+  Chapter 3.
+
+    1: Then what advantage has the Jew? Or what is the value of circumcision?
+    2: Much in every way. To begin with, the Jews are entrusted with the oracles of God.
+    3: What if some were unfaithful? Does their faithlessness nullify the faithfulness of God?
+    4: By no means! Let God be true though every man be false, as it is written, "That thou mayest be justified in thy words, and prevail when thou art judged."
+    5: But if our wickedness serves to show the justice of God, what shall we say? That God is unjust to inflict wrath on us? (I speak in a human way.)
+    6: By no means! For then how could God judge the world?
+    7: But if through my falsehood God's truthfulness abounds to his glory, why am I still being condemned as a sinner?
+    8: And why not do evil that good may come? -- as some people slanderously charge us with saying. Their condemnation is just.
+    9: What then? Are we Jews any better off? No, not at all; for I have already charged that all men, both Jews and Greeks, are under the power of sin,
+    10: as it is written: "None is righteous, no, not one;
+    11: no one understands, no one seeks for God.
+    12: All have turned aside, together they have gone wrong; no one does good, not even one."
+    13: "Their throat is an open grave, they use their tongues to deceive." "The venom of asps is under their lips."
+    14: "Their mouth is full of curses and bitterness."
+    15: "Their feet are swift to shed blood,
+    16: in their paths are ruin and misery,
+    17: and the way of peace they do not know."
+    18: "There is no fear of God before their eyes."
+    19: Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God.
+    20: For no human being will be justified in his sight by works of the law, since through the law comes knowledge of sin.
+    21: But now the righteousness of God has been manifested apart from law, although the law and the prophets bear witness to it,
+    22: the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction;
+    23: since all have sinned and fall short of the glory of God,
+    24: they are justified by his grace as a gift, through the redemption which is in Christ Jesus,
+    25: whom God put forward as an expiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins;
+    26: it was to prove at the present time that he himself is righteous and that he justifies him who has faith in Jesus.
+    27: Then what becomes of our boasting? It is excluded. On what principle? On the principle of works? No, but on the principle of faith.
+    28: For we hold that a man is justified by faith apart from works of law.
+    29: Or is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also,
+    30: since God is one; and he will justify the circumcised on the ground of their faith and the uncircumcised through their faith.
+    31: Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law.
+
+  Chapter 4.
+
+    1: What then shall we say about Abraham, our forefather according to the flesh?
+    2: For if Abraham was justified by works, he has something to boast about, but not before God.
+    3: For what does the scripture say? "Abraham believed God, and it was reckoned to him as righteousness."
+    4: Now to one who works, his wages are not reckoned as a gift but as his due.
+    5: And to one who does not work but trusts him who justifies the ungodly, his faith is reckoned as righteousness.
+    6: So also David pronounces a blessing upon the man to whom God reckons righteousness apart from works:
+    7: "Blessed are those whose iniquities are forgiven, and whose sins are covered;
+    8: blessed is the man against whom the Lord will not reckon his sin."
+    9: Is this blessing pronounced only upon the circumcised, or also upon the uncircumcised? We say that faith was reckoned to Abraham as righteousness.
+    10: How then was it reckoned to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised.
+    11: He received circumcision as a sign or seal of the righteousness which he had by faith while he was still uncircumcised. The purpose was to make him the father of all who believe without being circumcised and who thus have righteousness reckoned to them,
+    12: and likewise the father of the circumcised who are not merely circumcised but also follow the example of the faith which our father Abraham had before he was circumcised.
+    13: The promise to Abraham and his descendants, that they should inherit the world, did not come through the law but through the righteousness of faith.
+    14: If it is the adherents of the law who are to be the heirs, faith is null and the promise is void.
+    15: For the law brings wrath, but where there is no law there is no transgression.
+    16: That is why it depends on faith, in order that the promise may rest on grace and be guaranteed to all his descendants -- not only to the adherents of the law but also to those who share the faith of Abraham, for he is the father of us all,
+    17: as it is written, "I have made you the father of many nations" -- in the presence of the God in whom he believed, who gives life to the dead and calls into existence the things that do not exist.
+    18: In hope he believed against hope, that he should become the father of many nations; as he had been told, "So shall your descendants be."
+    19: He did not weaken in faith when he considered his own body, which was as good as dead because he was about a hundred years old, or when he considered the barrenness of Sarah's womb.
+    20: No distrust made him waver concerning the promise of God, but he grew strong in his faith as he gave glory to God,
+    21: fully convinced that God was able to do what he had promised.
+    22: That is why his faith was "reckoned to him as righteousness."
+    23: But the words, "it was reckoned to him," were written not for his sake alone,
+    24: but for ours also. It will be reckoned to us who believe in him that raised from the dead Jesus our Lord,
+    25: who was put to death for our trespasses and raised for our justification.
+
+End of day 314.

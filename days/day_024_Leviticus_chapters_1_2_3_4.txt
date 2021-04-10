@@ -1,0 +1,102 @@
+Day 24:
+
+Reading Leviticus, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: The LORD called Moses, and spoke to him from the tent of meeting, saying,
+    2: "Speak to the people of Israel, and say to them, When any man of you brings an offering to the LORD, you shall bring your offering of cattle from the herd or from the flock.
+    3: "If his offering is a burnt offering from the herd, he shall offer a male without blemish; he shall offer it at the door of the tent of meeting, that he may be accepted before the LORD;
+    4: he shall lay his hand upon the head of the burnt offering, and it shall be accepted for him to make atonement for him.
+    5: Then he shall kill the bull before the LORD; and Aaron's sons the priests shall present the blood, and throw the blood round about against the altar that is at the door of the tent of meeting.
+    6: And he shall flay the burnt offering and cut it into pieces;
+    7: and the sons of Aaron the priest shall put fire on the altar, and lay wood in order upon the fire;
+    8: and Aaron's sons the priests shall lay the pieces, the head, and the fat, in order upon the wood that is on the fire upon the altar;
+    9: but its entrails and its legs he shall wash with water. And the priest shall burn the whole on the altar, as a burnt offering, an offering by fire, a pleasing odor to the LORD.
+    10: "If his gift for a burnt offering is from the flock, from the sheep or goats, he shall offer a male without blemish;
+    11: and he shall kill it on the north side of the altar before the LORD, and Aaron's sons the priests shall throw its blood against the altar round about.
+    12: And he shall cut it into pieces, with its head and its fat, and the priest shall lay them in order upon the wood that is on the fire upon the altar;
+    13: but the entrails and the legs he shall wash with water. And the priest shall offer the whole, and burn it on the altar; it is a burnt offering, an offering by fire, a pleasing odor to the LORD.
+    14: "If his offering to the LORD is a burnt offering of birds, then he shall bring his offering of turtledoves or of young pigeons.
+    15: And the priest shall bring it to the altar and wring off its head, and burn it on the altar; and its blood shall be drained out on the side of the altar;
+    16: and he shall take away its crop with the feathers, and cast it beside the altar on the east side, in the place for ashes;
+    17: he shall tear it by its wings, but shall not divide it asunder. And the priest shall burn it on the altar, upon the wood that is on the fire; it is a burnt offering, an offering by fire, a pleasing odor to the LORD.
+
+  Chapter 2.
+
+    1: "When any one brings a cereal offering as an offering to the LORD, his offering shall be of fine flour; he shall pour oil upon it, and put frankincense on it,
+    2: and bring it to Aaron's sons the priests. And he shall take from it a handful of the fine flour and oil, with all of its frankincense; and the priest shall burn this as its memorial portion upon the altar, an offering by fire, a pleasing odor to the LORD.
+    3: And what is left of the cereal offering shall be for Aaron and his sons; it is a most holy part of the offerings by fire to the LORD.
+    4: "When you bring a cereal offering baked in the oven as an offering, it shall be unleavened cakes of fine flour mixed with oil, or unleavened wafers spread with oil.
+    5: And if your offering is a cereal offering baked on a griddle, it shall be of fine flour unleavened, mixed with oil;
+    6: you shall break it in pieces, and pour oil on it; it is a cereal offering.
+    7: And if your offering is a cereal offering cooked in a pan, it shall be made of fine flour with oil.
+    8: And you shall bring the cereal offering that is made of these things to the LORD; and when it is presented to the priest, he shall bring it to the altar.
+    9: And the priest shall take from the cereal offering its memorial portion and burn this on the altar, an offering by fire, a pleasing odor to the LORD.
+    10: And what is left of the cereal offering shall be for Aaron and his sons; it is a most holy part of the offerings by fire to the LORD.
+    11: "No cereal offering which you bring to the LORD shall be made with leaven; for you shall burn no leaven nor any honey as an offering by fire to the LORD.
+    12: As an offering of first fruits you may bring them to the LORD, but they shall not be offered on the altar for a pleasing odor.
+    13: You shall season all your cereal offerings with salt; you shall not let the salt of the covenant with your God be lacking from your cereal offering; with all your offerings you shall offer salt.
+    14: "If you offer a cereal offering of first fruits to the LORD, you shall offer for the cereal offering of your first fruits crushed new grain from fresh ears, parched with fire.
+    15: And you shall put oil upon it, and lay frankincense on it; it is a cereal offering.
+    16: And the priest shall burn as its memorial portion part of the crushed grain and of the oil with all of its frankincense; it is an offering by fire to the LORD.
+
+  Chapter 3.
+
+    1: "If a man's offering is a sacrifice of peace offering, if he offers an animal from the herd, male or female, he shall offer it without blemish before the LORD.
+    2: And he shall lay his hand upon the head of his offering and kill it at the door of the tent of meeting; and Aaron's sons the priests shall throw the blood against the altar round about.
+    3: And from the sacrifice of the peace offering, as an offering by fire to the LORD, he shall offer the fat covering the entrails and all the fat that is on the entrails,
+    4: and the two kidneys with the fat that is on them at the loins, and the appendage of the liver which he shall take away with the kidneys.
+    5: Then Aaron's sons shall burn it on the altar upon the burnt offering, which is upon the wood on the fire; it is an offering by fire, a pleasing odor to the LORD.
+    6: "If his offering for a sacrifice of peace offering to the LORD is an animal from the flock, male or female, he shall offer it without blemish.
+    7: If he offers a lamb for his offering, then he shall offer it before the LORD,
+    8: laying his hand upon the head of his offering and killing it before the tent of meeting; and Aaron's sons shall throw its blood against the altar round about.
+    9: Then from the sacrifice of the peace offering as an offering by fire to the LORD he shall offer its fat, the fat tail entire, taking it away close by the backbone, and the fat that covers the entrails, and all the fat that is on the entrails,
+    10: and the two kidneys with the fat that is on them at the loins, and the appendage of the liver which he shall take away with the kidneys.
+    11: And the priest shall burn it on the altar as food offered by fire to the LORD.
+    12: "If his offering is a goat, then he shall offer it before the LORD,
+    13: and lay his hand upon its head, and kill it before the tent of meeting; and the sons of Aaron shall throw its blood against the altar round about.
+    14: Then he shall offer from it, as his offering for an offering by fire to the LORD, the fat covering the entrails, and all the fat that is on the entrails,
+    15: and the two kidneys with the fat that is on them at the loins, and the appendage of the liver which he shall take away with the kidneys.
+    16: And the priest shall burn them on the altar as food offered by fire for a pleasing odor. All fat is the LORD's.
+    17: It shall be a perpetual statute throughout your generations, in all your dwelling places, that you eat neither fat nor blood."
+
+  Chapter 4.
+
+    1: And the LORD said to Moses,
+    2: "Say to the people of Israel, If any one sins unwittingly in any of the things which the LORD has commanded not to be done, and does any one of them,
+    3: if it is the anointed priest who sins, thus bringing guilt on the people, then let him offer for the sin which he has committed a young bull without blemish to the LORD for a sin offering.
+    4: He shall bring the bull to the door of the tent of meeting before the LORD, and lay his hand on the head of the bull, and kill the bull before the LORD.
+    5: And the anointed priest shall take some of the blood of the bull and bring it to the tent of meeting;
+    6: and the priest shall dip his finger in the blood and sprinkle part of the blood seven times before the LORD in front of the veil of the sanctuary.
+    7: And the priest shall put some of the blood on the horns of the altar of fragrant incense before the LORD which is in the tent of meeting, and the rest of the blood of the bull he shall pour out at the base of the altar of burnt offering which is at the door of the tent of meeting.
+    8: And all the fat of the bull of the sin offering he shall take from it, the fat that covers the entrails and all the fat that is on the entrails,
+    9: and the two kidneys with the fat that is on them at the loins, and the appendage of the liver which he shall take away with the kidneys
+    10: (just as these are taken from the ox of the sacrifice of the peace offerings), and the priest shall burn them upon the altar of burnt offering.
+    11: But the skin of the bull and all its flesh, with its head, its legs, its entrails, and its dung,
+    12: the whole bull he shall carry forth outside the camp to a clean place, where the ashes are poured out, and shall burn it on a fire of wood; where the ashes are poured out it shall be burned.
+    13: "If the whole congregation of Israel commits a sin unwittingly and the thing is hidden from the eyes of the assembly, and they do any one of the things which the LORD has commanded not to be done and are guilty;
+    14: when the sin which they have committed becomes known, the assembly shall offer a young bull for a sin offering and bring it before the tent of meeting;
+    15: and the elders of the congregation shall lay their hands upon the head of the bull before the LORD, and the bull shall be killed before the LORD.
+    16: Then the anointed priest shall bring some of the blood of the bull to the tent of meeting,
+    17: and the priest shall dip his finger in the blood and sprinkle it seven times before the LORD in front of the veil.
+    18: And he shall put some of the blood on the horns of the altar which is in the tent of meeting before the LORD; and the rest of the blood he shall pour out at the base of the altar of burnt offering which is at the door of the tent of meeting.
+    19: And all its fat he shall take from it and burn upon the altar.
+    20: Thus shall he do with the bull; as he did with the bull of the sin offering, so shall he do with this; and the priest shall make atonement for them, and they shall be forgiven.
+    21: And he shall carry forth the bull outside the camp, and burn it as he burned the first bull; it is the sin offering for the assembly.
+    22: "When a ruler sins, doing unwittingly any one of all the things which the LORD his God has commanded not to be done, and is guilty,
+    23: if the sin which he has committed is made known to him, he shall bring as his offering a goat, a male without blemish,
+    24: and shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD; it is a sin offering.
+    25: Then the priest shall take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and pour out the rest of its blood at the base of the altar of burnt offering.
+    26: And all its fat he shall burn on the altar, like the fat of the sacrifice of peace offerings; so the priest shall make atonement for him for his sin, and he shall be forgiven.
+    27: "If any one of the common people sins unwittingly in doing any one of the things which the LORD has commanded not to be done, and is guilty,
+    28: when the sin which he has committed is made known to him he shall bring for his offering a goat, a female without blemish, for his sin which he has committed.
+    29: And he shall lay his hand on the head of the sin offering, and kill the sin offering in the place of burnt offering.
+    30: And the priest shall take some of its blood with his finger and put it on the horns of the altar of burnt offering, and pour out the rest of its blood at the base of the altar.
+    31: And all its fat he shall remove, as the fat is removed from the peace offerings, and the priest shall burn it upon the altar for a pleasing odor to the LORD; and the priest shall make atonement for him, and he shall be forgiven.
+    32: "If he brings a lamb as his offering for a sin offering, he shall bring a female without blemish,
+    33: and lay his hand upon the head of the sin offering, and kill it for a sin offering in the place where they kill the burnt offering.
+    34: Then the priest shall take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and pour out the rest of its blood at the base of the altar.
+    35: And all its fat he shall remove as the fat of the lamb is removed from the sacrifice of peace offerings, and the priest shall burn it on the altar, upon the offerings by fire to the LORD; and the priest shall make atonement for him for the sin which he has committed, and he shall be forgiven.
+
+End of day 24.

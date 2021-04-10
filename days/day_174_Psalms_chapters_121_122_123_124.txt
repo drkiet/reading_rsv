@@ -1,0 +1,46 @@
+Day 174:
+
+Reading Psalms, chapters ['121', '122', '123', '124']:
+
+  Chapter 121.
+
+    1: I lift up my eyes to the hills. From whence does my help come?
+    2: My help comes from the LORD, who made heaven and earth.
+    3: He will not let your foot be moved, he who keeps you will not slumber.
+    4: Behold, he who keeps Israel will neither slumber nor sleep.
+    5: The LORD is your keeper; the LORD is your shade on your right hand.
+    6: The sun shall not smite you by day, nor the moon by night.
+    7: The LORD will keep you from all evil; he will keep your life.
+    8: The LORD will keep your going out and your coming in from this time forth and for evermore.
+
+  Chapter 122.
+
+    1: I was glad when they said to me, "Let us go to the house of the LORD!"
+    2: Our feet have been standing within your gates, O Jerusalem!
+    3: Jerusalem, built as a city which is bound firmly together,
+    4: to which the tribes go up, the tribes of the LORD, as was decreed for Israel, to give thanks to the name of the LORD.
+    5: There thrones for judgment were set, the thrones of the house of David.
+    6: Pray for the peace of Jerusalem! "May they prosper who love you!
+    7: Peace be within your walls, and security within your towers!"
+    8: For my brethren and companions' sake I will say, "Peace be within you!"
+    9: For the sake of the house of the LORD our God, I will seek your good.
+
+  Chapter 123.
+
+    1: To thee I lift up my eyes, O thou who art enthroned in the heavens!
+    2: Behold, as the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress, so our eyes look to the LORD our God, till he have mercy upon us.
+    3: Have mercy upon us, O LORD, have mercy upon us, for we have had more than enough of contempt.
+    4: Too long our soul has been sated with the scorn of those who are at ease, the contempt of the proud.
+
+  Chapter 124.
+
+    1: If it had not been the LORD who was on our side, let Israel now say --
+    2: if it had not been the LORD who was on our side, when men rose up against us,
+    3: then they would have swallowed us up alive, when their anger was kindled against us;
+    4: then the flood would have swept us away, the torrent would have gone over us;
+    5: then over us would have gone the raging waters.
+    6: Blessed be the LORD, who has not given us as prey to their teeth!
+    7: We have escaped as a bird from the snare of the fowlers; the snare is broken, and we have escaped!
+    8: Our help is in the name of the LORD, who made heaven and earth.
+
+End of day 174.

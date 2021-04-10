@@ -1,0 +1,71 @@
+Day 122:
+
+Reading Esther, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: On the third day Esther put on her royal robes and stood in the inner court of the king's palace, opposite the king's hall. The king was sitting on his royal throne inside the palace opposite the entrance to the palace;
+    2: and when the king saw Queen Esther standing in the court, she found favor in his sight and he held out to Esther the golden scepter that was in his hand. Then Esther approached and touched the top of the scepter. 3 And the king said to her, "What is it, Queen Esther? What is your request? It shall be given you, even to the half of my kingdom."
+    3: And Esther said, "If it please the king, let the king and Haman come this day to a dinner that I have prepared for the king."
+    4: Then said the king, "Bring Haman quickly, that we may do as Esther desires." So the king and Haman came to the dinner that Esther had prepared.
+    5: And as they were drinking wine, the king said to Esther, "What is your petition? It shall be granted you. And what is your request? Even to the half of my kingdom, it shall be fulfilled."
+    6: But Esther said, "My petition and my request is:
+    7: If I have found favor in the sight of the king, and if it please the king to grant my petition and fulfil my request, let the king and Haman come tomorrow to the dinner which I will prepare for them, and tomorrow I will do as the king has said."
+    8: And Haman went out that day joyful and glad of heart. But when Haman saw Mordecai in the king's gate, that he neither rose nor trembled before him, he was filled with wrath against Mordecai.
+    9: Nevertheless Haman restrained himself, and went home; and he sent and fetched his friends and his wife Zeresh.
+    10: And Haman recounted to them the splendor of his riches, the number of his sons, all the promotions with which the king had honored him, and how he had advanced him above the princes and the servants of the king.
+    11: And Haman added, "Even Queen Esther let no one come with the king to the banquet she prepared but myself. And tomorrow also I am invited by her together with the king.
+    12: Yet all this does me no good, so long as I see Mordecai the Jew sitting at the king's gate."
+    13: Then his wife Zeresh and all his friends said to him, "Let a gallows fifty cubits high be made, and in the morning tell the king to have Mordecai hanged upon it; then go merrily with the king to the dinner." This counsel pleased Haman, and he had the gallows made.
+
+  Chapter 6.
+
+    1: On that night the king could not sleep; and he gave orders to bring the book of memorable deeds, the chronicles, and they were read before the king.
+    2: And it was found written how Mordecai had told about Bigthana and Teresh, two of the king's eunuchs, who guarded the threshold, and who had sought to lay hands upon King Ahasuerus.
+    3: And the king said, "What honor or dignity has been bestowed on Mordecai for this?" The king's servants who attended him said, "Nothing has been done for him."
+    4: And the king said, "Who is in the court?" Now Haman had just entered the outer court of the king's palace to speak to the king about having Mordecai hanged on the gallows that he had prepared for him.
+    5: So the king's servants told him, "Haman is there, standing in the court." And the king said, "Let him come in."
+    6: So Haman came in, and the king said to him, "What shall be done to the man whom the king delights to honor?" And Haman said to himself, "Whom would the king delight to honor more than me?"
+    7: and Haman said to the king, "For the man whom the king delights to honor,
+    8: let royal robes be brought, which the king has worn, and the horse which the king has ridden, and on whose head a royal crown is set;
+    9: and let the robes and the horse be handed over to one of the king's most noble princes; let him array the man whom the king delights to honor, and let him conduct the man on horseback through the open square of the city, proclaiming before him: 'Thus shall it be done to the man whom the king delights to honor.'"
+    10: Then the king said to Haman, "Make haste, take the robes and the horse, as you have said, and do so to Mordecai the Jew who sits at the king's gate. Leave out nothing that you have mentioned."
+    11: So Haman took the robes and the horse, and he arrayed Mordecai and made him ride through the open square of the city, proclaiming, "Thus shall it be done to the man whom the king delights to honor."
+    12: Then Mordecai returned to the king's gate. But Haman hurried to his house, mourning and with his head covered.
+    13: And Haman told his wife Zeresh and all his friends everything that had befallen him. Then his wise men and his wife Zeresh said to him, "If Mordecai, before whom you have begun to fall, is of the Jewish people, you will not prevail against him but will surely fall before him."
+    14: While they were yet talking with him, the king's eunuchs arrived and brought Haman in haste to the banquet that Esther had prepared.
+
+  Chapter 7.
+
+    1: So the king and Haman went in to feast with Queen Esther.
+    2: And on the second day, as they were drinking wine, the king again said to Esther, "What is your petition, Queen Esther? It shall be granted you. And what is your request? Even to the half of my kingdom, it shall be fulfilled."
+    3: Then Queen Esther answered, "If I have found favor in your sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request.
+    4: For we are sold, I and my people, to be destroyed, to be slain, and to be annihilated. If we had been sold merely as slaves, men and women, I would have held my peace; for our affliction is not to be compared with the loss to the king."
+    5: Then King Ahasuerus said to Queen Esther, "Who is he, and where is he, that would presume to do this?"
+    6: And Esther said, "A foe and enemy! This wicked Haman!" Then Haman was in terror before the king and the queen.
+    7: And the king rose from the feast in wrath and went into the palace garden; but Haman stayed to beg his life from Queen Esther, for he saw that evil was determined against him by the king.
+    8: And the king returned from the palace garden to the place where they were drinking wine, as Haman was falling on the couch where Esther was; and the king said, "Will he even assault the queen in my presence, in my own house?" As the words left the mouth of the king, they covered Haman's face.
+    9: Then said Harbona, one of the eunuchs in attendance on the king, "Moreover, the gallows which Haman has prepared for Mordecai, whose word saved the king, is standing in Haman's house, fifty cubits high."
+    10: And the king said, "Hang him on that." So they hanged Haman on the gallows which he had prepared for Mordecai. Then the anger of the king abated.
+
+  Chapter 8.
+
+    1: On that day King Ahasuerus gave to Queen Esther the house of Haman, the enemy of the Jews. And Mordecai came before the king, for Esther had told what he was to her;
+    2: and the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. And Esther set Mordecai over the house of Haman.
+    3: Then Esther spoke again to the king; she fell at his feet and besought him with tears to avert the evil design of Haman the Agagite and the plot which he had devised against the Jews.
+    4: And the king held out the golden scepter to Esther,
+    5: and Esther rose and stood before the king. And she said, "If it please the king, and if I have found favor in his sight, and if the thing seem right before the king, and I be pleasing in his eyes, let an order be written to revoke the letters devised by Haman the Agagite, the son of Hammedatha, which he wrote to destroy the Jews who are in all the provinces of the king.
+    6: For how can I endure to see the calamity that is coming to my people? Or how can I endure to see the destruction of my kindred?"
+    7: Then King Ahasuerus said to Queen Esther and to Mordecai the Jew, "Behold, I have given Esther the house of Haman, and they have hanged him on the gallows, because he would lay hands on the Jews.
+    8: And you may write as you please with regard to the Jews, in the name of the king, and seal it with the king's ring; for an edict written in the name of the king and sealed with the king's ring cannot be revoked."
+    9: The king's secretaries were summoned at that time, in the third month, which is the month of Sivan, on the twenty-third day; and an edict was written according to all that Mordecai commanded concerning the Jews to the satraps and the governors and the princes of the provinces from India to Ethiopia, a hundred and twenty-seven provinces, to every province in its own script and to every people in its own language, and also to the Jews in their script and their language.
+    10: The writing was in the name of King Ahasuerus and sealed with the king's ring, and letters were sent by mounted couriers riding on swift horses that were used in the king's service, bred from the royal stud.
+    11: By these the king allowed the Jews who were in every city to gather and defend their lives, to destroy, to slay, and to annihilate any armed force of any people or province that might attack them, with their children and women, and to plunder their goods,
+    12: upon one day throughout all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar.
+    13: A copy of what was written was to be issued as a decree in every province, and by proclamation to all peoples, and the Jews were to be ready on that day to avenge themselves upon their enemies.
+    14: So the couriers, mounted on their swift horses that were used in the king's service, rode out in haste, urged by the king's command; and the decree was issued in Susa the capital.
+    15: Then Mordecai went out from the presence of the king in royal robes of blue and white, with a great golden crown and a mantle of fine linen and purple, while the city of Susa shouted and rejoiced.
+    16: The Jews had light and gladness and joy and honor.
+    17: And in every province and in every city, wherever the king's command and his edict came, there was gladness and joy among the Jews, a feast and a holiday. And many from the peoples of the country declared themselves Jews, for the fear of the Jews had fallen upon them.
+
+End of day 122.

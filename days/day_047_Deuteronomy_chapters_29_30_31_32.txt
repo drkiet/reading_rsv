@@ -1,0 +1,148 @@
+Day 47:
+
+Reading Deuteronomy, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: These are the words of the covenant which the LORD commanded Moses to make with the people of Israel in the land of Moab, besides the covenant which he had made with them at Horeb.
+    2: And Moses summoned all Israel and said to them: "You have seen all that the LORD did before your eyes in the land of Egypt, to Pharaoh and to all his servants and to all his land,
+    3: the great trials which your eyes saw, the signs, and those great wonders;
+    4: but to this day the LORD has not given you a mind to understand, or eyes to see, or ears to hear.
+    5: I have led you forty years in the wilderness; your clothes have not worn out upon you, and your sandals have not worn off your feet;
+    6: you have not eaten bread, and you have not drunk wine or strong drink; that you may know that I am the LORD your God.
+    7: And when you came to this place, Sihon the king of Heshbon and Og the king of Bashan came out against us to battle, but we defeated them;
+    8: we took their land, and gave it for an inheritance to the Reubenites, the Gadites, and the half-tribe of the Manas'sites.
+    9: Therefore be careful to do the words of this covenant, that you may prosper in all that you do.
+    10: "You stand this day all of you before the LORD your God; the heads of your tribes, your elders, and your officers, all the men of Israel,
+    11: your little ones, your wives, and the sojourner who is in your camp, both he who hews your wood and he who draws your water,
+    12: that you may enter into the sworn covenant of the LORD your God, which the LORD your God makes with you this day;
+    13: that he may establish you this day as his people, and that he may be your God, as he promised you, and as he swore to your fathers, to Abraham, to Isaac, and to Jacob.
+    14: Nor is it with you only that I make this sworn covenant,
+    15: but with him who is not here with us this day as well as with him who stands here with us this day before the LORD our God.
+    16: "You know how we dwelt in the land of Egypt, and how we came through the midst of the nations through which you passed;
+    17: and you have seen their detestable things, their idols of wood and stone, of silver and gold, which were among them.
+    18: Beware lest there be among you a man or woman or family or tribe, whose heart turns away this day from the LORD our God to go and serve the gods of those nations; lest there be among you a root bearing poisonous and bitter fruit,
+    19: one who, when he hears the words of this sworn covenant, blesses himself in his heart, saying, `I shall be safe, though I walk in the stubbornness of my heart.' This would lead to the sweeping away of moist and dry alike.
+    20: The LORD would not pardon him, but rather the anger of the LORD and his jealousy would smoke against that man, and the curses written in this book would settle upon him, and the LORD would blot out his name from under heaven.
+    21: And the LORD would single him out from all the tribes of Israel for calamity, in accordance with all the curses of the covenant written in this book of the law.
+    22: And the generation to come, your children who rise up after you, and the foreigner who comes from a far land, would say, when they see the afflictions of that land and the sicknesses with which the LORD has made it sick --
+    23: the whole land brimstone and salt, and a burnt-out waste, unsown, and growing nothing, where no grass can sprout, an overthrow like that of Sodom and Gomor'rah, Admah and Zeboi'im, which the LORD overthrew in his anger and wrath --
+    24: yea, all the nations would say, `Why has the LORD done thus to this land? What means the heat of this great anger?'
+    25: Then men would say, `It is because they forsook the covenant of the LORD, the God of their fathers, which he made with them when he brought them out of the land of Egypt,
+    26: and went and served other gods and worshiped them, gods whom they had not known and whom he had not allotted to them;
+    27: therefore the anger of the LORD was kindled against this land, bringing upon it all the curses written in this book;
+    28: and the LORD uprooted them from their land in anger and fury and great wrath, and cast them into another land, as at this day.'
+    29: "The secret things belong to the LORD our God; but the things that are revealed belong to us and to our children for ever, that we may do all the words of this law.
+
+  Chapter 30.
+
+    1: "And when all these things come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the LORD your God has driven you,
+    2: and return to the LORD your God, you and your children, and obey his voice in all that I command you this day, with all your heart and with all your soul;
+    3: then the LORD your God will restore your fortunes, and have compassion upon you, and he will gather you again from all the peoples where the LORD your God has scattered you.
+    4: If your outcasts are in the uttermost parts of heaven, from there the LORD your God will gather you, and from there he will fetch you;
+    5: and the LORD your God will bring you into the land which your fathers possessed, that you may possess it; and he will make you more prosperous and numerous than your fathers.
+    6: And the LORD your God will circumcise your heart and the heart of your offspring, so that you will love the LORD your God with all your heart and with all your soul, that you may live.
+    7: And the LORD your God will put all these curses upon your foes and enemies who persecuted you.
+    8: And you shall again obey the voice of the LORD, and keep all his commandments which I command you this day.
+    9: The LORD your God will make you abundantly prosperous in all the work of your hand, in the fruit of your body, and in the fruit of your cattle, and in the fruit of your ground; for the LORD will again take delight in prospering you, as he took delight in your fathers,
+    10: if you obey the voice of the LORD your God, to keep his commandments and his statutes which are written in this book of the law, if you turn to the LORD your God with all your heart and with all your soul.
+    11: "For this commandment which I command you this day is not too hard for you, neither is it far off.
+    12: It is not in heaven, that you should say, `Who will go up for us to heaven, and bring it to us, that we may hear it and do it?'
+    13: Neither is it beyond the sea, that you should say, `Who will go over the sea for us, and bring it to us, that we may hear it and do it?'
+    14: But the word is very near you; it is in your mouth and in your heart, so that you can do it.
+    15: "See, I have set before you this day life and good, death and evil.
+    16: If you obey the commandments of the LORD your God which I command you this day, by loving the LORD your God, by walking in his ways, and by keeping his commandments and his statutes and his ordinances, then you shall live and multiply, and the LORD your God will bless you in the land which you are entering to take possession of it.
+    17: But if your heart turns away, and you will not hear, but are drawn away to worship other gods and serve them,
+    18: I declare to you this day, that you shall perish; you shall not live long in the land which you are going over the Jordan to enter and possess.
+    19: I call heaven and earth to witness against you this day, that I have set before you life and death, blessing and curse; therefore choose life, that you and your descendants may live,
+    20: loving the LORD your God, obeying his voice, and cleaving to him; for that means life to you and length of days, that you may dwell in the land which the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them."
+
+  Chapter 31.
+
+    1: So Moses continued to speak these words to all Israel.
+    2: And he said to them, "I am a hundred and twenty years old this day; I am no longer able to go out and come in. The LORD has said to me, `You shall not go over this Jordan.'
+    3: The LORD your God himself will go over before you; he will destroy these nations before you, so that you shall dispossess them; and Joshua will go over at your head, as the LORD has spoken.
+    4: And the LORD will do to them as he did to Sihon and Og, the kings of the Amorites, and to their land, when he destroyed them.
+    5: And the LORD will give them over to you, and you shall do to them according to all the commandment which I have commanded you.
+    6: Be strong and of good courage, do not fear or be in dread of them: for it is the LORD your God who goes with you; he will not fail you or forsake you."
+    7: Then Moses summoned Joshua, and said to him in the sight of all Israel, "Be strong and of good courage; for you shall go with this people into the land which the LORD has sworn to their fathers to give them; and you shall put them in possession of it.
+    8: It is the LORD who goes before you; he will be with you, he will not fail you or forsake you; do not fear or be dismayed."
+    9: And Moses wrote this law, and gave it to the priests the sons of Levi, who carried the ark of the covenant of the LORD, and to all the elders of Israel.
+    10: And Moses commanded them, "At the end of every seven years, at the set time of the year of release, at the feast of booths,
+    11: when all Israel comes to appear before the LORD your God at the place which he will choose, you shall read this law before all Israel in their hearing.
+    12: Assemble the people, men, women, and little ones, and the sojourner within your towns, that they may hear and learn to fear the LORD your God, and be careful to do all the words of this law,
+    13: and that their children, who have not known it, may hear and learn to fear the LORD your God, as long as you live in the land which you are going over the Jordan to possess."
+    14: And the LORD said to Moses, "Behold, the days approach when you must die; call Joshua, and present yourselves in the tent of meeting, that I may commission him." And Moses and Joshua went and presented themselves in the tent of meeting.
+    15: And the LORD appeared in the tent in a pillar of cloud; and the pillar of cloud stood by the door of the tent.
+    16: And the LORD said to Moses, "Behold, you are about to sleep with your fathers; then this people will rise and play the harlot after the strange gods of the land, where they go to be among them, and they will forsake me and break my covenant which I have made with them.
+    17: Then my anger will be kindled against them in that day, and I will forsake them and hide my face from them, and they will be devoured; and many evils and troubles will come upon them, so that they will say in that day, `Have not these evils come upon us because our God is not among us?'
+    18: And I will surely hide my face in that day on account of all the evil which they have done, because they have turned to other gods.
+    19: Now therefore write this song, and teach it to the people of Israel; put it in their mouths, that this song may be a witness for me against the people of Israel.
+    20: For when I have brought them into the land flowing with milk and honey, which I swore to give to their fathers, and they have eaten and are full and grown fat, they will turn to other gods and serve them, and despise me and break my covenant.
+    21: And when many evils and troubles have come upon them, this song shall confront them as a witness (for it will live unforgotten in the mouths of their descendants); for I know the purposes which they are already forming, before I have brought them into the land that I swore to give."
+    22: So Moses wrote this song the same day, and taught it to the people of Israel.
+    23: And the LORD commissioned Joshua the son of Nun and said, "Be strong and of good courage; for you shall bring the children of Israel into the land which I swore to give them: I will be with you."
+    24: When Moses had finished writing the words of this law in a book, to the very end,
+    25: Moses commanded the Levites who carried the ark of the covenant of the LORD,
+    26: "Take this book of the law, and put it by the side of the ark of the covenant of the LORD your God, that it may be there for a witness against you.
+    27: For I know how rebellious and stubborn you are; behold, while I am yet alive with you, today you have been rebellious against the LORD; how much more after my death!
+    28: Assemble to me all the elders of your tribes, and your officers, that I may speak these words in their ears and call heaven and earth to witness against them.
+    29: For I know that after my death you will surely act corruptly, and turn aside from the way which I have commanded you; and in the days to come evil will befall you, because you will do what is evil in the sight of the LORD, provoking him to anger through the work of your hands."
+    30: Then Moses spoke the words of this song until they were finished, in the ears of all the assembly of Israel:
+
+  Chapter 32.
+
+    1: "Give ear, O heavens, and I will speak; and let the earth hear the words of my mouth.
+    2: May my teaching drop as the rain, my speech distil as the dew, as the gentle rain upon the tender grass, and as the showers upon the herb.
+    3: For I will proclaim the name of the LORD. Ascribe greatness to our God!
+    4: "The Rock, his work is perfect; for all his ways are justice. A God of faithfulness and without iniquity, just and right is he.
+    5: They have dealt corruptly with him, they are no longer his children because of their blemish; they are a perverse and crooked generation.
+    6: Do you thus requite the LORD, you foolish and senseless people? Is not he your father, who created you, who made you and established you?
+    7: Remember the days of old, consider the years of many generations; ask your father, and he will show you; your elders, and they will tell you.
+    8: When the Most High gave to the nations their inheritance, when he separated the sons of men, he fixed the bounds of the peoples according to the number of the sons of God.
+    9: For the LORD's portion is his people, Jacob his allotted heritage.
+    10: "He found him in a desert land, and in the howling waste of the wilderness; he encircled him, he cared for him, he kept him as the apple of his eye.
+    11: Like an eagle that stirs up its nest, that flutters over its young, spreading out its wings, catching them, bearing them on its pinions,
+    12: the LORD alone did lead him, and there was no foreign god with him.
+    13: He made him ride on the high places of the earth, and he ate the produce of the field; and he made him suck honey out of the rock, and oil out of the flinty rock.
+    14: Curds from the herd, and milk from the flock, with fat of lambs and rams, herds of Bashan and goats, with the finest of the wheat -- and of the blood of the grape you drank wine.
+    15: "But Jesh'urun waxed fat, and kicked; you waxed fat, you grew thick, you became sleek; then he forsook God who made him, and scoffed at the Rock of his salvation.
+    16: They stirred him to jealousy with strange gods; with abominable practices they provoked him to anger.
+    17: They sacrificed to demons which were no gods, to gods they had never known, to new gods that had come in of late, whom your fathers had never dreaded.
+    18: You were unmindful of the Rock that begot you, and you forgot the God who gave you birth.
+    19: "The LORD saw it, and spurned them, because of the provocation of his sons and his daughters.
+    20: And he said, `I will hide my face from them, I will see what their end will be, for they are a perverse generation, children in whom is no faithfulness.
+    21: They have stirred me to jealousy with what is no god; they have provoked me with their idols. So I will stir them to jealousy with those who are no people; I will provoke them with a foolish nation.
+    22: For a fire is kindled by my anger, and it burns to the depths of Sheol, devours the earth and its increase, and sets on fire the foundations of the mountains.
+    23: "`And I will heap evils upon them; I will spend my arrows upon them;
+    24: they shall be wasted with hunger, and devoured with burning heat and poisonous pestilence; and I will send the teeth of beasts against them, with venom of crawling things of the dust.
+    25: In the open the sword shall bereave, and in the chambers shall be terror, destroying both young man and virgin, the sucking child with the man of gray hairs.
+    26: I would have said, "I will scatter them afar, I will make the remembrance of them cease from among men,"
+    27: had I not feared provocation by the enemy, lest their adversaries should judge amiss, lest they should say, "Our hand is triumphant, the LORD has not wrought all this."'
+    28: "For they are a nation void of counsel, and there is no understanding in them.
+    29: If they were wise, they would understand this, they would discern their latter end!
+    30: How should one chase a thousand, and two put ten thousand to flight, unless their Rock had sold them, and the LORD had given them up?
+    31: For their rock is not as our Rock, even our enemies themselves being judges.
+    32: For their vine comes from the vine of Sodom, and from the fields of Gomor'rah; their grapes are grapes of poison, their clusters are bitter;
+    33: their wine is the poison of serpents, and the cruel venom of asps.
+    34: "Is not this laid up in store with me, sealed up in my treasuries?
+    35: Vengeance is mine, and recompense, for the time when their foot shall slip; for the day of their calamity is at hand, and their doom comes swiftly.
+    36: For the LORD will vindicate his people and have compassion on his servants, when he sees that their power is gone, and there is none remaining, bond or free.
+    37: Then he will say, `Where are their gods, the rock in which they took refuge,
+    38: who ate the fat of their sacrifices, and drank the wine of their drink offering? Let them rise up and help you, let them be your protection!
+    39: "`See now that I, even I, am he, and there is no god beside me; I kill and I make alive; I wound and I heal; and there is none that can deliver out of my hand.
+    40: For I lift up my hand to heaven, and swear, As I live for ever,
+    41: if I whet my glittering sword, and my hand takes hold on judgment, I will take vengeance on my adversaries, and will requite those who hate me.
+    42: I will make my arrows drunk with blood, and my sword shall devour flesh -- with the blood of the slain and the captives, from the long-haired heads of the enemy.'
+    43: "Praise his people, O you nations; for he avenges the blood of his servants, and takes vengeance on his adversaries, and makes expiation for the land of his people."
+    44: Moses came and recited all the words of this song in the hearing of the people, he and Joshua the son of Nun.
+    45: And when Moses had finished speaking all these words to all Israel,
+    46: he said to them, "Lay to heart all the words which I enjoin upon you this day, that you may command them to your children, that they may be careful to do all the words of this law.
+    47: For it is no trifle for you, but it is your life, and thereby you shall live long in the land which you are going over the Jordan to possess."
+    48: And the LORD said to Moses that very day,
+    49: "Ascend this mountain of the Ab'arim, Mount Nebo, which is in the land of Moab, opposite Jericho; and view the land of Canaan, which I give to the people of Israel for a possession;
+    50: and die on the mountain which you ascend, and be gathered to your people, as Aaron your brother died in Mount Hor and was gathered to his people;
+    51: because you broke faith with me in the midst of the people of Israel at the waters of Mer'i-bath-ka'desh, in the wilderness of Zin; because you did not revere me as holy in the midst of the people of Israel.
+    52: For you shall see the land before you; but you shall not go there, into the land which I give to the people of Israel."
+
+End of day 47.

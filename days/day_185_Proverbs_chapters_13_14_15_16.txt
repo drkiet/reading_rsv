@@ -1,0 +1,143 @@
+Day 185:
+
+Reading Proverbs, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: A wise son hears his father's instruction, but a scoffer does not listen to rebuke.
+    2: From the fruit of his mouth a good man eats good, but the desire of the treacherous is for violence.
+    3: He who guards his mouth preserves his life; he who opens wide his lips comes to ruin.
+    4: The soul of the sluggard craves, and gets nothing, while the soul of the diligent is richly supplied.
+    5: A righteous man hates falsehood, but a wicked man acts shamefully and disgracefully.
+    6: Righteousness guards him whose way is upright, but sin overthrows the wicked.
+    7: One man pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth.
+    8: The ransom of a man's life is his wealth, but a poor man has no means of redemption.
+    9: The light of the righteous rejoices, but the lamp of the wicked will be put out.
+    10: By insolence the heedless make strife, but with those who take advice is wisdom.
+    11: Wealth hastily gotten will dwindle, but he who gathers little by little will increase it.
+    12: Hope deferred makes the heart sick, but a desire fulfilled is a tree of life.
+    13: He who despises the word brings destruction on himself, but he who respects the commandment will be rewarded.
+    14: The teaching of the wise is a fountain of life, that one may avoid the snares of death.
+    15: Good sense wins favor, but the way of the faithless is their ruin.
+    16: In everything a prudent man acts with knowledge, but a fool flaunts his folly.
+    17: A bad messenger plunges men into trouble, but a faithful envoy brings healing.
+    18: Poverty and disgrace come to him who ignores instruction, but he who heeds reproof is honored.
+    19: A desire fulfilled is sweet to the soul; but to turn away from evil is an abomination to fools.
+    20: He who walks with wise men becomes wise, but the companion of fools will suffer harm.
+    21: Misfortune pursues sinners, but prosperity rewards the righteous.
+    22: A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous.
+    23: The fallow ground of the poor yields much food, but it is swept away through injustice.
+    24: He who spares the rod hates his son, but he who loves him is diligent to discipline him.
+    25: The righteous has enough to satisfy his appetite, but the belly of the wicked suffers want.
+
+  Chapter 14.
+
+    1: Wisdom builds her house, but folly with her own hands tears it down.
+    2: He who walks in uprightness fears the LORD, but he who is devious in his ways despises him.
+    3: The talk of a fool is a rod for his back, but the lips of the wise will preserve them.
+    4: Where there are no oxen, there is no grain; but abundant crops come by the strength of the ox.
+    5: A faithful witness does not lie, but a false witness breathes out lies.
+    6: A scoffer seeks wisdom in vain, but knowledge is easy for a man of understanding.
+    7: Leave the presence of a fool, for there you do not meet words of knowledge.
+    8: The wisdom of a prudent man is to discern his way, but the folly of fools is deceiving.
+    9: God scorns the wicked, but the upright enjoy his favor.
+    10: The heart knows its own bitterness, and no stranger shares its joy.
+    11: The house of the wicked will be destroyed, but the tent of the upright will flourish.
+    12: There is a way which seems right to a man, but its end is the way to death.
+    13: Even in laughter the heart is sad, and the end of joy is grief.
+    14: A perverse man will be filled with the fruit of his ways, and a good man with the fruit of his deeds.
+    15: The simple believes everything, but the prudent looks where he is going.
+    16: A wise man is cautious and turns away from evil, but a fool throws off restraint and is careless.
+    17: A man of quick temper acts foolishly, but a man of discretion is patient.
+    18: The simple acquire folly, but the prudent are crowned with knowledge.
+    19: The evil bow down before the good, the wicked at the gates of the righteous.
+    20: The poor is disliked even by his neighbor, but the rich has many friends.
+    21: He who despises his neighbor is a sinner, but happy is he who is kind to the poor.
+    22: Do they not err that devise evil? Those who devise good meet loyalty and faithfulness.
+    23: In all toil there is profit, but mere talk tends only to want.
+    24: The crown of the wise is their wisdom, but folly is the garland of fools.
+    25: A truthful witness saves lives, but one who utters lies is a betrayer.
+    26: In the fear of the LORD one has strong confidence, and his children will have a refuge.
+    27: The fear of the LORD is a fountain of life, that one may avoid the snares of death.
+    28: In a multitude of people is the glory of a king, but without people a prince is ruined.
+    29: He who is slow to anger has great understanding, but he who has a hasty temper exalts folly.
+    30: A tranquil mind gives life to the flesh, but passion makes the bones rot.
+    31: He who oppresses a poor man insults his Maker, but he who is kind to the needy honors him.
+    32: The wicked is overthrown through his evil-doing, but the righteous finds refuge through his integrity.
+    33: Wisdom abides in the mind of a man of understanding, but it is not known in the heart of fools.
+    34: Righteousness exalts a nation, but sin is a reproach to any people.
+    35: A servant who deals wisely has the king's favor, but his wrath falls on one who acts shamefully.
+
+  Chapter 15.
+
+    1: A soft answer turns away wrath, but a harsh word stirs up anger.
+    2: The tongue of the wise dispenses knowledge, but the mouths of fools pour out folly.
+    3: The eyes of the LORD are in every place, keeping watch on the evil and the good.
+    4: A gentle tongue is a tree of life, but perverseness in it breaks the spirit.
+    5: A fool despises his father's instruction, but he who heeds admonition is prudent.
+    6: In the house of the righteous there is much treasure, but trouble befalls the income of the wicked.
+    7: The lips of the wise spread knowledge; not so the minds of fools.
+    8: The sacrifice of the wicked is an abomination to the LORD, but the prayer of the upright is his delight.
+    9: The way of the wicked is an abomination to the LORD, but he loves him who pursues righteousness.
+    10: There is severe discipline for him who forsakes the way; he who hates reproof will die.
+    11: Sheol and Abaddon lie open before the LORD, how much more the hearts of men!
+    12: A scoffer does not like to be reproved; he will not go to the wise.
+    13: A glad heart makes a cheerful countenance, but by sorrow of heart the spirit is broken.
+    14: The mind of him who has understanding seeks knowledge, but the mouths of fools feed on folly.
+    15: All the days of the afflicted are evil, but a cheerful heart has a continual feast.
+    16: Better is a little with the fear of the LORD than great treasure and trouble with it.
+    17: Better is a dinner of herbs where love is than a fatted ox and hatred with it.
+    18: A hot-tempered man stirs up strife, but he who is slow to anger quiets contention.
+    19: The way of a sluggard is overgrown with thorns, but the path of the upright is a level highway.
+    20: A wise son makes a glad father, but a foolish man despises his mother.
+    21: Folly is a joy to him who has no sense, but a man of understanding walks aright.
+    22: Without counsel plans go wrong, but with many advisers they succeed.
+    23: To make an apt answer is a joy to a man, and a word in season, how good it is!
+    24: The wise man's path leads upward to life, that he may avoid Sheol beneath.
+    25: The LORD tears down the house of the proud, but maintains the widow's boundaries.
+    26: The thoughts of the wicked are an abomination to the LORD, the words of the pure are pleasing to him.
+    27: He who is greedy for unjust gain makes trouble for his household, but he who hates bribes will live.
+    28: The mind of the righteous ponders how to answer, but the mouth of the wicked pours out evil things.
+    29: The LORD is far from the wicked, but he hears the prayer of the righteous.
+    30: The light of the eyes rejoices the heart, and good news refreshes the bones.
+    31: He whose ear heeds wholesome admonition will abide among the wise.
+    32: He who ignores instruction despises himself, but he who heeds admonition gains understanding.
+    33: The fear of the LORD is instruction in wisdom, and humility goes before honor.
+
+  Chapter 16.
+
+    1: The plans of the mind belong to man, but the answer of the tongue is from the LORD.
+    2: All the ways of a man are pure in his own eyes, but the LORD weighs the spirit.
+    3: Commit your work to the LORD, and your plans will be established.
+    4: The LORD has made everything for its purpose, even the wicked for the day of trouble.
+    5: Every one who is arrogant is an abomination to the LORD; be assured, he will not go unpunished.
+    6: By loyalty and faithfulness iniquity is atoned for, and by the fear of the LORD a man avoids evil.
+    7: When a man's ways please the LORD, he makes even his enemies to be at peace with him.
+    8: Better is a little with righteousness than great revenues with injustice.
+    9: A man's mind plans his way, but the LORD directs his steps.
+    10: Inspired decisions are on the lips of a king; his mouth does not sin in judgment.
+    11: A just balance and scales are the LORD's; all the weights in the bag are his work.
+    12: It is an abomination to kings to do evil, for the throne is established by righteousness.
+    13: Righteous lips are the delight of a king, and he loves him who speaks what is right.
+    14: A king's wrath is a messenger of death, and a wise man will appease it.
+    15: In the light of a king's face there is life, and his favor is like the clouds that bring the spring rain.
+    16: To get wisdom is better than gold; to get understanding is to be chosen rather than silver.
+    17: The highway of the upright turns aside from evil; he who guards his way preserves his life.
+    18: Pride goes before destruction, and a haughty spirit before a fall.
+    19: It is better to be of a lowly spirit with the poor than to divide the spoil with the proud.
+    20: He who gives heed to the word will prosper, and happy is he who trusts in the LORD.
+    21: The wise of heart is called a man of discernment, and pleasant speech increases persuasiveness.
+    22: Wisdom is a fountain of life to him who has it, but folly is the chastisement of fools.
+    23: The mind of the wise makes his speech judicious, and adds persuasiveness to his lips.
+    24: Pleasant words are like a honeycomb, sweetness to the soul and health to the body.
+    25: There is a way which seems right to a man, but its end is the way to death.
+    26: A worker's appetite works for him; his mouth urges him on.
+    27: A worthless man plots evil, and his speech is like a scorching fire.
+    28: A perverse man spreads strife, and a whisperer separates close friends.
+    29: A man of violence entices his neighbor and leads him in a way that is not good.
+    30: He who winks his eyes plans perverse things, he who compresses his lips brings evil to pass.
+    31: A hoary head is a crown of glory; it is gained in a righteous life.
+    32: He who is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.
+    33: The lot is cast into the lap, but the decision is wholly from the LORD.
+
+End of day 185.

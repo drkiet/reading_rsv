@@ -1,0 +1,193 @@
+Day 89:
+
+Reading 1-Chronicles, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Adam, Seth, Enosh;
+    2: Kenan, Ma-hal'alel, Jared;
+    3: Enoch, Methu'selah, Lamech;
+    4: Noah, Shem, Ham, and Japheth.
+    5: The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+    6: The sons of Gomer: Ash'kenaz, Diphath, and Togar'mah.
+    7: The sons of Javan: Eli'shah, Tarshish, Kittim, and Ro'danim.
+    8: The sons of Ham: Cush, Egypt, Put, and Canaan.
+    9: The sons of Cush: Seba, Hav'ilah, Sabta, Ra'ama, and Sab'teca. The sons of Ra'amah: Sheba and Dedan.
+    10: Cush was the father of Nimrod; he began to be a mighty one in the earth.
+    11: Egypt was the father of Ludim, An'amim, Le'habim, Naph-tu'him,
+    12: Pathru'sim, Caslu'him (whence came the Philis'tines), and Caph'torim.
+    13: Canaan was the father of Sidon his first-born, and Heth,
+    14: and the Jeb'usites, the Am'orites, the Gir'gashites,
+    15: the Hivites, the Arkites, the Sinites,
+    16: the Ar'vadites, the Zem'arites, and the Ha'mathites.
+    17: The sons of Shem: Elam, Asshur, Arpach'shad, Lud, Aram, Uz, Hul, Gether, and Meshech.
+    18: Arpach'shad was the father of Shelah; and Shelah was the father of Eber.
+    19: To Eber were born two sons: the name of the one was Peleg (for in his days the earth was divided), and the name of his brother Joktan.
+    20: Joktan was the father of Almo'dad, Sheleph, Hazarma'veth, Jerah,
+    21: Hador'am, Uzal, Diklah,
+    22: Ebal, Abim'a-el, Sheba,
+    23: Ophir, Hav'ilah, and Jobab; all these were the sons of Joktan.
+    24: Shem, Arpach'shad, Shelah;
+    25: Eber, Peleg, Re'u;
+    26: Serug, Nahor, Terah;
+    27: Abram, that is, Abraham.
+    28: The sons of Abraham: Isaac and Ish'mael.
+    29: These are their genealogies: the first-born of Ish'mael, Neba'ioth; and Kedar, Adbeel, Mibsam,
+    30: Mishma, Dumah, Massa, Hadad, Tema,
+    31: Jetur, Naphish, and Ked'emah. These are the sons of Ish'mael.
+    32: The sons of Ketu'rah, Abraham's concubine: she bore Zimran, Jokshan, Medan, Mid'ian, Ishbak, and Shu'ah. The sons of Jokshan: Sheba and Dedan.
+    33: The sons of Mid'ian: Ephah, Epher, Hanoch, Abida, and Elda'ah. All these were the descendants of Ketu'rah.
+    34: Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.
+    35: The sons of Esau: Eli'phaz, Reu'el, Je'ush, Jalam, and Korah.
+    36: The sons of Eli'phaz: Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Am'alek.
+    37: The sons of Reu'el: Nahath, Zerah, Shammah, and Mizzah.
+    38: The sons of Se'ir: Lotan, Shobal, Zib'eon, Anah, Dishon, Ezer, and Dishan.
+    39: The sons of Lotan: Hori and Homam; and Lotan's sister was Timna.
+    40: The sons of Shobal: Al'ian, Man'ahath, Ebal, Shephi, and Onam. The sons of Zib'eon: Ai'ah and Anah.
+    41: The sons of Anah: Dishon. The sons of Dishon: Hamran, Eshban, Ithran, and Cheran.
+    42: The sons of Ezer: Bilhan, Za'avan, and Ja'akan. The sons of Dishan: Uz and Aran.
+    43: These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela the son of Be'or, the name of whose city was Din'habah.
+    44: When Bela died, Jobab the son of Zerah of Bozrah reigned in his stead.
+    45: When Jobab died, Husham of the land of the Te'manites reigned in his stead.
+    46: When Husham died, Hadad the son of Bedad, who defeated Mid'ian in the country of Moab, reigned in his stead; and the name of his city was Avith.
+    47: When Hadad died, Samlah of Masre'kah reigned in his stead.
+    48: When Samlah died, Sha'ul of Reho'both on the Euphra'tes reigned in his stead.
+    49: When Sha'ul died, Ba'al-ha'nan, the son of Achbor, reigned in his stead.
+    50: When Ba'al-ha'nan died, Hadad reigned in his stead; and the name of his city was Pa'i, and his wife's name Mehet'abel the daughter of Matred, the daughter of Me'zahab.
+    51: And Hadad died. The chiefs of Edom were: chiefs Timna, Al'iah, Jetheth,
+    52: Oholiba'mah, Elah, Pinon,
+    53: Kenaz, Teman, Mibzar,
+    54: Mag'di-el, and Iram; these are the chiefs of Edom.
+
+  Chapter 2.
+
+    1: These are the sons of Israel: Reuben, Simeon, Levi, Judah, Is'sachar, Zeb'ulun,
+    2: Dan, Joseph, Benjamin, Naph'tali, Gad, and Asher.
+    3: The sons of Judah: Er, Onan, and Shelah; these three Bath-shu'a the Canaanitess bore to him. Now Er, Judah's first-born, was wicked in the sight of the LORD, and he slew him.
+    4: His daughter-in-law Tamar also bore him Perez and Zerah. Judah had five sons in all.
+    5: The sons of Perez: Hezron and Hamul.
+    6: The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara, five in all.
+    7: The sons of Carmi: Achar, the troubler of Israel, who transgressed in the matter of the devoted thing;
+    8: and Ethan's son was Azari'ah.
+    9: The sons of Hezron, that were born to him: Jerah'meel, Ram, and Chelu'bai.
+    10: Ram was the father of Ammin'adab, and Ammin'adab was the father of Nahshon, prince of the sons of Judah.
+    11: Nahshon was the father of Salma, Salma of Bo'az,
+    12: Bo'az of Obed, Obed of Jesse.
+    13: Jesse was the father of Eli'ab his first-born, Abin'adab the second, Shim'ea the third,
+    14: Nethan'el the fourth, Raddai the fifth,
+    15: Ozem the sixth, David the seventh;
+    16: and their sisters were Zeru'iah and Ab'igail. The sons of Zeru'iah: Abi'shai, Jo'ab, and As'ahel, three.
+    17: Ab'igail bore Ama'sa, and the father of Ama'sa was Jether the Ish'maelite.
+    18: Caleb the son of Hezron had children by his wife Azu'bah, and by Jer'ioth; and these were her sons: Jesher, Shobab, and Ardon.
+    19: When Azu'bah died, Caleb married Ephrath, who bore him Hur.
+    20: Hur was the father of Uri, and Uri was the father of Bez'alel.
+    21: Afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was sixty years old; and she bore him Segub;
+    22: and Segub was the father of Ja'ir, who had twenty-three cities in the land of Gilead.
+    23: But Geshur and Aram took from them Havvoth-ja'ir, Kenath and its villages, sixty towns. All these were descendants of Machir, the father of Gilead.
+    24: After the death of Hezron, Caleb went in to Eph'rathah, the wife of Hezron his father, and she bore him Ashhur, the father of Teko'a.
+    25: The sons of Jerah'meel, the first-born of Hezron: Ram, his first-born, Bunah, Oren, Ozem, and Ahi'jah.
+    26: Jerah'meel also had another wife, whose name was At'arah; she was the mother of Onam.
+    27: The sons of Ram, the first-born of Jerah'meel: Ma'az, Jamin, and Eker.
+    28: The sons of Onam: Sham'mai and Jada. The sons of Sham'mai: Nadab and Abi'shur.
+    29: The name of Abi'shur's wife was Ab'ihail, and she bore him Ahban and Molid.
+    30: The sons of Nadab: Seled and Ap'pa-im; and Seled died childless.
+    31: The sons of Ap'pa-im: Ishi. The sons of Ishi: Sheshan. The sons of Sheshan: Ahlai.
+    32: The sons of Jada, Sham'mai's brother: Jether and Jonathan; and Jether died childless.
+    33: The sons of Jonathan: Peleth and Zaza. These were the descendants of Jerah'meel.
+    34: Now Sheshan had no sons, only daughters; but Sheshan had an Egyptian slave, whose name was Jarha.
+    35: So Sheshan gave his daughter in marriage to Jarha his slave; and she bore him Attai.
+    36: Attai was the father of Nathan and Nathan of Zabad.
+    37: Zabad was the father of Ephlal, and Ephlal of Obed.
+    38: Obed was the father of Jehu, and Jehu of Azari'ah.
+    39: Azari'ah was the father of Helez, and Helez of Ele-a'sah.
+    40: Ele-a'sah was the father of Sismai, and Sismai of Shallum.
+    41: Shallum was the father of Jekami'ah, and Jekami'ah of Eli'shama.
+    42: The sons of Caleb the brother of Jerah'meel: Mare'shah his first-born, who was the father of Ziph. The sons of Mare'shah: Hebron.
+    43: The sons of Hebron: Korah, Tap'puah, Rekem, and Shema.
+    44: Shema was the father of Raham, the father of Jor'ke-am; and Rekem was the father of Sham'mai.
+    45: The son of Sham'mai: Ma'on; and Ma'on was the father of Bethzur.
+    46: Ephah also, Caleb's concubine, bore Haran, Moza, and Gazez; and Haran was the father of Gazez.
+    47: The sons of Jah'dai: Regem, Jotham, Geshan, Pelet, Ephah, and Sha'aph.
+    48: Ma'acah, Caleb's concubine, bore Sheber and Tir'hanah.
+    49: She also bore Sha'aph the father of Madman'nah, Sheva the father of Machbe'nah and the father of Gib'e-a; and the daughter of Caleb was Achsah.
+    50: These were the descendants of Caleb. The sons of Hur the first-born of Eph'rathah: Shobal the father of Kir'iath-je'arim,
+    51: Salma, the father of Bethelem, and Hareph the father of Beth-gader.
+    52: Shobal the father of Kir'iath-je'arim had other sons: Haro'eh, half of the Menu'hoth.
+    53: And the families of Kir'iath-je'arim: the Ithrites, the Puthites, the Shu'mathites, and the Mish'ra-ites; from these came the Zo'rathites and the Esh'taolites.
+    54: The sons of Salma: Bethlehem, the Netoph'athites, At'roth-beth-jo'ab, and half of the Man'aha'thites, the Zorites.
+    55: The families also of the scribes that dwelt at Jabez: the Ti'rathites, the Shim'e-athites, and the Su'cathites. These are the Ken'ites who came from Hammath, the father of the house of Rechab.
+
+  Chapter 3.
+
+    1: These are the sons of David that were born to him in Hebron: the first-born Amnon, by Ahin'o-am the Jezreelitess; the second Daniel, by Ab'igail the Car'melitess,
+    2: the third Ab'salom, whose mother was Ma'acah, the daughter of Talmai, king of Geshur; the fourth Adoni'jah, whose mother was Haggith;
+    3: the fifth Shephati'ah, by Abi'tal; the sixth Ith'ream, by his wife Eglah;
+    4: six were born to him in Hebron, where he reigned for seven years and six months. And he reigned thirty-three years in Jerusalem.
+    5: These were born to him in Jerusalem: Shim'e-a, Shobab, Nathan and Solomon, four by Bath-shu'a, the daughter of Am'mi-el;
+    6: then Ibhar, Eli'shama, Eliph'elet,
+    7: Nogah, Nepheg, Japhi'a,
+    8: Eli'shama, Eli'ada, and Eliph'elet, nine.
+    9: All these were David's sons, besides the sons of the concubines; and Tamar was their sister.
+    10: The descendants of Solomon: Rehobo'am, Abi'jah his son, Asa his son, Jehosh'aphat his son,
+    11: Joram his son, Ahazi'ah his son, Jo'ash his son,
+    12: Amazi'ah his son, Azari'ah his son, Jotham his son,
+    13: Ahaz his son, Hezeki'ah his son, Manas'seh his son,
+    14: Amon his son, Josi'ah his son.
+    15: The sons of Josi'ah: Joha'nan the first-born, the second Jehoi'akim, the third Zedeki'ah, the fourth Shallum.
+    16: The descendants of Jehoi'akim: Jeconi'ah his son, Zedeki'ah his son;
+    17: and the sons of Jeconi'ah, the captive: Sheal'tiel his son,
+    18: Malchi'ram, Pedai'ah, Shenaz'zar, Jekami'ah, Hosh'ama, and Nedabi'ah;
+    19: and the sons of Pedai'ah: Zerub'babel and Shim'e-i; and the sons of Zerub'babel: Meshul'lam and Hanani'ah, and Shelo'mith was their sister;
+    20: and Hashu'bah, Ohel, Berechi'ah, Hasadi'ah, and Ju'shab-he'sed, five.
+    21: The sons of Hanani'ah: Pelati'ah and Jeshai'ah, his son Rephai'ah, his son Arnan, his son Obadi'ah, his son Shecani'ah.
+    22: The sons of Shecani'ah: Shemai'ah. And the sons of Shemai'ah: Hattush, Igal, Bari'ah, Neari'ah, and Shaphat, six.
+    23: The sons of Neari'ah: Eli-o-e'nai, Hizki'ah, and Azri'kam, three.
+    24: The sons of Eli-o-e'nai: Hod'avi'ah, Eli'ashib, Pelai'ah, Akkub, Joha'nan, Delai'ah, and Ana'ni, seven.
+
+  Chapter 4.
+
+    1: The sons of Judah: Perez, Hezron, Carmi, Hur, and Shobal.
+    2: Re-ai'ah the son of Shobal was the father of Jahath, and Jahath was the father of Ahu'mai and Lahad. These were the families of the Zo'rathites.
+    3: These were the sons of Etam: Jezreel, Ishma, and Idbash; and the name of their sister was Hazzelelpo'ni,
+    4: and Penu'el was the father of Gedor, and Ezer the father of Hushah. These were the sons of Hur, the first-born of Eph'rathah, the father of Bethlehem.
+    5: Ashhur, the father of Teko'a, had two wives, Helah and Na'arah;
+    6: Na'arah bore him Ahuz'zam, Hepher, Te'meni, and Ha-ahash'tari. These were the sons of Na'arah.
+    7: The sons of Helah: Zereth, Izhar, and Ethnan.
+    8: Koz was the father of Anub, Zobe'bah, and the families of Ahar'hel the son of Harum.
+    9: Jabez was more honorable than his brothers; and his mother called his name Jabez, saying, "Because I bore him in pain."
+    10: Jabez called on the God of Israel, saying, "Oh that thou wouldst bless me and enlarge my border, and that thy hand might be with me, and that thou wouldst keep me from harm so that it might not hurt me!" And God granted what he asked.
+    11: Chelub, the brother of Shuhah, was the father of Mehir, who was the father of Eshton.
+    12: Eshton was the father of Bethra'pha, Pase'ah, and Tehin'nah the father of Irna'hash. These are the men of Recah.
+    13: The sons of Kenaz: Oth'ni-el and Serai'ah; and the sons of Oth'ni-el: Hathath and Meo'nothai.
+    14: Meo'nothai was the father of Ophrah; and Serai'ah was the father of Jo'ab the father of Ge-har'ashim, so-called because they were craftsmen.
+    15: The sons of Caleb the son of Jephun'neh: Iru, Elah, and Na'am; and the sons of Elah: Kenaz.
+    16: The sons of Jehal'lelel: Ziph, Ziphah, Tir'i-a, and As'arel.
+    17: The sons of Ezrah: Jether, Mered, Epher, and Jalon. These are the sons of Bith'i-ah, the daughter of Pharaoh, whom Mered married; and she conceived and bore Miriam, Sham'mai, and Ishbah, the father of Eshtemo'a.
+    18: And his Jewish wife bore Jered the father of Gedor, Heber the father of Soco, and Jeku'thiel the father of Zano'ah.
+    19: The sons of the wife of Hodi'ah, the sister of Naham, were the fathers of Kei'lah the Garmite and Eshtemo'a the Ma-ac'athite.
+    20: The sons of Shimon: Amnon, Rinnah, Ben-ha'nan, and Tilon. The sons of Ishi: Zoheth and Ben-zo'heth.
+    21: The sons of Shelah the son of Judah: Er the father of Lecah, La'adah the father of Mare'shah, and the families of the house of linen workers at Beth-ashbe'a;
+    22: and Jokim, and the men of Coze'ba, and Jo'ash, and Saraph, who ruled in Moab and returned to Lehem (now the records are ancient).
+    23: These were the potters and inhabitants of Neta'im and Gede'rah; they dwelt there with the king for his work.
+    24: The sons of Simeon: Nem'uel, Jamin, Jarib, Zerah, Sha'ul;
+    25: Shallum was his son, Mibsam his son, Mishma his son.
+    26: The sons of Mishma: Ham'mu-el his son, Zac'cur his son, Shim'e-i his son.
+    27: Shim'e-i had sixteen sons and six daughters; but his brothers had not many children, nor did all their family multiply like the men of Judah.
+    28: They dwelt in Beer-sheba, Mola'dah, Ha'zar-shu'al,
+    29: Bilhah, Ezem, Tolad,
+    30: Bethu'el, Hormah, Ziklag,
+    31: Beth-mar'caboth, Ha'zar-su'sim, Beth-biri, and Sha-ara'im. These were their cities until David reigned.
+    32: And their villages were Etam, A'in, Rimmon, Tochen, and Ashan, five cities,
+    33: along with all their villages which were round about these cities as far as Ba'al. These were their settlements, and they kept a genealogical record.
+    34: Mesho'bab, Jamlech, Joshah the son of Amazi'ah,
+    35: Jo'el, Jehu the son of Joshibi'ah, son of Serai'ah, son of As'i-el,
+    36: Eli-o-e'nai, Ja-ako'bah, Jeshohai'ah, Asai'ah, Ad'i-el, Jesim'iel, Benai'ah,
+    37: Ziza the son of Shiphi, son of Allon, son of Jedai'ah, son of Shimri, son of Shemai'ah --
+    38: these mentioned by name were princes in their families, and their fathers' houses increased greatly.
+    39: They journeyed to the entrance of Gedor, to the east side of the valley, to seek pasture for their flocks,
+    40: where they found rich, good pasture, and the land was very broad, quiet, and peaceful; for the former inhabitants there belonged to Ham.
+    41: These, registered by name, came in the days of Hezeki'ah, king of Judah, and destroyed their tents and the Me-u'nim who were found there, and exterminated them to this day, and settled in their place, because there was pasture there for their flocks.
+    42: And some of them, five hundred men of the Simeonites, went to Mount Se'ir, having as their leaders Pelati'ah, Ne-ari'ah, Rephai'ah, and Uz'ziel, the sons of Ishi;
+    43: and they destroyed the remnant of the Amal'ekites that had escaped, and they have dwelt there to this day.
+
+End of day 89.

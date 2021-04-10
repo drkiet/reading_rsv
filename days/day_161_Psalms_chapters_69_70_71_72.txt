@@ -1,0 +1,102 @@
+Day 161:
+
+Reading Psalms, chapters ['69', '70', '71', '72']:
+
+  Chapter 69.
+
+    1: Save me, O God! For the waters have come up to my neck.
+    2: I sink in deep mire, where there is no foothold; I have come into deep waters, and the flood sweeps over me.
+    3: I am weary with my crying; my throat is parched. My eyes grow dim with waiting for my God.
+    4: More in number than the hairs of my head are those who hate me without cause; mighty are those who would destroy me, those who attack me with lies. What I did not steal must I now restore?
+    5: O God, thou knowest my folly; the wrongs I have done are not hidden from thee.
+    6: Let not those who hope in thee be put to shame through me, O Lord GOD of hosts; let not those who seek thee be brought to dishonor through me, O God of Israel.
+    7: For it is for thy sake that I have borne reproach, that shame has covered my face.
+    8: I have become a stranger to my brethren, an alien to my mother's sons.
+    9: For zeal for thy house has consumed me, and the insults of those who insult thee have fallen on me.
+    10: When I humbled my soul with fasting, it became my reproach.
+    11: When I made sackcloth my clothing, I became a byword to them.
+    12: I am the talk of those who sit in the gate, and the drunkards make songs about me.
+    13: But as for me, my prayer is to thee, O LORD. At an acceptable time, O God, in the abundance of thy steadfast love answer me. With thy faithful help
+    14: rescue me from sinking in the mire; let me be delivered from my enemies and from the deep waters.
+    15: Let not the flood sweep over me, or the deep swallow me up, or the pit close its mouth over me.
+    16: Answer me, O LORD, for thy steadfast love is good; according to thy abundant mercy, turn to me.
+    17: Hide not thy face from thy servant; for I am in distress, make haste to answer me.
+    18: Draw near to me, redeem me, set me free because of my enemies!
+    19: Thou knowest my reproach, and my shame and my dishonor; my foes are all known to thee.
+    20: Insults have broken my heart, so that I am in despair. I looked for pity, but there was none; and for comforters, but I found none.
+    21: They gave me poison for food, and for my thirst they gave me vinegar to drink.
+    22: Let their own table before them become a snare; let their sacrificial feasts be a trap.
+    23: Let their eyes be darkened, so that they cannot see; and make their loins tremble continually.
+    24: Pour out thy indignation upon them, and let thy burning anger overtake them.
+    25: May their camp be a desolation, let no one dwell in their tents.
+    26: For they persecute him whom thou hast smitten, and him whom thou hast wounded, they afflict still more.
+    27: Add to them punishment upon punishment; may they have no acquittal from thee.
+    28: Let them be blotted out of the book of the living; let them not be enrolled among the righteous.
+    29: But I am afflicted and in pain; let thy salvation, O God, set me on high!
+    30: I will praise the name of God with a song; I will magnify him with thanksgiving.
+    31: This will please the LORD more than an ox or a bull with horns and hoofs.
+    32: Let the oppressed see it and be glad; you who seek God, let your hearts revive.
+    33: For the LORD hears the needy, and does not despise his own that are in bonds.
+    34: Let heaven and earth praise him, the seas and everything that moves therein.
+    35: For God will save Zion and rebuild the cities of Judah; and his servants shall dwell there and possess it;
+    36: the children of his servants shall inherit it, and those who love his name shall dwell in it.
+
+  Chapter 70.
+
+    1: Be pleased, O God, to deliver me! O LORD, make haste to help me!
+    2: Let them be put to shame and confusion who seek my life! Let them be turned back and brought to dishonor who desire my hurt!
+    3: Let them be appalled because of their shame who say, "Aha, Aha!"
+    4: May all who seek thee rejoice and be glad in thee! May those who love thy salvation say evermore, "God is great!"
+    5: But I am poor and needy; hasten to me, O God! Thou art my help and my deliverer; O LORD, do not tarry!
+
+  Chapter 71.
+
+    1: In thee, O LORD, do I take refuge; let me never be put to shame!
+    2: In thy righteousness deliver me and rescue me; incline thy ear to me, and save me!
+    3: Be thou to me a rock of refuge, a strong fortress, to save me, for thou art my rock and my fortress.
+    4: Rescue me, O my God, from the hand of the wicked, from the grasp of the unjust and cruel man.
+    5: For thou, O Lord, art my hope, my trust, O LORD, from my youth.
+    6: Upon thee I have leaned from my birth; thou art he who took me from my mother's womb. My praise is continually of thee.
+    7: I have been as a portent to many; but thou art my strong refuge.
+    8: My mouth is filled with thy praise, and with thy glory all the day.
+    9: Do not cast me off in the time of old age; forsake me not when my strength is spent.
+    10: For my enemies speak concerning me, those who watch for my life consult together,
+    11: and say, "God has forsaken him; pursue and seize him, for there is none to deliver him."
+    12: O God, be not far from me; O my God, make haste to help me!
+    13: May my accusers be put to shame and consumed; with scorn and disgrace may they be covered who seek my hurt.
+    14: But I will hope continually, and will praise thee yet more and more.
+    15: My mouth will tell of thy righteous acts, of thy deeds of salvation all the day, for their number is past my knowledge.
+    16: With the mighty deeds of the Lord GOD I will come, I will praise thy righteousness, thine alone.
+    17: O God, from my youth thou hast taught me, and I still proclaim thy wondrous deeds.
+    18: So even to old age and gray hairs, O God, do not forsake me, till I proclaim thy might to all the generations to come. Thy power
+    19: and thy righteousness, O God, reach the high heavens. Thou who hast done great things, O God, who is like thee?
+    20: Thou who hast made me see many sore troubles wilt revive me again; from the depths of the earth thou wilt bring me up again.
+    21: Thou wilt increase my honor, and comfort me again.
+    22: I will also praise thee with the harp for thy faithfulness, O my God; I will sing praises to thee with the lyre, O Holy One of Israel.
+    23: My lips will shout for joy, when I sing praises to thee; my soul also, which thou hast rescued.
+    24: And my tongue will talk of thy righteous help all the day long, for they have been put to shame and disgraced who sought to do me hurt.
+
+  Chapter 72.
+
+    1: Give the king thy justice, O God, and thy righteousness to the royal son!
+    2: May he judge thy people with righteousness, and thy poor with justice!
+    3: Let the mountains bear prosperity for the people, and the hills, in righteousness!
+    4: May he defend the cause of the poor of the people, give deliverance to the needy, and crush the oppressor!
+    5: May he live while the sun endures, and as long as the moon, throughout all generations!
+    6: May he be like rain that falls on the mown grass, like showers that water the earth!
+    7: In his days may righteousness flourish, and peace abound, till the moon be no more!
+    8: May he have dominion from sea to sea, and from the River to the ends of the earth!
+    9: May his foes bow down before him, and his enemies lick the dust!
+    10: May the kings of Tarshish and of the isles render him tribute, may the kings of Sheba and Seba bring gifts!
+    11: May all kings fall down before him, all nations serve him!
+    12: For he delivers the needy when he calls, the poor and him who has no helper.
+    13: He has pity on the weak and the needy, and saves the lives of the needy.
+    14: From oppression and violence he redeems their life; and precious is their blood in his sight.
+    15: Long may he live, may gold of Sheba be given to him! May prayer be made for him continually, and blessings invoked for him all the day!
+    16: May there be abundance of grain in the land; on the tops of the mountains may it wave; may its fruit be like Lebanon; and may men blossom forth from the cities like the grass of the field!
+    17: May his name endure for ever, his fame continue as long as the sun! May men bless themselves by him, all nations call him blessed!
+    18: Blessed be the LORD, the God of Israel, who alone does wondrous things.
+    19: Blessed be his glorious name for ever; may his glory fill the whole earth! Amen and Amen!
+    20: The prayers of David, the son of Jesse, are ended.
+
+End of day 161.

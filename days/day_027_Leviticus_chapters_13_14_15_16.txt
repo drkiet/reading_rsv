@@ -1,0 +1,200 @@
+Day 27:
+
+Reading Leviticus, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: The LORD said to Moses and Aaron,
+    2: "When a man has on the skin of his body a swelling or an eruption or a spot, and it turns into a leprous disease on the skin of his body, then he shall be brought to Aaron the priest or to one of his sons the priests,
+    3: and the priest shall examine the diseased spot on the skin of his body; and if the hair in the diseased spot has turned white and the disease appears to be deeper than the skin of his body, it is a leprous disease; when the priest has examined him he shall pronounce him unclean.
+    4: But if the spot is white in the skin of his body, and appears no deeper than the skin, and the hair in it has not turned white, the priest shall shut up the diseased person for seven days;
+    5: and the priest shall examine him on the seventh day, and if in his eyes the disease is checked and the disease has not spread in the skin, then the priest shall shut him up seven days more;
+    6: and the priest shall examine him again on the seventh day, and if the diseased spot is dim and the disease has not spread in the skin, then the priest shall pronounce him clean; it is only an eruption; and he shall wash his clothes, and be clean.
+    7: But if the eruption spreads in the skin, after he has shown himself to the priest for his cleansing, he shall appear again before the priest;
+    8: and the priest shall make an examination, and if the eruption has spread in the skin, then the priest shall pronounce him unclean; it is leprosy.
+    9: "When a man is afflicted with leprosy, he shall be brought to the priest;
+    10: and the priest shall make an examination, and if there is a white swelling in the skin, which has turned the hair white, and there is quick raw flesh in the swelling,
+    11: it is a chronic leprosy in the skin of his body, and the priest shall pronounce him unclean; he shall not shut him up, for he is unclean.
+    12: And if the leprosy breaks out in the skin, so that the leprosy covers all the skin of the diseased person from head to foot, so far as the priest can see,
+    13: then the priest shall make an examination, and if the leprosy has covered all his body, he shall pronounce him clean of the disease; it has all turned white, and he is clean.
+    14: But when raw flesh appears on him, he shall be unclean.
+    15: And the priest shall examine the raw flesh, and pronounce him unclean; raw flesh is unclean, for it is leprosy.
+    16: But if the raw flesh turns again and is changed to white, then he shall come to the priest,
+    17: and the priest shall examine him, and if the disease has turned white, then the priest shall pronounce the diseased person clean; he is clean.
+    18: "And when there is in the skin of one's body a boil that has healed,
+    19: and in the place of the boil there comes a white swelling or a reddish-white spot, then it shall be shown to the priest;
+    20: and the priest shall make an examination, and if it appears deeper than the skin and its hair has turned white, then the priest shall pronounce him unclean; it is the disease of leprosy, it has broken out in the boil.
+    21: But if the priest examines it, and the hair on it is not white and it is not deeper than the skin, but is dim, then the priest shall shut him up seven days;
+    22: and if it spreads in the skin, then the priest shall pronounce him unclean; it is diseased.
+    23: But if the spot remains in one place and does not spread, it is the scar of the boil; and the priest shall pronounce him clean.
+    24: "Or, when the body has a burn on its skin and the raw flesh of the burn becomes a spot, reddish-white or white,
+    25: the priest shall examine it, and if the hair in the spot has turned white and it appears deeper than the skin, then it is leprosy; it has broken out in the burn, and the priest shall pronounce him unclean; it is a leprous disease.
+    26: But if the priest examines it, and the hair in the spot is not white and it is no deeper than the skin, but is dim, the priest shall shut him up seven days,
+    27: and the priest shall examine him the seventh day; if it is spreading in the skin, then the priest shall pronounce him unclean; it is a leprous disease.
+    28: But if the spot remains in one place and does not spread in the skin, but is dim, it is a swelling from the burn, and the priest shall pronounce him clean; for it is the scar of the burn.
+    29: "When a man or woman has a disease on the head or the beard,
+    30: the priest shall examine the disease; and if it appears deeper than the skin, and the hair in it is yellow and thin, then the priest shall pronounce him unclean; it is an itch, a leprosy of the head or the beard.
+    31: And if the priest examines the itching disease, and it appears no deeper than the skin and there is no black hair in it, then the priest shall shut up the person with the itching disease for seven days,
+    32: and on the seventh day the priest shall examine the disease; and if the itch has not spread, and there is in it no yellow hair, and the itch appears to be no deeper than the skin,
+    33: then he shall shave himself, but the itch he shall not shave; and the priest shall shut up the person with the itching disease for seven days more;
+    34: and on the seventh day the priest shall examine the itch, and if the itch has not spread in the skin and it appears to be no deeper than the skin, then the priest shall pronounce him clean; and he shall wash his clothes, and be clean.
+    35: But if the itch spreads in the skin after his cleansing,
+    36: then the priest shall examine him, and if the itch has spread in the skin, the priest need not seek for the yellow hair; he is unclean.
+    37: But if in his eyes the itch is checked, and black hair has grown in it, the itch is healed, he is clean; and the priest shall pronounce him clean.
+    38: "When a man or a woman has spots on the skin of the body, white spots,
+    39: the priest shall make an examination, and if the spots on the skin of the body are of a dull white, it is tetter that has broken out in the skin; he is clean.
+    40: "If a man's hair has fallen from his head, he is bald but he is clean.
+    41: And if a man's hair has fallen from his forehead and temples, he has baldness of the forehead but he is clean.
+    42: But if there is on the bald head or the bald forehead a reddish-white diseased spot, it is leprosy breaking out on his bald head or his bald forehead.
+    43: Then the priest shall examine him, and if the diseased swelling is reddish-white on his bald head or on his bald forehead, like the appearance of leprosy in the skin of the body,
+    44: he is a leprous man, he is unclean; the priest must pronounce him unclean; his disease is on his head.
+    45: "The leper who has the disease shall wear torn clothes and let the hair of his head hang loose, and he shall cover his upper lip and cry, `Unclean, unclean.'
+    46: He shall remain unclean as long as he has the disease; he is unclean; he shall dwell alone in a habitation outside the camp.
+    47: "When there is a leprous disease in a garment, whether a woolen or a linen garment,
+    48: in warp or woof of linen or wool, or in a skin or in anything made of skin,
+    49: if the disease shows greenish or reddish in the garment, whether in warp or woof or in skin or in anything made of skin, it is a leprous disease and shall be shown to the priest.
+    50: And the priest shall examine the disease, and shut up that which has the disease for seven days;
+    51: then he shall examine the disease on the seventh day. If the disease has spread in the garment, in warp or woof, or in the skin, whatever be the use of the skin, the disease is a malignant leprosy; it is unclean.
+    52: And he shall burn the garment, whether diseased in warp or woof, woolen or linen, or anything of skin, for it is a malignant leprosy; it shall be burned in the fire.
+    53: "And if the priest examines, and the disease has not spread in the garment in warp or woof or in anything of skin,
+    54: then the priest shall command that they wash the thing in which is the disease, and he shall shut it up seven days more;
+    55: and the priest shall examine the diseased thing after it has been washed. And if the diseased spot has not changed color, though the disease has not spread, it is unclean; you shall burn it in the fire, whether the leprous spot is on the back or on the front.
+    56: "But if the priest examines, and the disease is dim after it is washed, he shall tear the spot out of the garment or the skin or the warp or woof;
+    57: then if it appears again in the garment, in warp or woof, or in anything of skin, it is spreading; you shall burn with fire that in which is the disease.
+    58: But the garment, warp or woof, or anything of skin from which the disease departs when you have washed it, shall then be washed a second time, and be clean."
+    59: This is the law for a leprous disease in a garment of wool or linen, either in warp or woof, or in anything of skin, to decide whether it is clean or unclean.
+
+  Chapter 14.
+
+    1: The LORD said to Moses,
+    2: "This shall be the law of the leper for the day of his cleansing. He shall be brought to the priest;
+    3: and the priest shall go out of the camp, and the priest shall make an examination. Then, if the leprous disease is healed in the leper,
+    4: the priest shall command them to take for him who is to be cleansed two living clean birds and cedarwood and scarlet stuff and hyssop;
+    5: and the priest shall command them to kill one of the birds in an earthen vessel over running water.
+    6: He shall take the living bird with the cedarwood and the scarlet stuff and the hyssop, and dip them and the living bird in the blood of the bird that was killed over the running water;
+    7: and he shall sprinkle it seven times upon him who is to be cleansed of leprosy; then he shall pronounce him clean, and shall let the living bird go into the open field.
+    8: And he who is to be cleansed shall wash his clothes, and shave off all his hair, and bathe himself in water, and he shall be clean; and after that he shall come into the camp, but shall dwell outside his tent seven days.
+    9: And on the seventh day he shall shave all his hair off his head; he shall shave off his beard and his eyebrows, all his hair. Then he shall wash his clothes, and bathe his body in water, and he shall be clean.
+    10: "And on the eighth day he shall take two male lambs without blemish, and one ewe lamb a year old without blemish, and a cereal offering of three tenths of an ephah of fine flour mixed with oil, and one log of oil.
+    11: And the priest who cleanses him shall set the man who is to be cleansed and these things before the LORD, at the door of the tent of meeting.
+    12: And the priest shall take one of the male lambs, and offer it for a guilt offering, along with the log of oil, and wave them for a wave offering before the LORD;
+    13: and he shall kill the lamb in the place where they kill the sin offering and the burnt offering, in the holy place; for the guilt offering, like the sin offering, belongs to the priest; it is most holy.
+    14: The priest shall take some of the blood of the guilt offering, and the priest shall put it on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the great toe of his right foot.
+    15: Then the priest shall take some of the log of oil, and pour it into the palm of his own left hand,
+    16: and dip his right finger in the oil that is in his left hand, and sprinkle some oil with his finger seven times before the LORD.
+    17: And some of the oil that remains in his hand the priest shall put on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the great toe of his right foot, upon the blood of the guilt offering;
+    18: and the rest of the oil that is in the priest's hand he shall put on the head of him who is to be cleansed. Then the priest shall make atonement for him before the LORD.
+    19: The priest shall offer the sin offering, to make atonement for him who is to be cleansed from his uncleanness. And afterward he shall kill the burnt offering;
+    20: and the priest shall offer the burnt offering and the cereal offering on the altar. Thus the priest shall make atonement for him, and he shall be clean.
+    21: "But if he is poor and cannot afford so much, then he shall take one male lamb for a guilt offering to be waved, to make atonement for him, and a tenth of an ephah of fine flour mixed with oil for a cereal offering, and a log of oil;
+    22: also two turtledoves or two young pigeons, such as he can afford; the one shall be a sin offering and the other a burnt offering.
+    23: And on the eighth day he shall bring them for his cleansing to the priest, to the door of the tent of meeting, before the LORD;
+    24: and the priest shall take the lamb of the guilt offering, and the log of oil, and the priest shall wave them for a wave offering before the LORD.
+    25: And he shall kill the lamb of the guilt offering; and the priest shall take some of the blood of the guilt offering, and put it on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and on the great toe of his right foot.
+    26: And the priest shall pour some of the oil into the palm of his own left hand;
+    27: and shall sprinkle with his right finger some of the oil that is in his left hand seven times before the LORD;
+    28: and the priest shall put some of the oil that is in his hand on the tip of the right ear of him who is to be cleansed, and on the thumb of his right hand, and the great toe of his right foot, in the place where the blood of the guilt offering was put;
+    29: and the rest of the oil that is in the priest's hand he shall put on the head of him who is to be cleansed, to make atonement for him before the LORD.
+    30: And he shall offer, of the turtledoves or young pigeons such as he can afford,
+    31: one for a sin offering and the other for a burnt offering, along with a cereal offering; and the priest shall make atonement before the LORD for him who is being cleansed.
+    32: This is the law for him in whom is a leprous disease, who cannot afford the offerings for his cleansing."
+    33: The LORD said to Moses and Aaron,
+    34: "When you come into the land of Canaan, which I give you for a possession, and I put a leprous disease in a house in the land of your possession,
+    35: then he who owns the house shall come and tell the priest, `There seems to me to be some sort of disease in my house.'
+    36: Then the priest shall command that they empty the house before the priest goes to examine the disease, lest all that is in the house be declared unclean; and afterward the priest shall go in to see the house.
+    37: And he shall examine the disease; and if the disease is in the walls of the house with greenish or reddish spots, and if it appears to be deeper than the surface,
+    38: then the priest shall go out of the house to the door of the house, and shut up the house seven days.
+    39: And the priest shall come again on the seventh day, and look; and if the disease has spread in the walls of the house,
+    40: then the priest shall command that they take out the stones in which is the disease and throw them into an unclean place outside the city;
+    41: and he shall cause the inside of the house to be scraped round about, and the plaster that they scrape off they shall pour into an unclean place outside the city;
+    42: then they shall take other stones and put them in the place of those stones, and he shall take other plaster and plaster the house.
+    43: "If the disease breaks out again in the house, after he has taken out the stones and scraped the house and plastered it,
+    44: then the priest shall go and look; and if the disease has spread in the house, it is a malignant leprosy in the house; it is unclean.
+    45: And he shall break down the house, its stones and timber and all the plaster of the house; and he shall carry them forth out of the city to an unclean place.
+    46: Moreover he who enters the house while it is shut up shall be unclean until the evening;
+    47: and he who lies down in the house shall wash his clothes; and he who eats in the house shall wash his clothes.
+    48: "But if the priest comes and makes an examination, and the disease has not spread in the house after the house was plastered, then the priest shall pronounce the house clean, for the disease is healed.
+    49: And for the cleansing of the house he shall take two small birds, with cedarwood and scarlet stuff and hyssop,
+    50: and shall kill one of the birds in an earthen vessel over running water,
+    51: and shall take the cedarwood and the hyssop and the scarlet stuff, along with the living bird, and dip them in the blood of the bird that was killed and in the running water, and sprinkle the house seven times.
+    52: Thus he shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedarwood and hyssop and scarlet stuff;
+    53: and he shall let the living bird go out of the city into the open field; so he shall make atonement for the house, and it shall be clean."
+    54: This is the law for any leprous disease: for an itch,
+    55: for leprosy in a garment or in a house,
+    56: and for a swelling or an eruption or a spot,
+    57: to show when it is unclean and when it is clean. This is the law for leprosy.
+
+  Chapter 15.
+
+    1: The LORD said to Moses and Aaron,
+    2: "Say to the people of Israel, When any man has a discharge from his body, his discharge is unclean.
+    3: And this is the law of his uncleanness for a discharge: whether his body runs with his discharge, or his body is stopped from discharge, it is uncleanness in him.
+    4: Every bed on which he who has the discharge lies shall be unclean; and everything on which he sits shall be unclean.
+    5: And any one who touches his bed shall wash his clothes, and bathe himself in water, and be unclean until the evening.
+    6: And whoever sits on anything on which he who has the discharge has sat shall wash his clothes, and bathe himself in water, and be unclean until the evening.
+    7: And whoever touches the body of him who has the discharge shall wash his clothes, and bathe himself in water, and be unclean until the evening.
+    8: And if he who has the discharge spits on one who is clean, then he shall wash his clothes, and bathe himself in water, and be unclean until the evening.
+    9: And any saddle on which he who has the discharge rides shall be unclean.
+    10: And whoever touches anything that was under him shall be unclean until the evening; and he who carries such a thing shall wash his clothes, and bathe himself in water, and be unclean until the evening.
+    11: Any one whom he that has the discharge touches without having rinsed his hands in water shall wash his clothes, and bathe himself in water, and be unclean until the evening.
+    12: And the earthen vessel which he who has the discharge touches shall be broken; and every vessel of wood shall be rinsed in water.
+    13: "And when he who has a discharge is cleansed of his discharge, then he shall count for himself seven days for his cleansing, and wash his clothes; and he shall bathe his body in running water, and shall be clean.
+    14: And on the eighth day he shall take two turtledoves or two young pigeons, and come before the LORD to the door of the tent of meeting, and give them to the priest;
+    15: and the priest shall offer them, one for a sin offering and the other for a burnt offering; and the priest shall make atonement for him before the LORD for his discharge.
+    16: "And if a man has an emission of semen, he shall bathe his whole body in water, and be unclean until the evening.
+    17: And every garment and every skin on which the semen comes shall be washed with water, and be unclean until the evening.
+    18: If a man lies with a woman and has an emission of semen, both of them shall bathe themselves in water, and be unclean until the evening.
+    19: "When a woman has a discharge of blood which is her regular discharge from her body, she shall be in her impurity for seven days, and whoever touches her shall be unclean until the evening.
+    20: And everything upon which she lies during her impurity shall be unclean; everything also upon which she sits shall be unclean.
+    21: And whoever touches her bed shall wash his clothes, and bathe himself in water, and be unclean until the evening.
+    22: And whoever touches anything upon which she sits shall wash his clothes, and bathe himself in water, and be unclean until the evening;
+    23: whether it is the bed or anything upon which she sits, when he touches it he shall be unclean until the evening.
+    24: And if any man lies with her, and her impurity is on him, he shall be unclean seven days; and every bed on which he lies shall be unclean.
+    25: "If a woman has a discharge of blood for many days, not at the time of her impurity, or if she has a discharge beyond the time of her impurity, all the days of the discharge she shall continue in uncleanness; as in the days of her impurity, she shall be unclean.
+    26: Every bed on which she lies, all the days of her discharge, shall be to her as the bed of her impurity; and everything on which she sits shall be unclean, as in the uncleanness of her impurity.
+    27: And whoever touches these things shall be unclean, and shall wash his clothes, and bathe himself in water, and be unclean until the evening.
+    28: But if she is cleansed of her discharge, she shall count for herself seven days, and after that she shall be clean.
+    29: And on the eighth day she shall take two turtledoves or two young pigeons, and bring them to the priest, to the door of the tent of meeting.
+    30: And the priest shall offer one for a sin offering and the other for a burnt offering; and the priest shall make atonement for her before the LORD for her unclean discharge.
+    31: "Thus you shall keep the people of Israel separate from their uncleanness, lest they die in their uncleanness by defiling my tabernacle that is in their midst."
+    32: This is the law for him who has a discharge and for him who has an emission of semen, becoming unclean thereby;
+    33: also for her who is sick with her impurity; that is, for any one, male or female, who has a discharge, and for the man who lies with a woman who is unclean.
+
+  Chapter 16.
+
+    1: The LORD spoke to Moses, after the death of the two sons of Aaron, when they drew near before the LORD and died;
+    2: and the LORD said to Moses, "Tell Aaron your brother not to come at all times into the holy place within the veil, before the mercy seat which is upon the ark, lest he die; for I will appear in the cloud upon the mercy seat.
+    3: But thus shall Aaron come into the holy place: with a young bull for a sin offering and a ram for a burnt offering.
+    4: He shall put on the holy linen coat, and shall have the linen breeches on his body, be girded with the linen girdle, and wear the linen turban; these are the holy garments. He shall bathe his body in water, and then put them on.
+    5: And he shall take from the congregation of the people of Israel two male goats for a sin offering, and one ram for a burnt offering.
+    6: "And Aaron shall offer the bull as a sin offering for himself, and shall make atonement for himself and for his house.
+    7: Then he shall take the two goats, and set them before the LORD at the door of the tent of meeting;
+    8: and Aaron shall cast lots upon the two goats, one lot for the LORD and the other lot for Aza'zel.
+    9: And Aaron shall present the goat on which the lot fell for the LORD, and offer it as a sin offering;
+    10: but the goat on which the lot fell for Aza'zel shall be presented alive before the LORD to make atonement over it, that it may be sent away into the wilderness to Aza'zel.
+    11: "Aaron shall present the bull as a sin offering for himself, and shall make atonement for himself and for his house; he shall kill the bull as a sin offering for himself.
+    12: And he shall take a censer full of coals of fire from the altar before the LORD, and two handfuls of sweet incense beaten small; and he shall bring it within the veil
+    13: and put the incense on the fire before the LORD, that the cloud of the incense may cover the mercy seat which is upon the testimony, lest he die;
+    14: and he shall take some of the blood of the bull, and sprinkle it with his finger on the front of the mercy seat, and before the mercy seat he shall sprinkle the blood with his finger seven times.
+    15: "Then he shall kill the goat of the sin offering which is for the people, and bring its blood within the veil, and do with its blood as he did with the blood of the bull, sprinkling it upon the mercy seat and before the mercy seat;
+    16: thus he shall make atonement for the holy place, because of the uncleannesses of the people of Israel, and because of their transgressions, all their sins; and so he shall do for the tent of meeting, which abides with them in the midst of their uncleannesses.
+    17: There shall be no man in the tent of meeting when he enters to make atonement in the holy place until he comes out and has made atonement for himself and for his house and for all the assembly of Israel.
+    18: Then he shall go out to the altar which is before the LORD and make atonement for it, and shall take some of the blood of the bull and of the blood of the goat, and put it on the horns of the altar round about.
+    19: And he shall sprinkle some of the blood upon it with his finger seven times, and cleanse it and hallow it from the uncleannesses of the people of Israel.
+    20: "And when he has made an end of atoning for the holy place and the tent of meeting and the altar, he shall present the live goat;
+    21: and Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the people of Israel, and all their transgressions, all their sins; and he shall put them upon the head of the goat, and send him away into the wilderness by the hand of a man who is in readiness.
+    22: The goat shall bear all their iniquities upon him to a solitary land; and he shall let the goat go in the wilderness.
+    23: "Then Aaron shall come into the tent of meeting, and shall put off the linen garments which he put on when he went into the holy place, and shall leave them there;
+    24: and he shall bathe his body in water in a holy place, and put on his garments, and come forth, and offer his burnt offering and the burnt offering of the people, and make atonement for himself and for the people.
+    25: And the fat of the sin offering he shall burn upon the altar.
+    26: And he who lets the goat go to Aza'zel shall wash his clothes and bathe his body in water, and afterward he may come into the camp.
+    27: And the bull for the sin offering and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall be carried forth outside the camp; their skin and their flesh and their dung shall be burned with fire.
+    28: And he who burns them shall wash his clothes and bathe his body in water, and afterward he may come into the camp.
+    29: "And it shall be a statute to you for ever that in the seventh month, on the tenth day of the month, you shall afflict yourselves, and shall do no work, either the native or the stranger who sojourns among you;
+    30: for on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before the LORD.
+    31: It is a sabbath of solemn rest to you, and you shall afflict yourselves; it is a statute for ever.
+    32: And the priest who is anointed and consecrated as priest in his father's place shall make atonement, wearing the holy linen garments;
+    33: he shall make atonement for the sanctuary, and he shall make atonement for the tent of meeting and for the altar, and he shall make atonement for the priests and for all the people of the assembly.
+    34: And this shall be an everlasting statute for you, that atonement may be made for the people of Israel once in the year because of all their sins." And Moses did as the LORD commanded him.
+
+End of day 27.

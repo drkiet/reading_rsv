@@ -1,0 +1,141 @@
+Day 29:
+
+Reading Leviticus, chapters ['21', '22', '23', '24']:
+
+  Chapter 21.
+
+    1: And the LORD said to Moses, "Speak to the priests, the sons of Aaron, and say to them that none of them shall defile himself for the dead among his people,
+    2: except for his nearest of kin, his mother, his father, his son, his daughter, his brother,
+    3: or his virgin sister (who is near to him because she has had no husband; for her he may defile himself).
+    4: He shall not defile himself as a husband among his people and so profane himself.
+    5: They shall not make tonsures upon their heads, nor shave off the edges of their beards, nor make any cuttings in their flesh.
+    6: They shall be holy to their God, and not profane the name of their God; for they offer the offerings by fire to the LORD, the bread of their God; therefore they shall be holy.
+    7: They shall not marry a harlot or a woman who has been defiled; neither shall they marry a woman divorced from her husband; for the priest is holy to his God.
+    8: You shall consecrate him, for he offers the bread of your God; he shall be holy to you; for I the LORD, who sanctify you, am holy.
+    9: And the daughter of any priest, if she profanes herself by playing the harlot, profanes her father; she shall be burned with fire.
+    10: "The priest who is chief among his brethren, upon whose head the anointing oil is poured, and who has been consecrated to wear the garments, shall not let the hair of his head hang loose, nor rend his clothes;
+    11: he shall not go in to any dead body, nor defile himself, even for his father or for his mother;
+    12: neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the consecration of the anointing oil of his God is upon him: I am the LORD.
+    13: And he shall take a wife in her virginity.
+    14: A widow, or one divorced, or a woman who has been defiled, or a harlot, these he shall not marry; but he shall take to wife a virgin of his own people,
+    15: that he may not profane his children among his people; for I am the LORD who sanctify him."
+    16: And the LORD said to Moses,
+    17: "Say to Aaron, None of your descendants throughout their generations who has a blemish may approach to offer the bread of his God.
+    18: For no one who has a blemish shall draw near, a man blind or lame, or one who has a mutilated face or a limb too long,
+    19: or a man who has an injured foot or an injured hand,
+    20: or a hunchback, or a dwarf, or a man with a defect in his sight or an itching disease or scabs or crushed testicles;
+    21: no man of the descendants of Aaron the priest who has a blemish shall come near to offer the LORD's offerings by fire; since he has a blemish, he shall not come near to offer the bread of his God.
+    22: He may eat the bread of his God, both of the most holy and of the holy things,
+    23: but he shall not come near the veil or approach the altar, because he has a blemish, that he may not profane my sanctuaries; for I am the LORD who sanctify them."
+    24: So Moses spoke to Aaron and to his sons and to all the people of Israel.
+
+  Chapter 22.
+
+    1: And the LORD said to Moses,
+    2: "Tell Aaron and his sons to keep away from the holy things of the people of Israel, which they dedicate to me, so that they may not profane my holy name; I am the LORD.
+    3: Say to them, `If any one of all your descendants throughout your generations approaches the holy things, which the people of Israel dedicate to the LORD, while he has an uncleanness, that person shall be cut off from my presence: I am the LORD.
+    4: None of the line of Aaron who is a leper or suffers a discharge may eat of the holy things until he is clean. Whoever touches anything that is unclean through contact with the dead or a man who has had an emission of semen,
+    5: and whoever touches a creeping thing by which he may be made unclean or a man from whom he may take uncleanness, whatever his uncleanness may be --
+    6: the person who touches any such shall be unclean until the evening and shall not eat of the holy things unless he has bathed his body in water.
+    7: When the sun is down he shall be clean; and afterward he may eat of the holy things, because such are his food.
+    8: That which dies of itself or is torn by beasts he shall not eat, defiling himself by it: I am the LORD.'
+    9: They shall therefore keep my charge, lest they bear sin for it and die thereby when they profane it: I am the LORD who sanctify them.
+    10: "An outsider shall not eat of a holy thing. A sojourner of the priest's or a hired servant shall not eat of a holy thing;
+    11: but if a priest buys a slave as his property for money, the slave may eat of it; and those that are born in his house may eat of his food.
+    12: If a priest's daughter is married to an outsider she shall not eat of the offering of the holy things.
+    13: But if a priest's daughter is a widow or divorced, and has no child, and returns to her father's house, as in her youth, she may eat of her father's food; yet no outsider shall eat of it.
+    14: And if a man eats of a holy thing unwittingly, he shall add the fifth of its value to it, and give the holy thing to the priest.
+    15: The priests shall not profane the holy things of the people of Israel, which they offer to the LORD,
+    16: and so cause them to bear iniquity and guilt, by eating their holy things: for I am the LORD who sanctify them."
+    17: And the LORD said to Moses,
+    18: "Say to Aaron and his sons and all the people of Israel, When any one of the house of Israel or of the sojourners in Israel presents his offering, whether in payment of a vow or as a freewill offering which is offered to the LORD as a burnt offering,
+    19: to be accepted you shall offer a male without blemish, of the bulls or the sheep or the goats.
+    20: You shall not offer anything that has a blemish, for it will not be acceptable for you.
+    21: And when any one offers a sacrifice of peace offerings to the LORD, to fulfil a vow or as a freewill offering, from the herd or from the flock, to be accepted it must be perfect; there shall be no blemish in it.
+    22: Animals blind or disabled or mutilated or having a discharge or an itch or scabs, you shall not offer to the LORD or make of them an offering by fire upon the altar to the LORD.
+    23: A bull or a lamb which has a part too long or too short you may present for a freewill offering; but for a votive offering it cannot be accepted.
+    24: Any animal which has its testicles bruised or crushed or torn or cut, you shall not offer to the LORD or sacrifice within your land;
+    25: neither shall you offer as the bread of your God any such animals gotten from a foreigner. Since there is a blemish in them, because of their mutilation, they will not be accepted for you."
+    26: And the LORD said to Moses,
+    27: "When a bull or sheep or goat is born, it shall remain seven days with its mother; and from the eighth day on it shall be acceptable as an offering by fire to the LORD.
+    28: And whether the mother is a cow or a ewe, you shall not kill both her and her young in one day.
+    29: And when you sacrifice a sacrifice of thanksgiving to the LORD, you shall sacrifice it so that you may be accepted.
+    30: It shall be eaten on the same day, you shall leave none of it until morning: I am the LORD.
+    31: "So you shall keep my commandments and do them: I am the LORD.
+    32: And you shall not profane my holy name, but I will be hallowed among the people of Israel; I am the LORD who sanctify you,
+    33: who brought you out of the land of Egypt to be your God: I am the LORD."
+
+  Chapter 23.
+
+    1: The LORD said to Moses,
+    2: "Say to the people of Israel, The appointed feasts of the LORD which you shall proclaim as holy convocations, my appointed feasts, are these.
+    3: Six days shall work be done; but on the seventh day is a sabbath of solemn rest, a holy convocation; you shall do no work; it is a sabbath to the LORD in all your dwellings.
+    4: "These are the appointed feasts of the LORD, the holy convocations, which you shall proclaim at the time appointed for them.
+    5: In the first month, on the fourteenth day of the month in the evening, is the LORD's passover.
+    6: And on the fifteenth day of the same month is the feast of unleavened bread to the LORD; seven days you shall eat unleavened bread.
+    7: On the first day you shall have a holy convocation; you shall do no laborious work.
+    8: But you shall present an offering by fire to the LORD seven days; on the seventh day is a holy convocation; you shall do no laborious work."
+    9: And the LORD said to Moses,
+    10: "Say to the people of Israel, When you come into the land which I give you and reap its harvest, you shall bring the sheaf of the first fruits of your harvest to the priest;
+    11: and he shall wave the sheaf before the LORD, that you may find acceptance; on the morrow after the sabbath the priest shall wave it.
+    12: And on the day when you wave the sheaf, you shall offer a male lamb a year old without blemish as a burnt offering to the LORD.
+    13: And the cereal offering with it shall be two tenths of an ephah of fine flour mixed with oil, to be offered by fire to the LORD, a pleasing odor; and the drink offering with it shall be of wine, a fourth of a hin.
+    14: And you shall eat neither bread nor grain parched or fresh until this same day, until you have brought the offering of your God: it is a statute for ever throughout your generations in all your dwellings.
+    15: "And you shall count from the morrow after the sabbath, from the day that you brought the sheaf of the wave offering; seven full weeks shall they be,
+    16: counting fifty days to the morrow after the seventh sabbath; then you shall present a cereal offering of new grain to the LORD.
+    17: You shall bring from your dwellings two loaves of bread to be waved, made of two tenths of an ephah; they shall be of fine flour, they shall be baked with leaven, as first fruits to the LORD.
+    18: And you shall present with the bread seven lambs a year old without blemish, and one young bull, and two rams; they shall be a burnt offering to the LORD, with their cereal offering and their drink offerings, an offering by fire, a pleasing odor to the LORD.
+    19: And you shall offer one male goat for a sin offering, and two male lambs a year old as a sacrifice of peace offerings.
+    20: And the priest shall wave them with the bread of the first fruits as a wave offering before the LORD, with the two lambs; they shall be holy to the LORD for the priest.
+    21: And you shall make proclamation on the same day; you shall hold a holy convocation; you shall do no laborious work: it is a statute for ever in all your dwellings throughout your generations.
+    22: "And when you reap the harvest of your land, you shall not reap your field to its very border, nor shall you gather the gleanings after your harvest; you shall leave them for the poor and for the stranger: I am the LORD your God."
+    23: And the LORD said to Moses,
+    24: "Say to the people of Israel, In the seventh month, on the first day of the month, you shall observe a day of solemn rest, a memorial proclaimed with blast of trumpets, a holy convocation.
+    25: You shall do no laborious work; and you shall present an offering by fire to the LORD."
+    26: And the LORD said to Moses,
+    27: "On the tenth day of this seventh month is the day of atonement; it shall be for you a time of holy convocation, and you shall afflict yourselves and present an offering by fire to the LORD.
+    28: And you shall do no work on this same day; for it is a day of atonement, to make atonement for you before the LORD your God.
+    29: For whoever is not afflicted on this same day shall be cut off from his people.
+    30: And whoever does any work on this same day, that person I will destroy from among his people.
+    31: You shall do no work: it is a statute for ever throughout your generations in all your dwellings.
+    32: It shall be to you a sabbath of solemn rest, and you shall afflict yourselves; on the ninth day of the month beginning at evening, from evening to evening shall you keep your sabbath."
+    33: And the LORD said to Moses,
+    34: "Say to the people of Israel, On the fifteenth day of this seventh month and for seven days is the feast of booths to the LORD.
+    35: On the first day shall be a holy convocation; you shall do no laborious work.
+    36: Seven days you shall present offerings by fire to the LORD; on the eighth day you shall hold a holy convocation and present an offering by fire to the LORD; it is a solemn assembly; you shall do no laborious work.
+    37: "These are the appointed feasts of the LORD, which you shall proclaim as times of holy convocation, for presenting to the LORD offerings by fire, burnt offerings and cereal offerings, sacrifices and drink offerings, each on its proper day;
+    38: besides the sabbaths of the LORD, and besides your gifts, and besides all your votive offerings, and besides all your freewill offerings, which you give to the LORD.
+    39: "On the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall keep the feast of the LORD seven days; on the first day shall be a solemn rest, and on the eighth day shall be a solemn rest.
+    40: And you shall take on the first day the fruit of goodly trees, branches of palm trees, and boughs of leafy trees, and willows of the brook; and you shall rejoice before the LORD your God seven days.
+    41: You shall keep it as a feast to the LORD seven days in the year; it is a statute for ever throughout your generations; you shall keep it in the seventh month.
+    42: You shall dwell in booths for seven days; all that are native in Israel shall dwell in booths,
+    43: that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt: I am the LORD your God."
+    44: Thus Moses declared to the people of Israel the appointed feasts of the LORD.
+
+  Chapter 24.
+
+    1: The LORD said to Moses,
+    2: "Command the people of Israel to bring you pure oil from beaten olives for the lamp, that a light may be kept burning continually.
+    3: Outside the veil of the testimony, in the tent of meeting, Aaron shall keep it in order from evening to morning before the LORD continually; it shall be a statute for ever throughout your generations.
+    4: He shall keep the lamps in order upon the lampstand of pure gold before the LORD continually.
+    5: "And you shall take fine flour, and bake twelve cakes of it; two tenths of an ephah shall be in each cake.
+    6: And you shall set them in two rows, six in a row, upon the table of pure gold.
+    7: And you shall put pure frankincense with each row, that it may go with the bread as a memorial portion to be offered by fire to the LORD.
+    8: Every sabbath day Aaron shall set it in order before the LORD continually on behalf of the people of Israel as a covenant for ever.
+    9: And it shall be for Aaron and his sons, and they shall eat it in a holy place, since it is for him a most holy portion out of the offerings by fire to the LORD, a perpetual due."
+    10: Now an Israelite woman's son, whose father was an Egyptian, went out among the people of Israel; and the Israelite woman's son and a man of Israel quarreled in the camp,
+    11: and the Israelite woman's son blasphemed the Name, and cursed. And they brought him to Moses. His mother's name was Shelo'mith, the daughter of Dibri, of the tribe of Dan.
+    12: And they put him in custody, till the will of the LORD should be declared to them.
+    13: And the LORD said to Moses,
+    14: "Bring out of the camp him who cursed; and let all who heard him lay their hands upon his head, and let all the congregation stone him.
+    15: And say to the people of Israel, Whoever curses his God shall bear his sin.
+    16: He who blasphemes the name of the LORD shall be put to death; all the congregation shall stone him; the sojourner as well as the native, when he blasphemes the Name, shall be put to death.
+    17: He who kills a man shall be put to death.
+    18: He who kills a beast shall make it good, life for life.
+    19: When a man causes a disfigurement in his neighbor, as he has done it shall be done to him,
+    20: fracture for fracture, eye for eye, tooth for tooth; as he has disfigured a man, he shall be disfigured.
+    21: He who kills a beast shall make it good; and he who kills a man shall be put to death.
+    22: You shall have one law for the sojourner and for the native; for I am the LORD your God."
+    23: So Moses spoke to the people of Israel; and they brought him who had cursed out of the camp, and stoned him with stones. Thus the people of Israel did as the LORD commanded Moses.
+
+End of day 29.

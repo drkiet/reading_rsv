@@ -1,0 +1,117 @@
+Day 134:
+
+Reading Job, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: "Call now; is there any one who will answer you? To which of the holy ones will you turn?
+    2: Surely vexation kills the fool, and jealousy slays the simple.
+    3: I have seen the fool taking root, but suddenly I cursed his dwelling.
+    4: His sons are far from safety, they are crushed in the gate, and there is no one to deliver them.
+    5: His harvest the hungry eat, and he takes it even out of thorns; and the thirsty pant after his wealth.
+    6: For affliction does not come from the dust, nor does trouble sprout from the ground;
+    7: but man is born to trouble as the sparks fly upward.
+    8: "As for me, I would seek God, and to God would I commit my cause;
+    9: who does great things and unsearchable, marvelous things without number:
+    10: he gives rain upon the earth and sends waters upon the fields;
+    11: he sets on high those who are lowly, and those who mourn are lifted to safety.
+    12: He frustrates the devices of the crafty, so that their hands achieve no success.
+    13: He takes the wise in their own craftiness; and the schemes of the wily are brought to a quick end.
+    14: They meet with darkness in the daytime, and grope at noonday as in the night.
+    15: But he saves the fatherless from their mouth, the needy from the hand of the mighty.
+    16: So the poor have hope, and injustice shuts her mouth.
+    17: "Behold, happy is the man whom God reproves; therefore despise not the chastening of the Almighty.
+    18: For he wounds, but he binds up; he smites, but his hands heal.
+    19: He will deliver you from six troubles; in seven there shall no evil touch you.
+    20: In famine he will redeem you from death, and in war from the power of the sword.
+    21: You shall be hid from the scourge of the tongue, and shall not fear destruction when it comes.
+    22: At destruction and famine you shall laugh, and shall not fear the beasts of the earth.
+    23: For you shall be in league with the stones of the field, and the beasts of the field shall be at peace with you.
+    24: You shall know that your tent is safe, and you shall inspect your fold and miss nothing.
+    25: You shall know also that your descendants shall be many, and your offspring as the grass of the earth.
+    26: You shall come to your grave in ripe old age, as a shock of grain comes up to the threshing floor in its season.
+    27: Lo, this we have searched out; it is true. Hear, and know it for your good."
+
+  Chapter 6.
+
+    1: Then Job answered:
+    2: "O that my vexation were weighed, and all my calamity laid in the balances!
+    3: For then it would be heavier than the sand of the sea; therefore my words have been rash.
+    4: For the arrows of the Almighty are in me; my spirit drinks their poison; the terrors of God are arrayed against me.
+    5: Does the wild ass bray when he has grass, or the ox low over his fodder?
+    6: Can that which is tasteless be eaten without salt, or is there any taste in the slime of the purslane?
+    7: My appetite refuses to touch them; they are as food that is loathsome to me.
+    8: "O that I might have my request, and that God would grant my desire;
+    9: that it would please God to crush me, that he would let loose his hand and cut me off!
+    10: This would be my consolation; I would even exult in pain unsparing; for I have not denied the words of the Holy One.
+    11: What is my strength, that I should wait? And what is my end, that I should be patient?
+    12: Is my strength the strength of stones, or is my flesh bronze?
+    13: In truth I have no help in me, and any resource is driven from me.
+    14: "He who withholds kindness from a friend forsakes the fear of the Almighty.
+    15: My brethren are treacherous as a torrent-bed, as freshets that pass away,
+    16: which are dark with ice, and where the snow hides itself.
+    17: In time of heat they disappear; when it is hot, they vanish from their place.
+    18: The caravans turn aside from their course; they go up into the waste, and perish.
+    19: The caravans of Tema look, the travelers of Sheba hope.
+    20: They are disappointed because they were confident; they come thither and are confounded.
+    21: Such you have now become to me; you see my calamity, and are afraid.
+    22: Have I said, `Make me a gift'? Or, `From your wealth offer a bribe for me'?
+    23: Or, `Deliver me from the adversary's hand'? Or, `Ransom me from the hand of oppressors'?
+    24: "Teach me, and I will be silent; make me understand how I have erred.
+    25: How forceful are honest words! But what does reproof from you reprove?
+    26: Do you think that you can reprove words, when the speech of a despairing man is wind?
+    27: You would even cast lots over the fatherless, and bargain over your friend.
+    28: "But now, be pleased to look at me; for I will not lie to your face.
+    29: Turn, I pray, let no wrong be done. Turn now, my vindication is at stake.
+    30: Is there any wrong on my tongue? Cannot my taste discern calamity?
+
+  Chapter 7.
+
+    1: "Has not man a hard service upon earth, and are not his days like the days of a hireling?
+    2: Like a slave who longs for the shadow, and like a hireling who looks for his wages,
+    3: so I am allotted months of emptiness, and nights of misery are apportioned to me.
+    4: When I lie down I say, `When shall I arise?' But the night is long, and I am full of tossing till the dawn.
+    5: My flesh is clothed with worms and dirt; my skin hardens, then breaks out afresh.
+    6: My days are swifter than a weaver's shuttle, and come to their end without hope.
+    7: "Remember that my life is a breath; my eye will never again see good.
+    8: The eye of him who sees me will behold me no more; while thy eyes are upon me, I shall be gone.
+    9: As the cloud fades and vanishes, so he who goes down to Sheol does not come up;
+    10: he returns no more to his house, nor does his place know him any more.
+    11: "Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
+    12: Am I the sea, or a sea monster, that thou settest a guard over me?
+    13: When I say, `My bed will comfort me, my couch will ease my complaint,'
+    14: then thou dost scare me with dreams and terrify me with visions,
+    15: so that I would choose strangling and death rather than my bones.
+    16: I loathe my life; I would not live for ever. Let me alone, for my days are a breath.
+    17: What is man, that thou dost make so much of him, and that thou dost set thy mind upon him,
+    18: dost visit him every morning, and test him every moment?
+    19: How long wilt thou not look away from me, nor let me alone till I swallow my spittle?
+    20: If I sin, what do I do to thee, thou watcher of men? Why hast thou made me thy mark? Why have I become a burden to thee?
+    21: Why dost thou not pardon my transgression and take away my iniquity? For now I shall lie in the earth; thou wilt seek me, but I shall not be."
+
+  Chapter 8.
+
+    1: Then Bildad the Shuhite answered:
+    2: "How long will you say these things, and the words of your mouth be a great wind?
+    3: Does God pervert justice? Or does the Almighty pervert the right?
+    4: If your children have sinned against him, he has delivered them into the power of their transgression.
+    5: If you will seek God and make supplication to the Almighty,
+    6: if you are pure and upright, surely then he will rouse himself for you and reward you with a rightful habitation.
+    7: And though your beginning was small, your latter days will be very great.
+    8: "For inquire, I pray you, of bygone ages, and consider what the fathers have found;
+    9: for we are but of yesterday, and know nothing, for our days on earth are a shadow.
+    10: Will they not teach you, and tell you, and utter words out of their understanding?
+    11: "Can papyrus grow where there is no marsh? Can reeds flourish where there is no water?
+    12: While yet in flower and not cut down, they wither before any other plant.
+    13: Such are the paths of all who forget God; the hope of the godless man shall perish.
+    14: His confidence breaks in sunder, and his trust is a spider's web.
+    15: He leans against his house, but it does not stand; he lays hold of it, but it does not endure.
+    16: He thrives before the sun, and his shoots spread over his garden.
+    17: His roots twine about the stoneheap; he lives among the rocks.
+    18: If he is destroyed from his place, then it will deny him, saying, `I have never seen you.'
+    19: Behold, this is the joy of his way; and out of the earth others will spring.
+    20: "Behold, God will not reject a blameless man, nor take the hand of evildoers.
+    21: He will yet fill your mouth with laughter, and your lips with shouting.
+    22: Those who hate you will be clothed with shame, and the tent of the wicked will be no more."
+
+End of day 134.

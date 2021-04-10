@@ -1,0 +1,140 @@
+Day 25:
+
+Reading Leviticus, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: "If any one sins in that he hears a public adjuration to testify and though he is a witness, whether he has seen or come to know the matter, yet does not speak, he shall bear his iniquity.
+    2: Or if any one touches an unclean thing, whether the carcass of an unclean beast or a carcass of unclean cattle or a carcass of unclean swarming things, and it is hidden from him, and he has become unclean, he shall be guilty.
+    3: Or if he touches human uncleanness, of whatever sort the uncleanness may be with which one becomes unclean, and it is hidden from him, when he comes to know it he shall be guilty.
+    4: Or if any one utters with his lips a rash oath to do evil or to do good, any sort of rash oath that men swear, and it is hidden from him, when he comes to know it he shall in any of these be guilty.
+    5: When a man is guilty in any of these, he shall confess the sin he has committed,
+    6: and he shall bring his guilt offering to the LORD for the sin which he has committed, a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him for his sin.
+    7: "But if he cannot afford a lamb, then he shall bring, as his guilt offering to the LORD for the sin which he has committed, two turtledoves or two young pigeons, one for a sin offering and the other for a burnt offering.
+    8: He shall bring them to the priest, who shall offer first the one for the sin offering; he shall wring its head from its neck, but shall not sever it,
+    9: and he shall sprinkle some of the blood of the sin offering on the side of the altar, while the rest of the blood shall be drained out at the base of the altar; it is a sin offering.
+    10: Then he shall offer the second for a burnt offering according to the ordinance; and the priest shall make atonement for him for the sin which he has committed, and he shall be forgiven.
+    11: "But if he cannot afford two turtledoves or two young pigeons, then he shall bring, as his offering for the sin which he has committed, a tenth of an ephah of fine flour for a sin offering; he shall put no oil upon it, and shall put no frankincense on it, for it is a sin offering.
+    12: And he shall bring it to the priest, and the priest shall take a handful of it as its memorial portion and burn this on the altar, upon the offerings by fire to the LORD; it is a sin offering.
+    13: Thus the priest shall make atonement for him for the sin which he has committed in any one of these things, and he shall be forgiven. And the remainder shall be for the priest, as in the cereal offering."
+    14: The LORD said to Moses,
+    15: "If any one commits a breach of faith and sins unwittingly in any of the holy things of the LORD, he shall bring, as his guilt offering to the LORD, a ram without blemish out of the flock, valued by you in shekels of silver, according to the shekel of the sanctuary; it is a guilt offering.
+    16: He shall also make restitution for what he has done amiss in the holy thing, and shall add a fifth to it and give it to the priest; and the priest shall make atonement for him with the ram of the guilt offering, and he shall be forgiven.
+    17: "If any one sins, doing any of the things which the LORD has commanded not to be done, though he does not know it, yet he is guilty and shall bear his iniquity.
+    18: He shall bring to the priest a ram without blemish out of the flock, valued by you at the price for a guilt offering, and the priest shall make atonement for him for the error which he committed unwittingly, and he shall be forgiven.
+    19: It is a guilt offering; he is guilty before the LORD."
+
+  Chapter 6.
+
+    1: The LORD said to Moses,
+    2: "If any one sins and commits a breach of faith against the LORD by deceiving his neighbor in a matter of deposit or security, or through robbery, or if he has oppressed his neighbor
+    3: or has found what was lost and lied about it, swearing falsely -- in any of all the things which men do and sin therein,
+    4: when one has sinned and become guilty, he shall restore what he took by robbery, or what he got by oppression, or the deposit which was committed to him, or the lost thing which he found,
+    5: or anything about which he has sworn falsely; he shall restore it in full, and shall add a fifth to it, and give it to him to whom it belongs, on the day of his guilt offering.
+    6: And he shall bring to the priest his guilt offering to the LORD, a ram without blemish out of the flock, valued by you at the price for a guilt offering;
+    7: and the priest shall make atonement for him before the LORD, and he shall be forgiven for any of the things which one may do and thereby become guilty."
+    8: The LORD said to Moses,
+    9: "Command Aaron and his sons, saying, This is the law of the burnt offering. The burnt offering shall be on the hearth upon the altar all night until the morning, and the fire of the altar shall be kept burning on it.
+    10: And the priest shall put on his linen garment, and put his linen breeches upon his body, and he shall take up the ashes to which the fire has consumed the burnt offering on the altar, and put them beside the altar.
+    11: Then he shall put off his garments, and put on other garments, and carry forth the ashes outside the camp to a clean place.
+    12: The fire on the altar shall be kept burning on it, it shall not go out; the priest shall burn wood on it every morning, and he shall lay the burnt offering in order upon it, and shall burn on it the fat of the peace offerings.
+    13: Fire shall be kept burning upon the altar continually; it shall not go out.
+    14: "And this is the law of the cereal offering. The sons of Aaron shall offer it before the LORD, in front of the altar.
+    15: And one shall take from it a handful of the fine flour of the cereal offering with its oil and all the frankincense which is on the cereal offering, and burn this as its memorial portion on the altar, a pleasing odor to the LORD.
+    16: And the rest of it Aaron and his sons shall eat; it shall be eaten unleavened in a holy place; in the court of the tent of meeting they shall eat it.
+    17: It shall not be baked with leaven. I have given it as their portion of my offerings by fire; it is a thing most holy, like the sin offering and the guilt offering.
+    18: Every male among the children of Aaron may eat of it, as decreed for ever throughout your generations, from the LORD's offerings by fire; whoever touches them shall become holy."
+    19: The LORD said to Moses,
+    20: "This is the offering which Aaron and his sons shall offer to the LORD on the day when he is anointed: a tenth of an ephah of fine flour as a regular cereal offering, half of it in the morning and half in the evening.
+    21: It shall be made with oil on a griddle; you shall bring it well mixed, in baked pieces like a cereal offering, and offer it for a pleasing odor to the LORD.
+    22: The priest from among Aaron's sons, who is anointed to succeed him, shall offer it to the LORD as decreed for ever; the whole of it shall be burned.
+    23: Every cereal offering of a priest shall be wholly burned; it shall not be eaten."
+    24: The LORD said to Moses,
+    25: "Say to Aaron and his sons, This is the law of the sin offering. In the place where the burnt offering is killed shall the sin offering be killed before the LORD; it is most holy.
+    26: The priest who offers it for sin shall eat it; in a holy place it shall be eaten, in the court of the tent of meeting.
+    27: Whatever touches its flesh shall be holy; and when any of its blood is sprinkled on a garment, you shall wash that on which it was sprinkled in a holy place.
+    28: And the earthen vessel in which it is boiled shall be broken; but if it is boiled in a bronze vessel, that shall be scoured, and rinsed in water.
+    29: Every male among the priests may eat of it; it is most holy.
+    30: But no sin offering shall be eaten from which any blood is brought into the tent of meeting to make atonement in the holy place; it shall be burned with fire.
+
+  Chapter 7.
+
+    1: "This is the law of the guilt offering. It is most holy;
+    2: in the place where they kill the burnt offering they shall kill the guilt offering, and its blood shall be thrown on the altar round about.
+    3: And all its fat shall be offered, the fat tail, the fat that covers the entrails,
+    4: the two kidneys with the fat that is on them at the loins, and the appendage of the liver which he shall take away with the kidneys;
+    5: the priest shall burn them on the altar as an offering by fire to the LORD; it is a guilt offering.
+    6: Every male among the priests may eat of it; it shall be eaten in a holy place; it is most holy.
+    7: The guilt offering is like the sin offering, there is one law for them; the priest who makes atonement with it shall have it.
+    8: And the priest who offers any man's burnt offering shall have for himself the skin of the burnt offering which he has offered.
+    9: And every cereal offering baked in the oven and all that is prepared on a pan or a griddle shall belong to the priest who offers it.
+    10: And every cereal offering, mixed with oil or dry, shall be for all the sons of Aaron, one as well as another.
+    11: "And this is the law of the sacrifice of peace offerings which one may offer to the LORD.
+    12: If he offers it for a thanksgiving, then he shall offer with the thank offering unleavened cakes mixed with oil, unleavened wafers spread with oil, and cakes of fine flour well mixed with oil.
+    13: With the sacrifice of his peace offerings for thanksgiving he shall bring his offering with cakes of leavened bread.
+    14: And of such he shall offer one cake from each offering, as an offering to the LORD; it shall belong to the priest who throws the blood of the peace offerings.
+    15: And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten on the day of his offering; he shall not leave any of it until the morning.
+    16: But if the sacrifice of his offering is a votive offering or a freewill offering, it shall be eaten on the day that he offers his sacrifice, and on the morrow what remains of it shall be eaten,
+    17: but what remains of the flesh of the sacrifice on the third day shall be burned with fire.
+    18: If any of the flesh of the sacrifice of his peace offering is eaten on the third day, he who offers it shall not be accepted, neither shall it be credited to him; it shall be an abomination, and he who eats of it shall bear his iniquity.
+    19: "Flesh that touches any unclean thing shall not be eaten; it shall be burned with fire. All who are clean may eat flesh,
+    20: but the person who eats of the flesh of the sacrifice of the LORD's peace offerings while an uncleanness is on him, that person shall be cut off from his people.
+    21: And if any one touches an unclean thing, whether the uncleanness of man or an unclean beast or any unclean abomination, and then eats of the flesh of the sacrifice of the LORD's peace offerings, that person shall be cut off from his people."
+    22: The LORD said to Moses,
+    23: "Say to the people of Israel, You shall eat no fat, of ox, or sheep, or goat.
+    24: The fat of an animal that dies of itself, and the fat of one that is torn by beasts, may be put to any other use, but on no account shall you eat it.
+    25: For every person who eats of the fat of an animal of which an offering by fire is made to the LORD shall be cut off from his people.
+    26: Moreover you shall eat no blood whatever, whether of fowl or of animal, in any of your dwellings.
+    27: Whoever eats any blood, that person shall be cut off from his people."
+    28: The LORD said to Moses,
+    29: "Say to the people of Israel, He that offers the sacrifice of his peace offerings to the LORD shall bring his offering to the LORD; from the sacrifice of his peace offerings
+    30: he shall bring with his own hands the offerings by fire to the LORD; he shall bring the fat with the breast, that the breast may be waved as a wave offering before the LORD.
+    31: The priest shall burn the fat on the altar, but the breast shall be for Aaron and his sons.
+    32: And the right thigh you shall give to the priest as an offering from the sacrifice of your peace offerings;
+    33: he among the sons of Aaron who offers the blood of the peace offerings and the fat shall have the right thigh for a portion.
+    34: For the breast that is waved and the thigh that is offered I have taken from the people of Israel, out of the sacrifices of their peace offerings, and have given them to Aaron the priest and to his sons, as a perpetual due from the people of Israel.
+    35: This is the portion of Aaron and of his sons from the offerings made by fire to the LORD, consecrated to them on the day they were presented to serve as priests of the LORD;
+    36: the LORD commanded this to be given them by the people of Israel, on the day that they were anointed; it is a perpetual due throughout their generations."
+    37: This is the law of the burnt offering, of the cereal offering, of the sin offering, of the guilt offering, of the consecration, and of the peace offerings,
+    38: which the LORD commanded Moses on Mount Sinai, on the day that he commanded the people of Israel to bring their offerings to the LORD, in the wilderness of Sinai.
+
+  Chapter 8.
+
+    1: The LORD said to Moses,
+    2: "Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two rams, and the basket of unleavened bread;
+    3: and assemble all the congregation at the door of the tent of meeting."
+    4: And Moses did as the LORD commanded him; and the congregation was assembled at the door of the tent of meeting.
+    5: And Moses said to the congregation, "This is the thing which the LORD has commanded to be done."
+    6: And Moses brought Aaron and his sons, and washed them with water.
+    7: And he put on him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and girded him with the skilfully woven band of the ephod, binding it to him therewith.
+    8: And he placed the breastpiece on him, and in the breastpiece he put the Urim and the Thummim.
+    9: And he set the turban upon his head, and on the turban, in front, he set the golden plate, the holy crown, as the LORD commanded Moses.
+    10: Then Moses took the anointing oil, and anointed the tabernacle and all that was in it, and consecrated them.
+    11: And he sprinkled some of it on the altar seven times, and anointed the altar and all its utensils, and the laver and its base, to consecrate them.
+    12: And he poured some of the anointing oil on Aaron's head, and anointed him, to consecrate him.
+    13: And Moses brought Aaron's sons, and clothed them with coats, and girded them with girdles, and bound caps on them, as the LORD commanded Moses.
+    14: Then he brought the bull of the sin offering; and Aaron and his sons laid their hands upon the head of the bull of the sin offering.
+    15: And Moses killed it, and took the blood, and with his finger put it on the horns of the altar round about, and purified the altar, and poured out the blood at the base of the altar, and consecrated it, to make atonement for it.
+    16: And he took all the fat that was on the entrails, and the appendage of the liver, and the two kidneys with their fat, and Moses burned them on the altar.
+    17: But the bull, and its skin, and its flesh, and its dung, he burned with fire outside the camp, as the LORD commanded Moses.
+    18: Then he presented the ram of the burnt offering; and Aaron and his sons laid their hands on the head of the ram.
+    19: And Moses killed it, and threw the blood upon the altar round about.
+    20: And when the ram was cut into pieces, Moses burned the head and the pieces and the fat.
+    21: And when the entrails and the legs were washed with water, Moses burned the whole ram on the altar, as a burnt offering, a pleasing odor, an offering by fire to the LORD, as the LORD commanded Moses.
+    22: Then he presented the other ram, the ram of ordination; and Aaron and his sons laid their hands on the head of the ram.
+    23: And Moses killed it, and took some of its blood and put it on the tip of Aaron's right ear and on the thumb of his right hand and on the great toe of his right foot.
+    24: And Aaron's sons were brought, and Moses put some of the blood on the tips of their right ears and on the thumbs of their right hands and on the great toes of their right feet; and Moses threw the blood upon the altar round about.
+    25: Then he took the fat, and the fat tail, and all the fat that was on the entrails, and the appendage of the liver, and the two kidneys with their fat, and the right thigh;
+    26: and out of the basket of unleavened bread which was before the LORD he took one unleavened cake, and one cake of bread with oil, and one wafer, and placed them on the fat and on the right thigh;
+    27: and he put all these in the hands of Aaron and in the hands of his sons, and waved them as a wave offering before the LORD.
+    28: Then Moses took them from their hands, and burned them on the altar with the burnt offering, as an ordination offering, a pleasing odor, an offering by fire to the LORD.
+    29: And Moses took the breast, and waved it for a wave offering before the LORD; it was Moses' portion of the ram of ordination, as the LORD commanded Moses.
+    30: Then Moses took some of the anointing oil and of the blood which was on the altar, and sprinkled it upon Aaron and his garments, and also upon his sons and his sons' garments; so he consecrated Aaron and his garments, and his sons and his sons' garments with him.
+    31: And Moses said to Aaron and his sons, "Boil the flesh at the door of the tent of meeting, and there eat it and the bread that is in the basket of ordination offerings, as I commanded, saying, `Aaron and his sons shall eat it';
+    32: and what remains of the flesh and the bread you shall burn with fire.
+    33: And you shall not go out from the door of the tent of meeting for seven days, until the days of your ordination are completed, for it will take seven days to ordain you.
+    34: As has been done today, the LORD has commanded to be done to make atonement for you.
+    35: At the door of the tent of meeting you shall remain day and night for seven days, performing what the LORD has charged, lest you die; for so I am commanded."
+    36: And Aaron and his sons did all the things which the LORD commanded by Moses.
+
+End of day 25.

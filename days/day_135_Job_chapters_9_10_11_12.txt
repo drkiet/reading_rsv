@@ -1,0 +1,119 @@
+Day 135:
+
+Reading Job, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: Then Job answered:
+    2: "Truly I know that it is so: But how can a man be just before God?
+    3: If one wished to contend with him, one could not answer him once in a thousand times.
+    4: He is wise in heart, and mighty in strength -- who has hardened himself against him, and succeeded? --
+    5: he who removes mountains, and they know it not, when he overturns them in his anger;
+    6: who shakes the earth out of its place, and its pillars tremble;
+    7: who commands the sun, and it does not rise; who seals up the stars;
+    8: who alone stretched out the heavens, and trampled the waves of the sea;
+    9: who made the Bear and Orion, the Plei'ades and the chambers of the south;
+    10: who does great things beyond understanding, and marvelous things without number.
+    11: Lo, he passes by me, and I see him not; he moves on, but I do not perceive him.
+    12: Behold, he snatches away; who can hinder him? Who will say to him, `What doest thou'?
+    13: "God will not turn back his anger; beneath him bowed the helpers of Rahab.
+    14: How then can I answer him, choosing my words with him?
+    15: Though I am innocent, I cannot answer him; I must appeal for mercy to my accuser.
+    16: If I summoned him and he answered me, I would not believe that he was listening to my voice.
+    17: For he crushes me with a tempest, and multiplies my wounds without cause;
+    18: he will not let me get my breath, but fills me with bitterness.
+    19: If it is a contest of strength, behold him! If it is a matter of justice, who can summon him?
+    20: Though I am innocent, my own mouth would condemn me; though I am blameless, he would prove me perverse.
+    21: I am blameless; I regard not myself; I loathe my life.
+    22: It is all one; therefore I say, he destroys both the blameless and the wicked.
+    23: When disaster brings sudden death, he mocks at the calamity of the innocent.
+    24: The earth is given into the hand of the wicked; he covers the faces of its judges -- if it is not he, who then is it?
+    25: "My days are swifter than a runner; they flee away, they see no good.
+    26: They go by like skiffs of reed, like an eagle swooping on the prey.
+    27: If I say, `I will forget my complaint, I will put off my sad countenance, and be of good cheer,'
+    28: I become afraid of all my suffering, for I know thou wilt not hold me innocent.
+    29: I shall be condemned; why then do I labor in vain?
+    30: If I wash myself with snow, and cleanse my hands with lye,
+    31: yet thou wilt plunge me into a pit, and my own clothes will abhor me.
+    32: For he is not a man, as I am, that I might answer him, that we should come to trial together.
+    33: There is no umpire between us, who might lay his hand upon us both.
+    34: Let him take his rod away from me, and let not dread of him terrify me.
+    35: Then I would speak without fear of him, for I am not so in myself.
+
+  Chapter 10.
+
+    1: "I loathe my life; I will give free utterance to my complaint; I will speak in the bitterness of my soul.
+    2: I will say to God, Do not condemn me; let me know why thou dost contend against me.
+    3: Does it seem good to thee to oppress, to despise the work of thy hands and favor the designs of the wicked?
+    4: Hast thou eyes of flesh? Dost thou see as man sees?
+    5: Are thy days as the days of man, or thy years as man's years,
+    6: that thou dost seek out my iniquity and search for my sin,
+    7: although thou knowest that I am not guilty, and there is none to deliver out of thy hand?
+    8: Thy hands fashioned and made me; and now thou dost turn about and destroy me.
+    9: Remember that thou hast made me of clay; and wilt thou turn me to dust again?
+    10: Didst thou not pour me out like milk and curdle me like cheese?
+    11: Thou didst clothe me with skin and flesh, and knit me together with bones and sinews.
+    12: Thou hast granted me life and steadfast love; and thy care has preserved my spirit.
+    13: Yet these things thou didst hide in thy heart; I know that this was thy purpose.
+    14: If I sin, thou dost mark me, and dost not acquit me of my iniquity.
+    15: If I am wicked, woe to me! If I am righteous, I cannot lift up my head, for I am filled with disgrace and look upon my affliction.
+    16: And if I lift myself up, thou dost hunt me like a lion, and again work wonders against me;
+    17: thou dost renew thy witnesses against me, and increase thy vexation toward me; thou dost bring fresh hosts against me.
+    18: "Why didst thou bring me forth from the womb? Would that I had died before any eye had seen me,
+    19: and were as though I had not been, carried from the womb to the grave.
+    20: Are not the days of my life few? Let me alone, that I may find a little comfort
+    21: before I go whence I shall not return, to the land of gloom and deep darkness,
+    22: the land of gloom and chaos, where light is as darkness."
+
+  Chapter 11.
+
+    1: Then Zophar the Na'amathite answered:
+    2: "Should a multitude of words go unanswered, and a man full of talk be vindicated?
+    3: Should your babble silence men, and when you mock, shall no one shame you?
+    4: For you say, `My doctrine is pure, and I am clean in God's eyes.'
+    5: But oh, that God would speak, and open his lips to you,
+    6: and that he would tell you the secrets of wisdom! For he is manifold in understanding. Know then that God exacts of you less than your guilt deserves.
+    7: "Can you find out the deep things of God? Can you find out the limit of the Almighty?
+    8: It is higher than heaven -- what can you do? Deeper than Sheol -- what can you know?
+    9: Its measure is longer than the earth, and broader than the sea.
+    10: If he passes through, and imprisons, and calls to judgment, who can hinder him?
+    11: For he knows worthless men; when he sees iniquity, will he not consider it?
+    12: But a stupid man will get understanding, when a wild ass's colt is born a man.
+    13: "If you set your heart aright, you will stretch out your hands toward him.
+    14: If iniquity is in your hand, put it far away, and let not wickedness dwell in your tents.
+    15: Surely then you will lift up your face without blemish; you will be secure, and will not fear.
+    16: You will forget your misery; you will remember it as waters that have passed away.
+    17: And your life will be brighter than the noonday; its darkness will be like the morning.
+    18: And you will have confidence, because there is hope; you will be protected and take your rest in safety.
+    19: You will lie down, and none will make you afraid; many will entreat your favor.
+    20: But the eyes of the wicked will fail; all way of escape will be lost to them, and their hope is to breathe their last."
+
+  Chapter 12.
+
+    1: Then Job answered:
+    2: "No doubt you are the people, and wisdom will die with you.
+    3: But I have understanding as well as you; I am not inferior to you. Who does not know such things as these?
+    4: I am a laughingstock to my friends; I, who called upon God and he answered me, a just and blameless man, am a laughingstock.
+    5: In the thought of one who is at ease there is contempt for misfortune; it is ready for those whose feet slip.
+    6: The tents of robbers are at peace, and those who provoke God are secure, who bring their god in their hand.
+    7: "But ask the beasts, and they will teach you; the birds of the air, and they will tell you;
+    8: or the plants of the earth, and they will teach you; and the fish of the sea will declare to you.
+    9: Who among all these does not know that the hand of the LORD has done this?
+    10: In his hand is the life of every living thing and the breath of all mankind.
+    11: Does not the ear try words as the palate tastes food?
+    12: Wisdom is with the aged, and understanding in length of days.
+    13: "With God are wisdom and might; he has counsel and understanding.
+    14: If he tears down, none can rebuild; if he shuts a man in, none can open.
+    15: If he withholds the waters, they dry up; if he sends them out, they overwhelm the land.
+    16: With him are strength and wisdom; the deceived and the deceiver are his.
+    17: He leads counselors away stripped, and judges he makes fools.
+    18: He looses the bonds of kings, and binds a waistcloth on their loins.
+    19: He leads priests away stripped, and overthrows the mighty.
+    20: He deprives of speech those who are trusted, and takes away the discernment of the elders.
+    21: He pours contempt on princes, and looses the belt of the strong.
+    22: He uncovers the deeps out of darkness, and brings deep darkness to light.
+    23: He makes nations great, and he destroys them: he enlarges nations, and leads them away.
+    24: He takes away understanding from the chiefs of the people of the earth, and makes them wander in a pathless waste.
+    25: They grope in the dark without light; and he makes them stagger like a drunken man.
+
+End of day 135.

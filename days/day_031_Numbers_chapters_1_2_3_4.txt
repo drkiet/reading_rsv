@@ -1,0 +1,205 @@
+Day 31:
+
+Reading Numbers, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: The LORD spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,
+    2: "Take a census of all the congregation of the people of Israel, by families, by fathers' houses, according to the number of names, every male, head by head;
+    3: from twenty years old and upward, all in Israel who are able to go forth to war, you and Aaron shall number them, company by company.
+    4: And there shall be with you a man from each tribe, each man being the head of the house of his fathers.
+    5: And these are the names of the men who shall attend you. From Reuben, Eli'zur the son of Shed'eur;
+    6: from Simeon, Shelu'mi-el the son of Zurishad'dai;
+    7: from Judah, Nahshon the son of Ammin'adab;
+    8: from Is'sachar, Nethan'el the son of Zu'ar;
+    9: from Zeb'ulun, Eli'ab the son of Helon;
+    10: from the sons of Joseph, from E'phraim, Eli'shama the son of Ammi'hud, and from Manas'seh, Gama'liel the son of Pedah'zur;
+    11: from Benjamin, Abi'dan the son of Gideo'ni;
+    12: from Dan, Ahi-e'zer the son of Ammishad'dai;
+    13: from Asher, Pa'giel the son of Ochran;
+    14: from Gad, Eli'asaph the son of Deu'el;
+    15: from Naph'tali, Ahi'ra the son of Enan."
+    16: These were the ones chosen from the congregation, the leaders of their ancestral tribes, the heads of the clans of Israel.
+    17: Moses and Aaron took these men who have been named,
+    18: and on the first day of the second month, they assembled the whole congregation together, who registered themselves by families, by fathers' houses, according to the number of names from twenty years old and upward, head by head,
+    19: as the LORD commanded Moses. So he numbered them in the wilderness of Sinai.
+    20: The people of Reuben, Israel's first-born, their generations, by their families, by their fathers' houses, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go forth to war:
+    21: the number of the tribe of Reuben was forty-six thousand five hundred.
+    22: Of the people of Simeon, their generations, by their families, by their fathers' houses, those of them that were numbered, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go forth to war:
+    23: the number of the tribe of Simeon was fifty-nine thousand three hundred.
+    24: Of the people of Gad, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go forth to war:
+    25: the number of the tribe of Gad was forty-five thousand six hundred and fifty.
+    26: Of the people of Judah, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    27: the number of the tribe of Judah was seventy-four thousand six hundred.
+    28: Of the people of Is'sachar, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    29: the number of the tribe of Is'sachar was fifty-four thousand four hundred.
+    30: Of the people of Zeb'ulun, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    31: the number of the tribe of Zeb'ulun was fifty-seven thousand four hundred.
+    32: Of the people of Joseph, namely, of the people of E'phraim, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    33: the number of the tribe of E'phraim was forty thousand five hundred.
+    34: Of the people of Manas'seh, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    35: the number of the tribe of Manas'seh was thirty-two thousand two hundred.
+    36: Of the people of Benjamin, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    37: the number of the tribe of Benjamin was thirty-five thousand four hundred.
+    38: Of the people of Dan, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    39: the number of the tribe of Dan was sixty-two thousand seven hundred.
+    40: Of the people of Asher, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    41: the number of the tribe of Asher was forty-one thousand five hundred.
+    42: Of the people of Naph'tali, their generations, by their families, by their fathers' houses, according to the number of names, from twenty years old and upward, every man able to go forth to war:
+    43: the number of the tribe of Naph'tali was fifty-three thousand four hundred.
+    44: These are those who were numbered, whom Moses and Aaron numbered with the help of the leaders of Israel, twelve men, each representing his fathers' house.
+    45: So the whole number of the people of Israel, by their fathers' houses, from twenty years old and upward, every man able to go forth to war in Israel --
+    46: their whole number was six hundred and three thousand five hundred and fifty.
+    47: But the Levites were not numbered by their ancestral tribe along with them.
+    48: For the LORD said to Moses,
+    49: "Only the tribe of Levi you shall not number, and you shall not take a census of them among the people of Israel;
+    50: but appoint the Levites over the tabernacle of the testimony, and over all its furnishings, and over all that belongs to it; they are to carry the tabernacle and all its furnishings, and they shall tend it, and shall encamp around the tabernacle.
+    51: When the tabernacle is to set out, the Levites shall take it down; and when the tabernacle is to be pitched, the Levites shall set it up. And if any one else comes near, he shall be put to death.
+    52: The people of Israel shall pitch their tents by their companies, every man by his own camp and every man by his own standard;
+    53: but the Levites shall encamp around the tabernacle of the testimony, that there may be no wrath upon the congregation of the people of Israel; and the Levites shall keep charge of the tabernacle of the testimony."
+    54: Thus did the people of Israel; they did according to all that the LORD commanded Moses.
+
+  Chapter 2.
+
+    1: The LORD said to Moses and Aaron,
+    2: "The people of Israel shall encamp each by his own standard, with the ensigns of their fathers' houses; they shall encamp facing the tent of meeting on every side.
+    3: Those to encamp on the east side toward the sunrise shall be of the standard of the camp of Judah by their companies, the leader of the people of Judah being Nahshon the son of Ammin'adab,
+    4: his host as numbered being seventy-four thousand six hundred.
+    5: Those to encamp next to him shall be the tribe of Is'sachar, the leader of the people of Is'sachar being Nethan'el the son of Zu'ar,
+    6: his host as numbered being fifty-four thousand four hundred.
+    7: Then the tribe of Zeb'ulun, the leader of the people of Zeb'ulun being Eli'ab the son of Helon,
+    8: his host as numbered being fifty-seven thousand four hundred.
+    9: The whole number of the camp of Judah, by their companies, is a hundred and eighty-six thousand four hundred. They shall set out first on the march.
+    10: "On the south side shall be the standard of the camp of Reuben by their companies, the leader of the people of Reuben being Eli'zur the son of Shed'eur,
+    11: his host as numbered being forty-six thousand five hundred.
+    12: And those to encamp next to him shall be the tribe of Simeon, the leader of the people of Simeon being Shelu'mi-el the son of Zurishad'dai,
+    13: his host as numbered being fifty-nine thousand three hundred.
+    14: Then the tribe of Gad, the leader of the people of Gad being Eli'asaph the son of Reu'el,
+    15: his host as numbered being forty-five thousand six hundred and fifty.
+    16: The whole number of the camp of Reuben, by their companies, is a hundred and fifty-one thousand four hundred and fifty. They shall set out second.
+    17: "Then the tent of meeting shall set out, with the camp of the Levites in the midst of the camps; as they encamp, so shall they set out, each in position, standard by standard.
+    18: "On the west side shall be the standard of the camp of E'phraim by their companies, the leader of the people of E'phraim being Eli'shama the son of Ammi'hud,
+    19: his host as numbered being forty thousand five hundred.
+    20: And next to him shall be the tribe of Manas'seh, the leader of the people of Manas'seh being Gama'liel the son of Pedah'zur,
+    21: his host as numbered being thirty-two thousand two hundred.
+    22: Then the tribe of Benjamin, the leader of the people of Benjamin being Abi'dan the son of Gideo'ni,
+    23: his host as numbered being thirty-five thousand four hundred.
+    24: The whole number of the camp of E'phraim, by their companies, is a hundred and eight thousand one hundred. They shall set out third on the march.
+    25: "On the north side shall be the standard of the camp of Dan by their companies, the leader of the people of Dan being Ahi-e'zer the son of Ammishad'dai,
+    26: his host as numbered being sixty-two thousand seven hundred.
+    27: And those to encamp next to him shall be the tribe of Asher, the leader of the people of Asher being Pa'giel the son of Ochran,
+    28: his host as numbered being forty-one thousand five hundred.
+    29: Then the tribe of Naph'tali, the leader of the people of Naph'tali being Ahi'ra the son of Enan,
+    30: his host as numbered being fifty-three thousand four hundred.
+    31: The whole number of the camp of Dan is a hundred and fifty-seven thousand six hundred. They shall set out last, standard by standard."
+    32: These are the people of Israel as numbered by their fathers' houses; all in the camps who were numbered by their companies were six hundred and three thousand five hundred and fifty.
+    33: But the Levites were not numbered among the people of Israel, as the LORD commanded Moses.
+    34: Thus did the people of Israel. According to all that the LORD commanded Moses, so they encamped by their standards, and so they set out, every one in his family, according to his fathers' house.
+
+  Chapter 3.
+
+    1: These are the generations of Aaron and Moses at the time when the LORD spoke with Moses on Mount Sinai.
+    2: These are the names of the sons of Aaron: Nadab the first-born, and Abi'hu, Elea'zar, and Ith'amar;
+    3: these are the names of the sons of Aaron, the anointed priests, whom he ordained to minister in the priest's office.
+    4: But Nadab and Abi'hu died before the LORD when they offered unholy fire before the LORD in the wilderness of Sinai; and they had no children. So Elea'zar and Ith'amar served as priests in the lifetime of Aaron their father.
+    5: And the LORD said to Moses,
+    6: "Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister to him.
+    7: They shall perform duties for him and for the whole congregation before the tent of meeting, as they minister at the tabernacle;
+    8: they shall have charge of all the furnishings of the tent of meeting, and attend to the duties for the people of Israel as they minister at the tabernacle.
+    9: And you shall give the Levites to Aaron and his sons; they are wholly given to him from among the people of Israel.
+    10: And you shall appoint Aaron and his sons, and they shall attend to their priesthood; but if any one else comes near, he shall be put to death."
+    11: And the LORD said to Moses,
+    12: "Behold, I have taken the Levites from among the people of Israel instead of every first-born that opens the womb among the people of Israel. The Levites shall be mine,
+    13: for all the first-born are mine; on the day that I slew all the first-born in the land of Egypt, I consecrated for my own all the first-born in Israel, both of man and of beast; they shall be mine: I am the LORD."
+    14: And the LORD said to Moses in the wilderness of Sinai,
+    15: "Number the sons of Levi, by fathers' houses and by families; every male from a month old and upward you shall number."
+    16: So Moses numbered them according to the word of the LORD, as he was commanded.
+    17: And these were the sons of Levi by their names: Gershon and Kohath and Merar'i.
+    18: And these are the names of the sons of Gershon by their families: Libni and Shim'e-i.
+    19: And the sons of Kohath by their families: Amram, Izhar, Hebron, and Uz'ziel.
+    20: And the sons of Merar'i by their families: Mahli and Mushi. These are the families of the Levites, by their fathers' houses.
+    21: Of Gershon were the family of the Libnites and the family of the Shim'e-ites; these were the families of the Gershonites.
+    22: Their number according to the number of all the males from a month old and upward was seven thousand five hundred.
+    23: The families of the Gershonites were to encamp behind the tabernacle on the west,
+    24: with Eli'asaph, the son of La'el as head of the fathers' house of the Gershonites.
+    25: And the charge of the sons of Gershon in the tent of meeting was to be the tabernacle, the tent with its covering, the screen for the door of the tent of meeting,
+    26: the hangings of the court, the screen for the door of the court which is around the tabernacle and the altar, and its cords; all the service pertaining to these.
+    27: Of Kohath were the family of the Amramites, and the family of the Izhar'ites, and the family of the He'bronites, and the family of the Uzzie'lites; these are the families of the Ko'hathites.
+    28: According to the number of all the males, from a month old and upward, there were eight thousand six hundred, attending to the duties of the sanctuary.
+    29: The families of the sons of Kohath were to encamp on the south side of the tabernacle,
+    30: with Eli-za'phan the son of Uz'ziel as head of the fathers' house of the families of the Ko'hathites.
+    31: And their charge was to be the ark, the table, the lampstand, the altars, the vessels of the sanctuary with which the priests minister, and the screen; all the service pertaining to these.
+    32: And Elea'zar the son of Aaron the priest was to be chief over the leaders of the Levites, and to have oversight of those who had charge of the sanctuary.
+    33: Of Merar'i were the family of the Mahlites and the family of the Mushites: these are the families of Merar'i.
+    34: Their number according to the number of all the males from a month old and upward was six thousand two hundred.
+    35: And the head of the fathers' house of the families of Merar'i was Zu'riel the son of Ab'ihail; they were to encamp on the north side of the tabernacle.
+    36: And the appointed charge of the sons of Merar'i was to be the frames of the tabernacle, the bars, the pillars, the bases, and all their accessories; all the service pertaining to these;
+    37: also the pillars of the court round about, with their bases and pegs and cords.
+    38: And those to encamp before the tabernacle on the east, before the tent of meeting toward the sunrise, were Moses and Aaron and his sons, having charge of the rites within the sanctuary, whatever had to be done for the people of Israel; and any one else who came near was to be put to death.
+    39: All who were numbered of the Levites, whom Moses and Aaron numbered at the commandment of the LORD, by families, all the males from a month old and upward, were twenty-two thousand.
+    40: And the LORD said to Moses, "Number all the first-born males of the people of Israel, from a month old and upward, taking their number by names.
+    41: And you shall take the Levites for me -- I am the LORD -- instead of all the first-born among the people of Israel, and the cattle of the Levites instead of all the firstlings among the cattle of the people of Israel."
+    42: So Moses numbered all the first-born among the people of Israel, as the LORD commanded him.
+    43: And all the first-born males, according to the number of names, from a month old and upward as numbered were twenty-two thousand two hundred and seventy-three.
+    44: And the LORD said to Moses,
+    45: "Take the Levites instead of all the first-born among the people of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD.
+    46: And for the redemption of the two hundred and seventy-three of the first-born of the people of Israel, over and above the number of the male Levites,
+    47: you shall take five shekels apiece; reckoning by the shekel of the sanctuary, the shekel of twenty gerahs, you shall take them,
+    48: and give the money by which the excess number of them is redeemed to Aaron and his sons."
+    49: So Moses took the redemption money from those who were over and above those redeemed by the Levites;
+    50: from the first-born of the people of Israel he took the money, one thousand three hundred and sixty-five shekels, reckoned by the shekel of the sanctuary;
+    51: and Moses gave the redemption money to Aaron and his sons, according to the word of the LORD, as the LORD commanded Moses.
+
+  Chapter 4.
+
+    1: The LORD said to Moses and Aaron,
+    2: "Take a census of the sons of Kohath from among the sons of Levi, by their families and their fathers' houses,
+    3: from thirty years old up to fifty years old, all who can enter the service, to do the work in the tent of meeting.
+    4: This is the service of the sons of Kohath in the tent of meeting: the most holy things.
+    5: When the camp is to set out, Aaron and his sons shall go in and take down the veil of the screen, and cover the ark of the testimony with it;
+    6: then they shall put on it a covering of goatskin, and spread over that a cloth all of blue, and shall put in its poles.
+    7: And over the table of the bread of the Presence they shall spread a cloth of blue, and put upon it the plates, the dishes for incense, the bowls, and the flagons for the drink offering; the continual bread also shall be on it;
+    8: then they shall spread over them a cloth of scarlet, and cover the same with a covering of goatskin, and shall put in its poles.
+    9: And they shall take a cloth of blue, and cover the lampstand for the light, with its lamps, its snuffers, its trays, and all the vessels for oil with which it is supplied:
+    10: and they shall put it with all its utensils in a covering of goatskin and put it upon the carrying frame.
+    11: And over the golden altar they shall spread a cloth of blue, and cover it with a covering of goatskin, and shall put in its poles;
+    12: and they shall take all the vessels of the service which are used in the sanctuary, and put them in a cloth of blue, and cover them with a covering of goatskin, and put them on the carrying frame.
+    13: And they shall take away the ashes from the altar, and spread a purple cloth over it;
+    14: and they shall put on it all the utensils of the altar, which are used for the service there, the firepans, the forks, the shovels, and the basins, all the utensils of the altar; and they shall spread upon it a covering of goatskin, and shall put in its poles.
+    15: And when Aaron and his sons have finished covering the sanctuary and all the furnishings of the sanctuary, as the camp sets out, after that the sons of Kohath shall come to carry these, but they must not touch the holy things, lest they die. These are the things of the tent of meeting which the sons of Kohath are to carry.
+    16: "And Elea'zar the son of Aaron the priest shall have charge of the oil for the light, the fragrant incense, the continual cereal offering, and the anointing oil, with the oversight of all the tabernacle and all that is in it, of the sanctuary and its vessels."
+    17: The LORD said to Moses and Aaron,
+    18: "Let not the tribe of the families of the Ko'hathites be destroyed from among the Levites;
+    19: but deal thus with them, that they may live and not die when they come near to the most holy things: Aaron and his sons shall go in and appoint them each to his task and to his burden,
+    20: but they shall not go in to look upon the holy things even for a moment, lest they die."
+    21: The LORD said to Moses,
+    22: "Take a census of the sons of Gershon also, by their families and their fathers' houses;
+    23: from thirty years old up to fifty years old, you shall number them, all who can enter for service, to do the work in the tent of meeting.
+    24: This is the service of the families of the Gershonites, in serving and bearing burdens:
+    25: they shall carry the curtains of the tabernacle, and the tent of meeting with its covering, and the covering of goatskin that is on top of it, and the screen for the door of the tent of meeting,
+    26: and the hangings of the court, and the screen for the entrance of the gate of the court which is around the tabernacle and the altar, and their cords, and all the equipment for their service; and they shall do all that needs to be done with regard to them.
+    27: All the service of the sons of the Gershonites shall be at the command of Aaron and his sons, in all that they are to carry, and in all that they have to do; and you shall assign to their charge all that they are to carry.
+    28: This is the service of the families of the sons of the Gershonites in the tent of meeting, and their work is to be under the oversight of Ith'amar the son of Aaron the priest.
+    29: "As for the sons of Merar'i, you shall number them by their families and their fathers' houses;
+    30: from thirty years old up to fifty years old, you shall number them, every one that can enter the service, to do the work of the tent of meeting.
+    31: And this is what they are charged to carry, as the whole of their service in the tent of meeting: the frames of the tabernacle, with its bars, pillars, and bases,
+    32: and the pillars of the court round about with their bases, pegs, and cords, with all their equipment and all their accessories; and you shall assign by name the objects which they are required to carry.
+    33: This is the service of the families of the sons of Merar'i, the whole of their service in the tent of meeting, under the hand of Ith'amar the son of Aaron the priest."
+    34: And Moses and Aaron and the leaders of the congregation numbered the sons of the Ko'hathites, by their families and their fathers' houses,
+    35: from thirty years old up to fifty years old, every one that could enter the service, for work in the tent of meeting;
+    36: and their number by families was two thousand seven hundred and fifty.
+    37: This was the number of the families of the Ko'hathites, all who served in the tent of meeting, whom Moses and Aaron numbered according to the commandment of the LORD by Moses.
+    38: The number of the sons of Gershon, by their families and their fathers' houses,
+    39: from thirty years old up to fifty years old, every one that could enter the service for work in the tent of meeting --
+    40: their number by their families and their fathers' houses was two thousand six hundred and thirty.
+    41: This was the number of the families of the sons of Gershon, all who served in the tent of meeting, whom Moses and Aaron numbered according to the commandment of the LORD.
+    42: The number of the families of the sons of Merar'i, by their families and their fathers' houses,
+    43: from thirty years old up to fifty years old, every one that could enter the service, for work in the tent of meeting --
+    44: their number by families was three thousand two hundred.
+    45: These are those who were numbered of the families of the sons of Merar'i, whom Moses and Aaron numbered according to the commandment of the LORD by Moses.
+    46: All those who were numbered of the Levites, whom Moses and Aaron and the leaders of Israel numbered, by their families and their fathers' houses,
+    47: from thirty years old up to fifty years old, every one that could enter to do the work of service and the work of bearing burdens in the tent of meeting,
+    48: those who were numbered of them were eight thousand five hundred and eighty.
+    49: According to the commandment of the LORD through Moses they were appointed, each to his task of serving or carrying; thus they were numbered by him, as the LORD commanded Moses.
+
+End of day 31.

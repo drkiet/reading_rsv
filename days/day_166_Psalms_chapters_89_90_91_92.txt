@@ -1,0 +1,117 @@
+Day 166:
+
+Reading Psalms, chapters ['89', '90', '91', '92']:
+
+  Chapter 89.
+
+    1: I will sing of thy steadfast love, O LORD, for ever; with my mouth I will proclaim thy faithfulness to all generations.
+    2: For thy steadfast love was established for ever, thy faithfulness is firm as the heavens.
+    3: Thou hast said, "I have made a covenant with my chosen one, I have sworn to David my servant:
+    4: `I will establish your descendants for ever, and build your throne for all generations.'" [Selah]
+    5: Let the heavens praise thy wonders, O LORD, thy faithfulness in the assembly of the holy ones!
+    6: For who in the skies can be compared to the LORD? Who among the heavenly beings is like the LORD,
+    7: a God feared in the council of the holy ones, great and terrible above all that are round about him?
+    8: O LORD God of hosts, who is mighty as thou art, O LORD, with thy faithfulness round about thee?
+    9: Thou dost rule the raging of the sea; when its waves rise, thou stillest them.
+    10: Thou didst crush Rahab like a carcass, thou didst scatter thy enemies with thy mighty arm.
+    11: The heavens are thine, the earth also is thine; the world and all that is in it, thou hast founded them.
+    12: The north and the south, thou hast created them; Tabor and Hermon joyously praise thy name.
+    13: Thou hast a mighty arm; strong is thy hand, high thy right hand.
+    14: Righteousness and justice are the foundation of thy throne; steadfast love and faithfulness go before thee.
+    15: Blessed are the people who know the festal shout, who walk, O LORD, in the light of thy countenance,
+    16: who exult in thy name all the day, and extol thy righteousness.
+    17: For thou art the glory of their strength; by thy favor our horn is exalted.
+    18: For our shield belongs to the LORD, our king to the Holy One of Israel.
+    19: Of old thou didst speak in a vision to thy faithful one, and say: "I have set the crown upon one who is mighty, I have exalted one chosen from the people.
+    20: I have found David, my servant; with my holy oil I have anointed him;
+    21: so that my hand shall ever abide with him, my arm also shall strengthen him.
+    22: The enemy shall not outwit him, the wicked shall not humble him.
+    23: I will crush his foes before him and strike down those who hate him.
+    24: My faithfulness and my steadfast love shall be with him, and in my name shall his horn be exalted.
+    25: I will set his hand on the sea and his right hand on the rivers.
+    26: He shall cry to me, `Thou art my Father, my God, and the Rock of my salvation.'
+    27: And I will make him the first-born, the highest of the kings of the earth.
+    28: My steadfast love I will keep for him for ever, and my covenant will stand firm for him.
+    29: I will establish his line for ever and his throne as the days of the heavens.
+    30: If his children forsake my law and do not walk according to my ordinances,
+    31: if they violate my statutes and do not keep my commandments,
+    32: then I will punish their transgression with the rod and their iniquity with scourges;
+    33: but I will not remove from him my steadfast love, or be false to my faithfulness.
+    34: I will not violate my covenant, or alter the word that went forth from my lips.
+    35: Once for all I have sworn by my holiness; I will not lie to David.
+    36: His line shall endure for ever, his throne as long as the sun before me.
+    37: Like the moon it shall be established for ever; it shall stand firm while the skies endure." [Selah]
+    38: But now thou hast cast off and rejected, thou art full of wrath against thy anointed.
+    39: Thou hast renounced the covenant with thy servant; thou hast defiled his crown in the dust.
+    40: Thou hast breached all his walls; thou hast laid his strongholds in ruins.
+    41: All that pass by despoil him; he has become the scorn of his neighbors.
+    42: Thou hast exalted the right hand of his foes; thou hast made all his enemies rejoice.
+    43: Yea, thou hast turned back the edge of his sword, and thou hast not made him stand in battle.
+    44: Thou hast removed the scepter from his hand, and cast his throne to the ground.
+    45: Thou hast cut short the days of his youth; thou hast covered him with shame. [Selah]
+    46: How long, O LORD? Wilt thou hide thyself for ever? How long will thy wrath burn like fire?
+    47: Remember, O Lord, what the measure of life is, for what vanity thou hast created all the sons of men!
+    48: What man can live and never see death? Who can deliver his soul from the power of Sheol? [Selah]
+    49: Lord, where is thy steadfast love of old, which by thy faithfulness thou didst swear to David?
+    50: Remember, O Lord, how thy servant is scorned; how I bear in my bosom the insults of the peoples,
+    51: with which thy enemies taunt, O LORD, with which they mock the footsteps of thy anointed.
+    52: Blessed be the LORD for ever! Amen and Amen.
+
+  Chapter 90.
+
+    1: LORD, thou hast been our dwelling place in all generations.
+    2: Before the mountains were brought forth, or ever thou hadst formed the earth and the world, from everlasting to everlasting thou art God.
+    3: Thou turnest man back to the dust, and sayest, "Turn back, O children of men!"
+    4: For a thousand years in thy sight are but as yesterday when it is past, or as a watch in the night.
+    5: Thou dost sweep men away; they are like a dream, like grass which is renewed in the morning:
+    6: in the morning it flourishes and is renewed; in the evening it fades and withers.
+    7: For we are consumed by thy anger; by thy wrath we are overwhelmed.
+    8: Thou hast set our iniquities before thee, our secret sins in the light of thy countenance.
+    9: For all our days pass away under thy wrath, our years come to an end like a sigh.
+    10: The years of our life are threescore and ten, or even by reason of strength fourscore; yet their span is but toil and trouble; they are soon gone, and we fly away.
+    11: Who considers the power of thy anger, and thy wrath according to the fear of thee?
+    12: So teach us to number our days that we may get a heart of wisdom.
+    13: Return, O LORD! How long? Have pity on thy servants!
+    14: Satisfy us in the morning with thy steadfast love, that we may rejoice and be glad all our days.
+    15: Make us glad as many days as thou hast afflicted us, and as many years as we have seen evil.
+    16: Let thy work be manifest to thy servants, and thy glorious power to their children.
+    17: Let the favor of the Lord our God be upon us, and establish thou the work of our hands upon us, yea, the work of our hands establish thou it.
+
+  Chapter 91.
+
+    1: He who dwells in the shelter of the Most High, who abides in the shadow of the Almighty,
+    2: will say to the LORD, "My refuge and my fortress; my God, in whom I trust."
+    3: For he will deliver you from the snare of the fowler and from the deadly pestilence;
+    4: he will cover you with his pinions, and under his wings you will find refuge; his faithfulness is a shield and buckler.
+    5: You will not fear the terror of the night, nor the arrow that flies by day,
+    6: nor the pestilence that stalks in darkness, nor the destruction that wastes at noonday.
+    7: A thousand may fall at your side, ten thousand at your right hand; but it will not come near you.
+    8: You will only look with your eyes and see the recompense of the wicked.
+    9: Because you have made the LORD your refuge, the Most High your habitation,
+    10: no evil shall befall you, no scourge come near your tent.
+    11: For he will give his angels charge of you to guard you in all your ways.
+    12: On their hands they will bear you up, lest you dash your foot against a stone.
+    13: You will tread on the lion and the adder, the young lion and the serpent you will trample under foot.
+    14: Because he cleaves to me in love, I will deliver him; I will protect him, because he knows my name.
+    15: When he calls to me, I will answer him; I will be with him in trouble, I will rescue him and honor him.
+    16: With long life I will satisfy him, and show him my salvation.
+
+  Chapter 92.
+
+    1: It is good to give thanks to the LORD, to sing praises to thy name, O Most High;
+    2: to declare thy steadfast love in the morning, and thy faithfulness by night,
+    3: to the music of the lute and the harp, to the melody of the lyre.
+    4: For thou, O LORD, hast made me glad by thy work; at the works of thy hands I sing for joy.
+    5: How great are thy works, O LORD! Thy thoughts are very deep!
+    6: The dull man cannot know, the stupid cannot understand this:
+    7: that, though the wicked sprout like grass and all evildoers flourish, they are doomed to destruction for ever,
+    8: but thou, O LORD, art on high for ever.
+    9: For, lo, thy enemies, O LORD, for, lo, thy enemies shall perish; all evildoers shall be scattered.
+    10: But thou hast exalted my horn like that of the wild ox; thou hast poured over me fresh oil.
+    11: My eyes have seen the downfall of my enemies, my ears have heard the doom of my evil assailants.
+    12: The righteous flourish like the palm tree, and grow like a cedar in Lebanon.
+    13: They are planted in the house of the LORD, they flourish in the courts of our God.
+    14: They still bring forth fruit in old age, they are ever full of sap and green,
+    15: to show that the LORD is upright; he is my rock, and there is no unrighteousness in him.
+
+End of day 166.

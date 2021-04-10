@@ -1,0 +1,121 @@
+Day 41:
+
+Reading Deuteronomy, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: And Moses summoned all Israel, and said to them, "Hear, O Israel, the statutes and the ordinances which I speak in your hearing this day, and you shall learn them and be careful to do them.
+    2: The LORD our God made a covenant with us in Horeb.
+    3: Not with our fathers did the LORD make this covenant, but with us, who are all of us here alive this day.
+    4: The LORD spoke with you face to face at the mountain, out of the midst of the fire,
+    5: while I stood between the LORD and you at that time, to declare to you the word of the LORD; for you were afraid because of the fire, and you did not go up into the mountain. He said:
+    6: "`I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage.
+    7: "`You shall have no other gods before me.
+    8: "`You shall not make for yourself a graven image, or any likeness of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth;
+    9: you shall not bow down to them or serve them; for I the LORD your God am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who hate me,
+    10: but showing steadfast love to thousands of those who love me and keep my commandments.
+    11: "`You shall not take the name of the LORD your God in vain: for the LORD will not hold him guiltless who takes his name in vain.
+    12: "`Observe the sabbath day, to keep it holy, as the LORD your God commanded you.
+    13: Six days you shall labor, and do all your work;
+    14: but the seventh day is a sabbath to the LORD your God; in it you shall not do any work, you, or your son, or your daughter, or your manservant, or your maidservant, or your ox, or your ass, or any of your cattle, or the sojourner who is within your gates, that your manservant and your maidservant may rest as well as you.
+    15: You shall remember that you were a servant in the land of Egypt, and the LORD your God brought you out thence with a mighty hand and an outstretched arm; therefore the LORD your God commanded you to keep the sabbath day.
+    16: "`Honor your father and your mother, as the LORD your God commanded you; that your days may be prolonged, and that it may go well with you, in the land which the LORD your God gives you.
+    17: "`You shall not kill.
+    18: "`Neither shall you commit adultery.
+    19: "`Neither shall you steal.
+    20: "`Neither shall you bear false witness against your neighbor.
+    21: "`Neither shall you covet your neighbor's wife; and you shall not desire your neighbor's house, his field, or his manservant, or his maidservant, his ox, or his ass, or anything that is your neighbor's.'
+    22: "These words the LORD spoke to all your assembly at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. And he wrote them upon two tables of stone, and gave them to me.
+    23: And when you heard the voice out of the midst of the darkness, while the mountain was burning with fire, you came near to me, all the heads of your tribes, and your elders;
+    24: and you said, `Behold, the LORD our God has shown us his glory and greatness, and we have heard his voice out of the midst of the fire; we have this day seen God speak with man and man still live.
+    25: Now therefore why should we die? For this great fire will consume us; if we hear the voice of the LORD our God any more, we shall die.
+    26: For who is there of all flesh, that has heard the voice of the living God speaking out of the midst of fire, as we have, and has still lived?
+    27: Go near, and hear all that the LORD our God will say; and speak to us all that the LORD our God will speak to you; and we will hear and do it.'
+    28: "And the LORD heard your words, when you spoke to me; and the LORD said to me, `I have heard the words of this people, which they have spoken to you; they have rightly said all that they have spoken.
+    29: Oh that they had such a mind as this always, to fear me and to keep all my commandments, that it might go well with them and with their children for ever!
+    30: Go and say to them, "Return to your tents."
+    31: But you, stand here by me, and I will tell you all the commandment and the statutes and the ordinances which you shall teach them, that they may do them in the land which I give them to possess.'
+    32: You shall be careful to do therefore as the LORD your God has commanded you; you shall not turn aside to the right hand or to the left.
+    33: You shall walk in all the way which the LORD your God has commanded you, that you may live, and that it may go well with you, and that you may live long in the land which you shall possess.
+
+  Chapter 6.
+
+    1: "Now this is the commandment, the statutes and the ordinances which the LORD your God commanded me to teach you, that you may do them in the land to which you are going over, to possess it;
+    2: that you may fear the LORD your God, you and your son and your son's son, by keeping all his statutes and his commandments, which I command you, all the days of your life; and that your days may be prolonged.
+    3: Hear therefore, O Israel, and be careful to do them; that it may go well with you, and that you may multiply greatly, as the LORD, the God of your fathers, has promised you, in a land flowing with milk and honey.
+    4: "Hear, O Israel: The LORD our God is one LORD;
+    5: and you shall love the LORD your God with all your heart, and with all your soul, and with all your might.
+    6: And these words which I command you this day shall be upon your heart;
+    7: and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.
+    8: And you shall bind them as a sign upon your hand, and they shall be as frontlets between your eyes.
+    9: And you shall write them on the doorposts of your house and on your gates.
+    10: "And when the LORD your God brings you into the land which he swore to your fathers, to Abraham, to Isaac, and to Jacob, to give you, with great and goodly cities, which you did not build,
+    11: and houses full of all good things, which you did not fill, and cisterns hewn out, which you did not hew, and vineyards and olive trees, which you did not plant, and when you eat and are full,
+    12: then take heed lest you forget the LORD, who brought you out of the land of Egypt, out of the house of bondage.
+    13: You shall fear the LORD your God; you shall serve him, and swear by his name.
+    14: You shall not go after other gods, of the gods of the peoples who are round about you;
+    15: for the LORD your God in the midst of you is a jealous God; lest the anger of the LORD your God be kindled against you, and he destroy you from off the face of the earth.
+    16: "You shall not put the LORD your God to the test, as you tested him at Massah.
+    17: You shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he has commanded you.
+    18: And you shall do what is right and good in the sight of the LORD, that it may go well with you, and that you may go in and take possession of the good land which the LORD swore to give to your fathers
+    19: by thrusting out all your enemies from before you, as the LORD has promised.
+    20: "When your son asks you in time to come, `What is the meaning of the testimonies and the statutes and the ordinances which the LORD our God has commanded you?'
+    21: then you shall say to your son, `We were Pharaoh's slaves in Egypt; and the LORD brought us out of Egypt with a mighty hand;
+    22: and the LORD showed signs and wonders, great and grievous, against Egypt and against Pharaoh and all his household, before our eyes;
+    23: and he brought us out from there, that he might bring us in and give us the land which he swore to give to our fathers.
+    24: And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as at this day.
+    25: And it will be righteousness for us, if we are careful to do all this commandment before the LORD our God, as he has commanded us.'
+
+  Chapter 7.
+
+    1: "When the LORD your God brings you into the land which you are entering to take possession of it, and clears away many nations before you, the Hittites, the Gir'gashites, the Amorites, the Canaanites, the Per'izzites, the Hivites, and the Jeb'usites, seven nations greater and mightier than yourselves,
+    2: and when the LORD your God gives them over to you, and you defeat them; then you must utterly destroy them; you shall make no covenant with them, and show no mercy to them.
+    3: You shall not make marriages with them, giving your daughters to their sons or taking their daughters for your sons.
+    4: For they would turn away your sons from following me, to serve other gods; then the anger of the LORD would be kindled against you, and he would destroy you quickly.
+    5: But thus shall you deal with them: you shall break down their altars, and dash in pieces their pillars, and hew down their Ashe'rim, and burn their graven images with fire.
+    6: "For you are a people holy to the LORD your God; the LORD your God has chosen you to be a people for his own possession, out of all the peoples that are on the face of the earth.
+    7: It was not because you were more in number than any other people that the LORD set his love upon you and chose you, for you were the fewest of all peoples;
+    8: but it is because the LORD loves you, and is keeping the oath which he swore to your fathers, that the LORD has brought you out with a mighty hand, and redeemed you from the house of bondage, from the hand of Pharaoh king of Egypt.
+    9: Know therefore that the LORD your God is God, the faithful God who keeps covenant and steadfast love with those who love him and keep his commandments, to a thousand generations,
+    10: and requites to their face those who hate him, by destroying them; he will not be slack with him who hates him, he will requite him to his face.
+    11: You shall therefore be careful to do the commandment, and the statutes, and the ordinances, which I command you this day.
+    12: "And because you hearken to these ordinances, and keep and do them, the LORD your God will keep with you the covenant and the steadfast love which he swore to your fathers to keep;
+    13: he will love you, bless you, and multiply you; he will also bless the fruit of your body and the fruit of your ground, your grain and your wine and your oil, the increase of your cattle and the young of your flock, in the land which he swore to your fathers to give you.
+    14: You shall be blessed above all peoples; there shall not be male or female barren among you, or among your cattle.
+    15: And the LORD will take away from you all sickness; and none of the evil diseases of Egypt, which you knew, will he inflict upon you, but he will lay them upon all who hate you.
+    16: And you shall destroy all the peoples that the LORD your God will give over to you, your eye shall not pity them; neither shall you serve their gods, for that would be a snare to you.
+    17: "If you say in your heart, `These nations are greater than I; how can I dispossess them?'
+    18: you shall not be afraid of them, but you shall remember what the LORD your God did to Pharaoh and to all Egypt,
+    19: the great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by which the LORD your God brought you out; so will the LORD your God do to all the peoples of whom you are afraid.
+    20: Moreover the LORD your God will send hornets among them, until those who are left and hide themselves from you are destroyed.
+    21: You shall not be in dread of them; for the LORD your God is in the midst of you, a great and terrible God.
+    22: The LORD your God will clear away these nations before you little by little; you may not make an end of them at once, lest the wild beasts grow too numerous for you.
+    23: But the LORD your God will give them over to you, and throw them into great confusion, until they are destroyed.
+    24: And he will give their kings into your hand, and you shall make their name perish from under heaven; not a man shall be able to stand against you, until you have destroyed them.
+    25: The graven images of their gods you shall burn with fire; you shall not covet the silver or the gold that is on them, or take it for yourselves, lest you be ensnared by it; for it is an abomination to the LORD your God.
+    26: And you shall not bring an abominable thing into your house, and become accursed like it; you shall utterly detest and abhor it; for it is an accursed thing.
+
+  Chapter 8.
+
+    1: "All the commandment which I command you this day you shall be careful to do, that you may live and multiply, and go in and possess the land which the LORD swore to give to your fathers.
+    2: And you shall remember all the way which the LORD your God has led you these forty years in the wilderness, that he might humble you, testing you to know what was in your heart, whether you would keep his commandments, or not.
+    3: And he humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know; that he might make you know that man does not live by bread alone, but that man lives by everything that proceeds out of the mouth of the LORD.
+    4: Your clothing did not wear out upon you, and your foot did not swell, these forty years.
+    5: Know then in your heart that, as a man disciplines his son, the LORD your God disciplines you.
+    6: So you shall keep the commandments of the LORD your God, by walking in his ways and by fearing him.
+    7: For the LORD your God is bringing you into a good land, a land of brooks of water, of fountains and springs, flowing forth in valleys and hills,
+    8: a land of wheat and barley, of vines and fig trees and pomegranates, a land of olive trees and honey,
+    9: a land in which you will eat bread without scarcity, in which you will lack nothing, a land whose stones are iron, and out of whose hills you can dig copper.
+    10: And you shall eat and be full, and you shall bless the LORD your God for the good land he has given you.
+    11: "Take heed lest you forget the LORD your God, by not keeping his commandments and his ordinances and his statutes, which I command you this day:
+    12: lest, when you have eaten and are full, and have built goodly houses and live in them,
+    13: and when your herds and flocks multiply, and your silver and gold is multiplied, and all that you have is multiplied,
+    14: then your heart be lifted up, and you forget the LORD your God, who brought you out of the land of Egypt, out of the house of bondage,
+    15: who led you through the great and terrible wilderness, with its fiery serpents and scorpions and thirsty ground where there was no water, who brought you water out of the flinty rock,
+    16: who fed you in the wilderness with manna which your fathers did not know, that he might humble you and test you, to do you good in the end.
+    17: Beware lest you say in your heart, `My power and the might of my hand have gotten me this wealth.'
+    18: You shall remember the LORD your God, for it is he who gives you power to get wealth; that he may confirm his covenant which he swore to your fathers, as at this day.
+    19: And if you forget the LORD your God and go after other gods and serve them and worship them, I solemnly warn you this day that you shall surely perish.
+    20: Like the nations that the LORD makes to perish before you, so shall you perish, because you would not obey the voice of the LORD your God.
+
+End of day 41.

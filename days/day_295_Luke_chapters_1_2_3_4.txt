@@ -1,0 +1,231 @@
+Day 295:
+
+Reading Luke, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Inasmuch as many have undertaken to compile a narrative of the things which have been accomplished among us,
+    2: just as they were delivered to us by those who from the beginning were eyewitnesses and ministers of the word,
+    3: it seemed good to me also, having followed all things closely for some time past, to write an orderly account for you, most excellent The-oph'ilus,
+    4: that you may know the truth concerning the things of which you have been informed.
+    5: In the days of Herod, king of Judea, there was a priest named Zechari'ah, of the division of Abi'jah; and he had a wife of the daughters of Aaron, and her name was Elizabeth.
+    6: And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.
+    7: But they had no child, because Elizabeth was barren, and both were advanced in years.
+    8: Now while he was serving as priest before God when his division was on duty,
+    9: according to the custom of the priesthood, it fell to him by lot to enter the temple of the Lord and burn incense.
+    10: And the whole multitude of the people were praying outside at the hour of incense.
+    11: And there appeared to him an angel of the Lord standing on the right side of the altar of incense.
+    12: And Zechari'ah was troubled when he saw him, and fear fell upon him.
+    13: But the angel said to him, "Do not be afraid, Zechari'ah, for your prayer is heard, and your wife Elizabeth will bear you a son, and you shall call his name John.
+    14: And you will have joy and gladness, and many will rejoice at his birth;
+    15: for he will be great before the Lord, and he shall drink no wine nor strong drink, and he will be filled with the Holy Spirit, even from his mother's womb.
+    16: And he will turn many of the sons of Israel to the Lord their God,
+    17: and he will go before him in the spirit and power of Eli'jah, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared."
+    18: And Zechari'ah said to the angel, "How shall I know this? For I am an old man, and my wife is advanced in years."
+    19: And the angel answered him, "I am Gabriel, who stand in the presence of God; and I was sent to speak to you, and to bring you this good news.
+    20: And behold, you will be silent and unable to speak until the day that these things come to pass, because you did not believe my words, which will be fulfilled in their time."
+    21: And the people were waiting for Zechari'ah, and they wondered at his delay in the temple.
+    22: And when he came out, he could not speak to them, and they perceived that he had seen a vision in the temple; and he made signs to them and remained dumb.
+    23: And when his time of service was ended, he went to his home.
+    24: After these days his wife Elizabeth conceived, and for five months she hid herself, saying,
+    25: "Thus the Lord has done to me in the days when he looked on me, to take away my reproach among men."
+    26: In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth,
+    27: to a virgin betrothed to a man whose name was Joseph, of the house of David; and the virgin's name was Mary.
+    28: And he came to her and said, "Hail, full of grace, the Lord is with you!"
+    29: But she was greatly troubled at the saying, and considered in her mind what sort of greeting this might be.
+    30: And the angel said to her, "Do not be afraid, Mary, for you have found favor with God.
+    31: And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus.
+    32: He will be great, and will be called the Son of the Most High; and the Lord God will give to him the throne of his father David,
+    33: and he will reign over the house of Jacob for ever; and of his kingdom there will be no end."
+    34: And Mary said to the angel, "How shall this be, since I have no husband?"
+    35: And the angel said to her, "The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy, the Son of God.
+    36: And behold, your kinswoman Elizabeth in her old age has also conceived a son; and this is the sixth month with her who was called barren.
+    37: For with God nothing will be impossible."
+    38: And Mary said, "Behold, I am the handmaid of the Lord; let it be to me according to your word." And the angel departed from her.
+    39: In those days Mary arose and went with haste into the hill country, to a city of Judah,
+    40: and she entered the house of Zechari'ah and greeted Elizabeth.
+    41: And when Elizabeth heard the greeting of Mary, the babe leaped in her womb; and Elizabeth was filled with the Holy Spirit
+    42: and she exclaimed with a loud cry, "Blessed are you among women, and blessed is the fruit of your womb!
+    43: And why is this granted me, that the mother of my Lord should come to me?
+    44: For behold, when the voice of your greeting came to my ears, the babe in my womb leaped for joy.
+    45: And blessed is she who believed that there would be a fulfilment of what was spoken to her from the Lord."
+    46: And Mary said, "My soul magnifies the Lord,
+    47: and my spirit rejoices in God my Savior,
+    48: for he has regarded the low estate of his handmaiden. For behold, henceforth all generations will call me blessed;
+    49: for he who is mighty has done great things for me, and holy is his name.
+    50: And his mercy is on those who fear him from generation to generation.
+    51: He has shown strength with his arm, he has scattered the proud in the imagination of their hearts,
+    52: he has put down the mighty from their thrones, and exalted those of low degree;
+    53: he has filled the hungry with good things, and the rich he has sent empty away.
+    54: He has helped his servant Israel, in remembrance of his mercy,
+    55: as he spoke to our fathers, to Abraham and to his posterity for ever."
+    56: And Mary remained with her about three months, and returned to her home.
+    57: Now the time came for Elizabeth to be delivered, and she gave birth to a son.
+    58: And her neighbors and kinsfolk heard that the Lord had shown great mercy to her, and they rejoiced with her.
+    59: And on the eighth day they came to circumcise the child; and they would have named him Zechari'ah after his father,
+    60: but his mother said, "Not so; he shall be called John."
+    61: And they said to her, "None of your kindred is called by this name."
+    62: And they made signs to his father, inquiring what he would have him called.
+    63: And he asked for a writing tablet, and wrote, "His name is John." And they all marveled.
+    64: And immediately his mouth was opened and his tongue loosed, and he spoke, blessing God.
+    65: And fear came on all their neighbors. And all these things were talked about through all the hill country of Judea;
+    66: and all who heard them laid them up in their hearts, saying, "What then will this child be?" For the hand of the Lord was with him.
+    67: And his father Zechari'ah was filled with the Holy Spirit, and prophesied, saying,
+    68: "Blessed be the Lord God of Israel, for he has visited and redeemed his people,
+    69: and has raised up a horn of salvation for us in the house of his servant David,
+    70: as he spoke by the mouth of his holy prophets from of old,
+    71: that we should be saved from our enemies, and from the hand of all who hate us;
+    72: to perform the mercy promised to our fathers, and to remember his holy covenant,
+    73: the oath which he swore to our father Abraham,
+    74: to grant us that we, being delivered from the hand of our enemies, might serve him without fear,
+    75: in holiness and righteousness before him all the days of our life.
+    76: And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways,
+    77: to give knowledge of salvation to his people in the forgiveness of their sins,
+    78: through the tender mercy of our God, when the day shall dawn upon us from on high
+    79: to give light to those who sit in darkness and in the shadow of death, to guide our feet into the way of peace."
+    80: And the child grew and became strong in spirit, and he was in the wilderness till the day of his manifestation to Israel.
+
+  Chapter 2.
+
+    1: In those days a decree went out from Caesar Augustus that all the world should be enrolled.
+    2: This was the first enrollment, when Quirin'i-us was governor of Syria.
+    3: And all went to be enrolled, each to his own city.
+    4: And Joseph also went up from Galilee, from the city of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David,
+    5: to be enrolled with Mary, his betrothed, who was with child.
+    6: And while they were there, the time came for her to be delivered.
+    7: And she gave birth to her first-born son and wrapped him in swaddling cloths, and laid him in a manger, because there was no place for them in the inn.
+    8: And in that region there were shepherds out in the field, keeping watch over their flock by night.
+    9: And an angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were filled with fear.
+    10: And the angel said to them, "Be not afraid; for behold, I bring you good news of a great joy which will come to all the people;
+    11: for to you is born this day in the city of David a Savior, who is Christ the Lord.
+    12: And this will be a sign for you: you will find a babe wrapped in swaddling cloths and lying in a manger."
+    13: And suddenly there was with the angel a multitude of the heavenly host praising God and saying,
+    14: "Glory to God in the highest, and on earth peace among men with whom he is pleased!"
+    15: When the angels went away from them into heaven, the shepherds said to one another, "Let us go over to Bethlehem and see this thing that has happened, which the Lord has made known to us."
+    16: And they went with haste, and found Mary and Joseph, and the babe lying in a manger.
+    17: And when they saw it they made known the saying which had been told them concerning this child;
+    18: and all who heard it wondered at what the shepherds told them.
+    19: But Mary kept all these things, pondering them in her heart.
+    20: And the shepherds returned, glorifying and praising God for all they had heard and seen, as it had been told them.
+    21: And at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb.
+    22: And when the time came for their purification according to the law of Moses, they brought him up to Jerusalem to present him to the Lord
+    23: (as it is written in the law of the Lord, "Every male that opens the womb shall be called holy to the Lord")
+    24: and to offer a sacrifice according to what is said in the law of the Lord, "a pair of turtledoves, or two young pigeons."
+    25: Now there was a man in Jerusalem, whose name was Simeon, and this man was righteous and devout, looking for the consolation of Israel, and the Holy Spirit was upon him.
+    26: And it had been revealed to him by the Holy Spirit that he should not see death before he had seen the Lord's Christ.
+    27: And inspired by the Spirit he came into the temple; and when the parents brought in the child Jesus, to do for him according to the custom of the law,
+    28: he took him up in his arms and blessed God and said,
+    29: "Lord, now lettest thou thy servant depart in peace, according to thy word;
+    30: for mine eyes have seen thy salvation
+    31: which thou hast prepared in the presence of all peoples,
+    32: a light for revelation to the Gentiles, and for glory to thy people Israel."
+    33: And his father and his mother marveled at what was said about him;
+    34: and Simeon blessed them and said to Mary his mother, "Behold, this child is set for the fall and rising of many in Israel, and for a sign that is spoken against
+    35: (and a sword will pierce through your own soul also), that thoughts out of many hearts may be revealed."
+    36: And there was a prophetess, Anna, the daughter of Phan'u-el, of the tribe of Asher; she was of a great age, having lived with her husband seven years from her virginity,
+    37: and as a widow till she was eighty-four. She did not depart from the temple, worshiping with fasting and prayer night and day.
+    38: And coming up at that very hour she gave thanks to God, and spoke of him to all who were looking for the redemption of Jerusalem.
+    39: And when they had performed everything according to the law of the Lord, they returned into Galilee, to their own city, Nazareth.
+    40: And the child grew and became strong, filled with wisdom; and the favor of God was upon him.
+    41: Now his parents went to Jerusalem every year at the feast of the Passover.
+    42: And when he was twelve years old, they went up according to custom;
+    43: and when the feast was ended, as they were returning, the boy Jesus stayed behind in Jerusalem. His parents did not know it,
+    44: but supposing him to be in the company they went a day's journey, and they sought him among their kinsfolk and acquaintances;
+    45: and when they did not find him, they returned to Jerusalem, seeking him.
+    46: After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions;
+    47: and all who heard him were amazed at his understanding and his answers.
+    48: And when they saw him they were astonished; and his mother said to him, "Son, why have you treated us so? Behold, your father and I have been looking for you anxiously."
+    49: And he said to them, "How is it that you sought me? Did you not know that I must be in my Father's house?"
+    50: And they did not understand the saying which he spoke to them.
+    51: And he went down with them and came to Nazareth, and was obedient to them; and his mother kept all these things in her heart.
+    52: And Jesus increased in wisdom and in stature, and in favor with God and man.
+
+  Chapter 3.
+
+    1: In the fifteenth year of the reign of Tiber'i-us Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Iturae'a and Trachoni'tis, and Lysa'ni-as tetrarch of Abile'ne,
+    2: in the high-priesthood of Annas and Ca'iaphas, the word of God came to John the son of Zechari'ah in the wilderness;
+    3: and he went into all the region about the Jordan, preaching a baptism of repentance for the forgiveness of sins.
+    4: As it is written in the book of the words of Isaiah the prophet, "The voice of one crying in the wilderness: Prepare the way of the Lord, make his paths straight.
+    5: Every valley shall be filled, and every mountain and hill shall be brought low, and the crooked shall be made straight, and the rough ways shall be made smooth;
+    6: and all flesh shall see the salvation of God."
+    7: He said therefore to the multitudes that came out to be baptized by him, "You brood of vipers! Who warned you to flee from the wrath to come?
+    8: Bear fruits that befit repentance, and do not begin to say to yourselves, `We have Abraham as our father'; for I tell you, God is able from these stones to raise up children to Abraham.
+    9: Even now the axe is laid to the root of the trees; every tree therefore that does not bear good fruit is cut down and thrown into the fire."
+    10: And the multitudes asked him, "What then shall we do?"
+    11: And he answered them, "He who has two coats, let him share with him who has none; and he who has food, let him do likewise."
+    12: Tax collectors also came to be baptized, and said to him, "Teacher, what shall we do?"
+    13: And he said to them, "Collect no more than is appointed you."
+    14: Soldiers also asked him, "And we, what shall we do?" And he said to them, "Rob no one by violence or by false accusation, and be content with your wages."
+    15: As the people were in expectation, and all men questioned in their hearts concerning John, whether perhaps he were the Christ,
+    16: John answered them all, "I baptize you with water; but he who is mightier than I is coming, the thong of whose sandals I am not worthy to untie; he will baptize you with the Holy Spirit and with fire.
+    17: His winnowing fork is in his hand, to clear his threshing floor, and to gather the wheat into his granary, but the chaff he will burn with unquenchable fire."
+    18: So, with many other exhortations, he preached good news to the people.
+    19: But Herod the tetrarch, who had been reproved by him for Hero'di-as, his brother's wife, and for all the evil things that Herod had done,
+    20: added this to them all, that he shut up John in prison.
+    21: Now when all the people were baptized, and when Jesus also had been baptized and was praying, the heaven was opened,
+    22: and the Holy Spirit descended upon him in bodily form, as a dove, and a voice came from heaven, "Thou art my beloved Son; with thee I am well pleased."
+    23: Jesus, when he began his ministry, was about thirty years of age, being the son (as was supposed) of Joseph, the son of Heli,
+    24: the son of Matthat, the son of Levi, the son of Melchi, the son of Jan'na-i, the son of Joseph,
+    25: the son of Mattathi'as, the son of Amos, the son of Nahum, the son of Esli, the son of Nag'ga-i,
+    26: the son of Ma'ath, the son of Mattathi'as, the son of Sem'e-in, the son of Josech, the son of Joda,
+    27: the son of Jo-an'an, the son of Rhesa, the son of Zerub'babel, the son of She-al'ti-el, the son of Neri,
+    28: the son of Melchi, the son of Addi, the son of Cosam, the son of Elma'dam, the son of Er,
+    29: the son of Joshua, the son of Elie'zer, the son of Jorim, the son of Matthat, the son of Levi,
+    30: the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eli'akim,
+    31: the son of Me'le-a, the son of Menna, the son of Mat'tatha, the son of Nathan, the son of David,
+    32: the son of Jesse, the son of Obed, the son of Bo'az, the son of Sala, the son of Nahshon,
+    33: the son of Ammin'adab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,
+    34: the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,
+    35: the son of Serug, the son of Re'u, the son of Peleg, the son of Eber, the son of Shelah,
+    36: the son of Ca-i'nan, the son of Arphax'ad, the son of Shem, the son of Noah, the son of Lamech,
+    37: the son of Methuselah, the son of Enoch, the son of Jared, the son of Maha'lale-el, the son of Ca-i'nan,
+    38: the son of Enos, the son of Seth, the son of Adam, the son of God.
+
+  Chapter 4.
+
+    1: And Jesus, full of the Holy Spirit, returned from the Jordan, and was led by the Spirit
+    2: for forty days in the wilderness, tempted by the devil. And he ate nothing in those days; and when they were ended, he was hungry.
+    3: The devil said to him, "If you are the Son of God, command this stone to become bread."
+    4: And Jesus answered him, "It is written, `Man shall not live by bread alone.'"
+    5: And the devil took him up, and showed him all the kingdoms of the world in a moment of time,
+    6: and said to him, "To you I will give all this authority and their glory; for it has been delivered to me, and I give it to whom I will.
+    7: If you, then, will worship me, it shall all be yours."
+    8: And Jesus answered him, "It is written, `You shall worship the Lord your God, and him only shall you serve.'"
+    9: And he took him to Jerusalem, and set him on the pinnacle of the temple, and said to him, "If you are the Son of God, throw yourself down from here;
+    10: for it is written, `He will give his angels charge of you, to guard you,'
+    11: and `On their hands they will bear you up, lest you strike your foot against a stone.'"
+    12: And Jesus answered him, "It is said, `You shall not tempt the Lord your God.'"
+    13: And when the devil had ended every temptation, he departed from him until an opportune time.
+    14: And Jesus returned in the power of the Spirit into Galilee, and a report concerning him went out through all the surrounding country.
+    15: And he taught in their synagogues, being glorified by all.
+    16: And he came to Nazareth, where he had been brought up; and he went to the synagogue, as his custom was, on the sabbath day. And he stood up to read;
+    17: and there was given to him the book of the prophet Isaiah. He opened the book and found the place where it was written,
+    18: "The Spirit of the Lord is upon me, because he has anointed me to preach good news to the poor. He has sent me to proclaim release to the captives and recovering of sight to the blind, to set at liberty those who are oppressed,
+    19: to proclaim the acceptable year of the Lord."
+    20: And he closed the book, and gave it back to the attendant, and sat down; and the eyes of all in the synagogue were fixed on him.
+    21: And he began to say to them, "Today this scripture has been fulfilled in your hearing."
+    22: And all spoke well of him, and wondered at the gracious words which proceeded out of his mouth; and they said, "Is not this Joseph's son?"
+    23: And he said to them, "Doubtless you will quote to me this proverb, `Physician, heal yourself; what we have heard you did at Caper'na-um, do here also in your own country.'"
+    24: And he said, "Truly, I say to you, no prophet is acceptable in his own country.
+    25: But in truth, I tell you, there were many widows in Israel in the days of Eli'jah, when the heaven was shut up three years and six months, when there came a great famine over all the land;
+    26: and Eli'jah was sent to none of them but only to Zar'ephath, in the land of Sidon, to a woman who was a widow.
+    27: And there were many lepers in Israel in the time of the prophet Eli'sha; and none of them was cleansed, but only Na'aman the Syrian."
+    28: When they heard this, all in the synagogue were filled with wrath.
+    29: And they rose up and put him out of the city, and led him to the brow of the hill on which their city was built, that they might throw him down headlong.
+    30: But passing through the midst of them he went away.
+    31: And he went down to Caper'na-um, a city of Galilee. And he was teaching them on the sabbath;
+    32: and they were astonished at his teaching, for his word was with authority.
+    33: And in the synagogue there was a man who had the spirit of an unclean demon; and he cried out with a loud voice,
+    34: "Ah! What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are, the Holy One of God."
+    35: But Jesus rebuked him, saying, "Be silent, and come out of him!" And when the demon had thrown him down in the midst, he came out of him, having done him no harm.
+    36: And they were all amazed and said to one another, "What is this word? For with authority and power he commands the unclean spirits, and they come out."
+    37: And reports of him went out into every place in the surrounding region.
+    38: And he arose and left the synagogue, and entered Simon's house. Now Simon's mother-in-law was ill with a high fever, and they besought him for her.
+    39: And he stood over her and rebuked the fever, and it left her; and immediately she rose and served them.
+    40: Now when the sun was setting, all those who had any that were sick with various diseases brought them to him; and he laid his hands on every one of them and healed them.
+    41: And demons also came out of many, crying, "You are the Son of God!" But he rebuked them, and would not allow them to speak, because they knew that he was the Christ.
+    42: And when it was day he departed and went into a lonely place. And the people sought him and came to him, and would have kept him from leaving them;
+    43: but he said to them, "I must preach the good news of the kingdom of God to the other cities also; for I was sent for this purpose."
+    44: And he was preaching in the synagogues of Judea.
+
+End of day 295.

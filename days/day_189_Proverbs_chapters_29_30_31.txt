@@ -1,0 +1,105 @@
+Day 189:
+
+Reading Proverbs, chapters ['29', '30', '31']:
+
+  Chapter 29.
+
+    1: He who is often reproved, yet stiffens his neck will suddenly be broken beyond healing.
+    2: When the righteous are in authority, the people rejoice; but when the wicked rule, the people groan.
+    3: He who loves wisdom makes his father glad, but one who keeps company with harlots squanders his substance.
+    4: By justice a king gives stability to the land, but one who exacts gifts ruins it.
+    5: A man who flatters his neighbor spreads a net for his feet.
+    6: An evil man is ensnared in his transgression, but a righteous man sings and rejoices.
+    7: A righteous man knows the rights of the poor; a wicked man does not understand such knowledge.
+    8: Scoffers set a city aflame, but wise men turn away wrath.
+    9: If a wise man has an argument with a fool, the fool only rages and laughs, and there is no quiet.
+    10: Bloodthirsty men hate one who is blameless, and the wicked seek his life.
+    11: A fool gives full vent to his anger, but a wise man quietly holds it back.
+    12: If a ruler listens to falsehood, all his officials will be wicked.
+    13: The poor man and the oppressor meet together; the LORD gives light to the eyes of both.
+    14: If a king judges the poor with equity his throne will be established for ever.
+    15: The rod and reproof give wisdom, but a child left to himself brings shame to his mother.
+    16: When the wicked are in authority, transgression increases; but the righteous will look upon their downfall.
+    17: Discipline your son, and he will give you rest; he will give delight to your heart.
+    18: Where there is no prophecy the people cast off restraint, but blessed is he who keeps the law.
+    19: By mere words a servant is not disciplined, for though he understands, he will not give heed.
+    20: Do you see a man who is hasty in his words? There is more hope for a fool than for him.
+    21: He who pampers his servant from childhood, will in the end find him his heir.
+    22: A man of wrath stirs up strife, and a man given to anger causes much transgression.
+    23: A man's pride will bring him low, but he who is lowly in spirit will obtain honor.
+    24: The partner of a thief hates his own life; he hears the curse, but discloses nothing.
+    25: The fear of man lays a snare, but he who trusts in the LORD is safe.
+    26: Many seek the favor of a ruler, but from the LORD a man gets justice.
+    27: An unjust man is an abomination to the righteous, but he whose way is straight is an abomination to the wicked.
+
+  Chapter 30.
+
+    1: The words of Agur son of Jakeh of Massa. The man says to Ith'i-el, to Ith'i-el and Ucal:
+    2: Surely I am too stupid to be a man. I have not the understanding of a man.
+    3: I have not learned wisdom, nor have I knowledge of the Holy One.
+    4: Who has ascended to heaven and come down? Who has gathered the wind in his fists? Who has wrapped up the waters in a garment? Who has established all the ends of the earth? What is his name, and what is his son's name? Surely you know!
+    5: Every word of God proves true; he is a shield to those who take refuge in him.
+    6: Do not add to his words, lest he rebuke you, and you be found a liar.
+    7: Two things I ask of thee; deny them not to me before I die:
+    8: Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me,
+    9: lest I be full, and deny thee, and say, "Who is the LORD?" or lest I be poor, and steal, and profane the name of my God.
+    10: Do not slander a servant to his master, lest he curse you, and you be held guilty.
+    11: There are those who curse their fathers and do not bless their mothers.
+    12: There are those who are pure in their own eyes but are not cleansed of their filth.
+    13: There are those -- how lofty are their eyes, how high their eyelids lift!
+    14: There are those whose teeth are swords, whose teeth are knives, to devour the poor from off the earth, the needy from among men.
+    15: The leech has two daughters; "Give, give," they cry. Three things are never satisfied; four never say, "Enough":
+    16: Sheol, the barren womb, the earth ever thirsty for water, and the fire which never says, "Enough."
+    17: The eye that mocks a father and scorns to obey a mother will be picked out by the ravens of the valley and eaten by the vultures.
+    18: Three things are too wonderful for me; four I do not understand:
+    19: the way of an eagle in the sky, the way of a serpent on a rock, the way of a ship on the high seas, and the way of a man with a maiden.
+    20: This is the way of an adulteress: she eats, and wipes her mouth, and says, "I have done no wrong."
+    21: Under three things the earth trembles; under four it cannot bear up:
+    22: a slave when he becomes king, and a fool when he is filled with food;
+    23: an unloved woman when she gets a husband, and a maid when she succeeds her mistress.
+    24: Four things on earth are small, but they are exceedingly wise:
+    25: the ants are a people not strong, yet they provide their food in the summer;
+    26: the badgers are a people not mighty, yet they make their homes in the rocks;
+    27: the locusts have no king, yet all of them march in rank;
+    28: the lizard you can take in your hands, yet it is in kings' palaces.
+    29: Three things are stately in their tread; four are stately in their stride:
+    30: the lion, which is mightiest among beasts and does not turn back before any;
+    31: the strutting cock, the he-goat, and a king striding before his people.
+    32: If you have been foolish, exalting yourself, or if you have been devising evil, put your hand on your mouth.
+    33: For pressing milk produces curds, pressing the nose produces blood, and pressing anger produces strife.
+
+  Chapter 31.
+
+    1: The words of Lemuel, king of Massa, which his mother taught him:
+    2: What, my son? What, son of my womb? What, son of my vows?
+    3: Give not your strength to women, your ways to those who destroy kings.
+    4: It is not for kings, O Lemuel, it is not for kings to drink wine, or for rulers to desire strong drink;
+    5: lest they drink and forget what has been decreed, and pervert the rights of all the afflicted.
+    6: Give strong drink to him who is perishing, and wine to those in bitter distress;
+    7: let them drink and forget their poverty, and remember their misery no more.
+    8: Open your mouth for the dumb, for the rights of all who are left desolate.
+    9: Open your mouth, judge righteously, maintain the rights of the poor and needy.
+    10: A good wife who can find? She is far more precious than jewels.
+    11: The heart of her husband trusts in her, and he will have no lack of gain.
+    12: She does him good, and not harm, all the days of her life.
+    13: She seeks wool and flax, and works with willing hands.
+    14: She is like the ships of the merchant, she brings her food from afar.
+    15: She rises while it is yet night and provides food for her household and tasks for her maidens.
+    16: She considers a field and buys it; with the fruit of her hands she plants a vineyard.
+    17: She girds her loins with strength and makes her arms strong.
+    18: She perceives that her merchandise is profitable. Her lamp does not go out at night.
+    19: She puts her hands to the distaff, and her hands hold the spindle.
+    20: She opens her hand to the poor, and reaches out her hands to the needy.
+    21: She is not afraid of snow for her household, for all her household are clothed in scarlet.
+    22: She makes herself coverings; her clothing is fine linen and purple.
+    23: Her husband is known in the gates, when he sits among the elders of the land.
+    24: She makes linen garments and sells them; she delivers girdles to the merchant.
+    25: Strength and dignity are her clothing, and she laughs at the time to come.
+    26: She opens her mouth with wisdom, and the teaching of kindness is on her tongue.
+    27: She looks well to the ways of her household, and does not eat the bread of idleness.
+    28: Her children rise up and call her blessed; her husband also, and he praises her:
+    29: "Many women have done excellently, but you surpass them all."
+    30: Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised.
+    31: Give her of the fruit of her hands, and let her works praise her in the gates.
+
+End of day 189.

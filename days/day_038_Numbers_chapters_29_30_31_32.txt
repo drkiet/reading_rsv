@@ -1,0 +1,169 @@
+Day 38:
+
+Reading Numbers, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: "On the first day of the seventh month you shall have a holy convocation; you shall do no laborious work. It is a day for you to blow the trumpets,
+    2: and you shall offer a burnt offering, a pleasing odor to the LORD: one young bull, one ram, seven male lambs a year old without blemish;
+    3: also their cereal offering of fine flour mixed with oil, three tenths of an ephah for the bull, two tenths for the ram,
+    4: and one tenth for each of the seven lambs;
+    5: with one male goat for a sin offering, to make atonement for you;
+    6: besides the burnt offering of the new moon, and its cereal offering, and the continual burnt offering and its cereal offering, and their drink offering, according to the ordinance for them, a pleasing odor, an offering by fire to the LORD.
+    7: "On the tenth day of this seventh month you shall have a holy convocation, and afflict yourselves; you shall do no work,
+    8: but you shall offer a burnt offering to the LORD, a pleasing odor: one young bull, one ram, seven male lambs a year old; they shall be to you without blemish;
+    9: and their cereal offering of fine flour mixed with oil, three tenths of an ephah for the bull, two tenths for the one ram,
+    10: a tenth for each of the seven lambs:
+    11: also one male goat for a sin offering, besides the sin offering of atonement, and the continual burnt offering and its cereal offering, and their drink offerings.
+    12: "On the fifteenth day of the seventh month you shall have a holy convocation; you shall do no laborious work, and you shall keep a feast to the LORD seven days;
+    13: and you shall offer a burnt offering, an offering by fire, a pleasing odor to the LORD, thirteen young bulls, two rams, fourteen male lambs a year old; they shall be without blemish;
+    14: and their cereal offering of fine flour mixed with oil, three tenths of an ephah for each of the thirteen bulls, two tenths for each of the two rams,
+    15: and a tenth for each of the fourteen lambs;
+    16: also one male goat for a sin offering, besides the continual burnt offering, its cereal offering and its drink offering.
+    17: "On the second day twelve young bulls, two rams, fourteen male lambs a year old without blemish,
+    18: with the cereal offering and the drink offerings for the bulls, for the rams, and for the lambs, by number, according to the ordinance;
+    19: also one male goat for a sin offering, besides the continual burnt offering and its cereal offering, and their drink offerings.
+    20: "On the third day eleven bulls, two rams, fourteen male lambs a year old without blemish,
+    21: with the cereal offering and the drink offerings for the bulls, for the rams, and for the lambs, by number, according to the ordinance;
+    22: also one male goat for a sin offering, besides the continual burnt offering and its cereal offering and its drink offering.
+    23: "On the fourth day ten bulls, two rams, fourteen male lambs a year old without blemish,
+    24: with the cereal offering and the drink offerings for the bulls, for the rams, and for the lambs, by number, according to the ordinance;
+    25: also one male goat for a sin offering, besides the continual burnt offering, its cereal offering and its drink offering.
+    26: "On the fifth day nine bulls, two rams, fourteen male lambs a year old without blemish,
+    27: with the cereal offering and the drink offerings for the bulls, for the rams, and for the lambs, by number, according to the ordinance;
+    28: also one male goat for a sin offering; besides the continual burnt offering and its cereal offering and its drink offering.
+    29: "On the sixth day eight bulls, two rams, fourteen male lambs a year old without blemish,
+    30: with the cereal offering and the drink offerings for the bulls, for the rams, and for the lambs, by number, according to the ordinance;
+    31: also one male goat for a sin offering; besides the continual burnt offering, its cereal offering, and its drink offerings.
+    32: "On the seventh day seven bulls, two rams, fourteen male lambs a year old without blemish,
+    33: with the cereal offering and the drink offerings for the bulls, for the rams, and for the lambs, by number, according to the ordinance;
+    34: also one male goat for a sin offering; besides the continual burnt offering, its cereal offering, and its drink offering.
+    35: "On the eighth day you shall have a solemn assembly: you shall do no laborious work,
+    36: but you shall offer a burnt offering, an offering by fire, a pleasing odor to the LORD: one bull, one ram, seven male lambs a year old without blemish,
+    37: and the cereal offering and the drink offerings for the bull, for the ram, and for the lambs, by number, according to the ordinance;
+    38: also one male goat for a sin offering; besides the continual burnt offering and its cereal offering and its drink offering.
+    39: "These you shall offer to the LORD at your appointed feasts, in addition to your votive offerings and your freewill offerings, for your burnt offerings, and for your cereal offerings, and for your drink offerings, and for your peace offerings."
+    40: And Moses told the people of Israel everything just as the LORD had commanded Moses.
+
+  Chapter 30.
+
+    1: Moses said to the heads of the tribes of the people of Israel, "This is what the LORD has commanded.
+    2: When a man vows a vow to the LORD, or swears an oath to bind himself by a pledge, he shall not break his word; he shall do according to all that proceeds out of his mouth.
+    3: Or when a woman vows a vow to the LORD, and binds herself by a pledge, while within her father's house, in her youth,
+    4: and her father hears of her vow and of her pledge by which she has bound herself, and says nothing to her; then all her vows shall stand, and every pledge by which she has bound herself shall stand.
+    5: But if her father expresses disapproval to her on the day that he hears of it, no vow of hers, no pledge by which she has bound herself, shall stand; and the LORD will forgive her, because her father opposed her.
+    6: And if she is married to a husband, while under her vows or any thoughtless utterance of her lips by which she has bound herself,
+    7: and her husband hears of it, and says nothing to her on the day that he hears; then her vows shall stand, and her pledges by which she has bound herself shall stand.
+    8: But if, on the day that her husband comes to hear of it, he expresses disapproval, then he shall make void her vow which was on her, and the thoughtless utterance of her lips, by which she bound herself; and the LORD will forgive her.
+    9: But any vow of a widow or of a divorced woman, anything by which she has bound herself, shall stand against her.
+    10: And if she vowed in her husband's house, or bound herself by a pledge with an oath,
+    11: and her husband heard of it, and said nothing to her, and did not oppose her; then all her vows shall stand, and every pledge by which she bound herself shall stand.
+    12: But if her husband makes them null and void on the day that he hears them, then whatever proceeds out of her lips concerning her vows, or concerning her pledge of herself, shall not stand: her husband has made them void, and the LORD will forgive her.
+    13: Any vow and any binding oath to afflict herself, her husband may establish, or her husband may make void.
+    14: But if her husband says nothing to her from day to day, then he establishes all her vows, or all her pledges, that are upon her; he has established them, because he said nothing to her on the day that he heard of them.
+    15: But if he makes them null and void after he has heard of them, then he shall bear her iniquity."
+    16: These are the statutes which the LORD commanded Moses, as between a man and his wife, and between a father and his daughter, while in her youth, within her father's house.
+
+  Chapter 31.
+
+    1: The LORD said to Moses,
+    2: "Avenge the people of Israel on the Mid'ianites; afterward you shall be gathered to your people."
+    3: And Moses said to the people, "Arm men from among you for the war, that they may go against Mid'ian, to execute the LORD's vengeance on Mid'ian.
+    4: You shall send a thousand from each of the tribes of Israel to the war."
+    5: So there were provided, out of the thousands of Israel, a thousand from each tribe, twelve thousand armed for war.
+    6: And Moses sent them to the war, a thousand from each tribe, together with Phin'ehas the son of Elea'zar the priest, with the vessels of the sanctuary and the trumpets for the alarm in his hand.
+    7: They warred against Mid'ian, as the LORD commanded Moses, and slew every male.
+    8: They slew the kings of Mid'ian with the rest of their slain, Evi, Rekem, Zur, Hur, and Reba, the five kings of Mid'ian; and they also slew Balaam the son of Be'or with the sword.
+    9: And the people of Israel took captive the women of Mid'ian and their little ones; and they took as booty all their cattle, their flocks, and all their goods.
+    10: All their cities in the places where they dwelt, and all their encampments, they burned with fire,
+    11: and took all the spoil and all the booty, both of man and of beast.
+    12: Then they brought the captives and the booty and the spoil to Moses, and to Elea'zar the priest, and to the congregation of the people of Israel, at the camp on the plains of Moab by the Jordan at Jericho.
+    13: Moses, and Elea'zar the priest, and all the leaders of the congregation, went forth to meet them outside the camp.
+    14: And Moses was angry with the officers of the army, the commanders of thousands and the commanders of hundreds, who had come from service in the war.
+    15: Moses said to them, "Have you let all the women live?
+    16: Behold, these caused the people of Israel, by the counsel of Balaam, to act treacherously against the LORD in the matter of Pe'or, and so the plague came among the congregation of the LORD.
+    17: Now therefore, kill every male among the little ones, and kill every woman who has known man by lying with him.
+    18: But all the young girls who have not known man by lying with him, keep alive for yourselves.
+    19: Encamp outside the camp seven days; whoever of you has killed any person, and whoever has touched any slain, purify yourselves and your captives on the third day and on the seventh day.
+    20: You shall purify every garment, every article of skin, all work of goats' hair, and every article of wood."
+    21: And Elea'zar the priest said to the men of war who had gone to battle: "This is the statute of the law which the LORD has commanded Moses:
+    22: only the gold, the silver, the bronze, the iron, the tin, and the lead,
+    23: everything that can stand the fire, you shall pass through the fire, and it shall be clean. Nevertheless it shall also be purified with the water of impurity; and whatever cannot stand the fire, you shall pass through the water.
+    24: You must wash your clothes on the seventh day, and you shall be clean; and afterward you shall come into the camp."
+    25: The LORD said to Moses,
+    26: "Take the count of the booty that was taken, both of man and of beast, you and Elea'zar the priest and the heads of the fathers' houses of the congregation;
+    27: and divide the booty into two parts, between the warriors who went out to battle and all the congregation.
+    28: And levy for the LORD a tribute from the men of war who went out to battle, one out of five hundred, of the persons and of the oxen and of the asses and of the flocks;
+    29: take it from their half, and give it to Elea'zar the priest as an offering to the LORD.
+    30: And from the people of Israel's half you shall take one drawn out of every fifty, of the persons, of the oxen, of the asses, and of the flocks, of all the cattle, and give them to the Levites who have charge of the tabernacle of the LORD."
+    31: And Moses and Elea'zar the priest did as the LORD commanded Moses.
+    32: Now the booty remaining of the spoil that the men of war took was: six hundred and seventy-five thousand sheep,
+    33: seventy-two thousand cattle,
+    34: sixty-one thousand asses,
+    35: and thirty-two thousand persons in all, women who had not known man by lying with him.
+    36: And the half, the portion of those who had gone out to war, was in number three hundred and thirty-seven thousand five hundred sheep,
+    37: and the LORD's tribute of sheep was six hundred and seventy-five.
+    38: The cattle were thirty-six thousand, of which the LORD's tribute was seventy-two.
+    39: The asses were thirty thousand five hundred, of which the LORD's tribute was sixty-one.
+    40: The persons were sixteen thousand, of which the LORD's tribute was thirty-two persons.
+    41: And Moses gave the tribute, which was the offering for the LORD, to Elea'zar the priest, as the LORD commanded Moses.
+    42: From the people of Israel's half, which Moses separated from that of the men who had gone to war --
+    43: now the congregation's half was three hundred and thirty-seven thousand five hundred sheep,
+    44: thirty-six thousand cattle,
+    45: and thirty thousand five hundred asses,
+    46: and sixteen thousand persons --
+    47: from the people of Israel's half Moses took one of every fifty, both of persons and of beasts, and gave them to the Levites who had charge of the tabernacle of the LORD; as the LORD commanded Moses.
+    48: Then the officers who were over the thousands of the army, the captains of thousands and the captains of hundreds, came near to Moses,
+    49: and said to Moses, "Your servants have counted the men of war who are under our command, and there is not a man missing from us.
+    50: And we have brought the LORD's offering, what each man found, articles of gold, armlets and bracelets, signet rings, earrings, and beads, to make atonement for ourselves before the LORD."
+    51: And Moses and Elea'zar the priest received from them the gold, all wrought articles.
+    52: And all the gold of the offering that they offered to the LORD, from the commanders of thousands and the commanders of hundreds, was sixteen thousand seven hundred and fifty shekels.
+    53: (The men of war had taken booty, every man for himself.)
+    54: And Moses and Elea'zar the priest received the gold from the commanders of thousands and of hundreds, and brought it into the tent of meeting, as a memorial for the people of Israel before the LORD.
+
+  Chapter 32.
+
+    1: Now the sons of Reuben and the sons of Gad had a very great multitude of cattle; and they saw the land of Jazer and the land of Gilead, and behold, the place was a place for cattle.
+    2: So the sons of Gad and the sons of Reuben came and said to Moses and to Elea'zar the priest and to the leaders of the congregation,
+    3: "At'aroth, Dibon, Jazer, Nimrah, Heshbon, Elea'leh, Sebam, Nebo, and Be'on,
+    4: the land which the LORD smote before the congregation of Israel, is a land for cattle; and your servants have cattle."
+    5: And they said, "If we have found favor in your sight, let this land be given to your servants for a possession; do not take us across the Jordan."
+    6: But Moses said to the sons of Gad and to the sons of Reuben, "Shall your brethren go to the war while you sit here?
+    7: Why will you discourage the heart of the people of Israel from going over into the land which the LORD has given them?
+    8: Thus did your fathers, when I sent them from Ka'desh-bar'nea to see the land.
+    9: For when they went up to the Valley of Eshcol, and saw the land, they discouraged the heart of the people of Israel from going into the land which the LORD had given them.
+    10: And the LORD's anger was kindled on that day, and he swore, saying,
+    11: 'Surely none of the men who came up out of Egypt, from twenty years old and upward, shall see the land which I swore to give to Abraham, to Isaac, and to Jacob, because they have not wholly followed me;
+    12: none except Caleb the son of Jephun'neh the Ken'izzite and Joshua the son of Nun, for they have wholly followed the LORD.'
+    13: And the LORD's anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation that had done evil in the sight of the LORD was consumed.
+    14: And behold, you have risen in your fathers' stead, a brood of sinful men, to increase still more the fierce anger of the LORD against Israel!
+    15: For if you turn away from following him, he will again abandon them in the wilderness; and you will destroy all this people."
+    16: Then they came near to him, and said, "We will build sheepfolds here for our flocks, and cities for our little ones,
+    17: but we will take up arms, ready to go before the people of Israel, until we have brought them to their place; and our little ones shall live in the fortified cities because of the inhabitants of the land.
+    18: We will not return to our homes until the people of Israel have inherited each his inheritance.
+    19: For we will not inherit with them on the other side of the Jordan and beyond; because our inheritance has come to us on this side of the Jordan to the east."
+    20: So Moses said to them, "If you will do this, if you will take up arms to go before the LORD for the war,
+    21: and every armed man of you will pass over the Jordan before the LORD, until he has driven out his enemies from before him
+    22: and the land is subdued before the LORD; then after that you shall return and be free of obligation to the LORD and to Israel; and this land shall be your possession before the LORD.
+    23: But if you will not do so, behold, you have sinned against the LORD; and be sure your sin will find you out.
+    24: Build cities for your little ones, and folds for your sheep; and do what you have promised."
+    25: And the sons of Gad and the sons of Reuben said to Moses, "Your servants will do as my lord commands.
+    26: Our little ones, our wives, our flocks, and all our cattle, shall remain there in the cities of Gilead;
+    27: but your servants will pass over, every man who is armed for war, before the LORD to battle, as my lord orders."
+    28: So Moses gave command concerning them to Elea'zar the priest, and to Joshua the son of Nun, and to the heads of the fathers' houses of the tribes of the people of Israel.
+    29: And Moses said to them, "If the sons of Gad and the sons of Reuben, every man who is armed to battle before the LORD, will pass with you over the Jordan and the land shall be subdued before you, then you shall give them the land of Gilead for a possession;
+    30: but if they will not pass over with you armed, they shall have possessions among you in the land of Canaan."
+    31: And the sons of Gad and the sons of Reuben answered, "As the LORD has said to your servants, so we will do.
+    32: We will pass over armed before the LORD into the land of Canaan, and the possession of our inheritance shall remain with us beyond the Jordan."
+    33: And Moses gave to them, to the sons of Gad and to the sons of Reuben and to the half-tribe of Manas'seh the son of Joseph, the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan, the land and its cities with their territories, the cities of the land throughout the country.
+    34: And the sons of Gad built Dibon, At'aroth, Aro'er,
+    35: At'roth-sho'phan, Jazer, Jog'behah,
+    36: Beth-nim'rah and Beth-har'an, fortified cities, and folds for sheep.
+    37: And the sons of Reuben built Heshbon, Elea'leh, Kiriatha'im,
+    38: Nebo, and Ba'al-me'on (their names to be changed), and Sibmah; and they gave other names to the cities which they built.
+    39: And the sons of Machir the son of Manas'seh went to Gilead and took it, and dispossessed the Amorites who were in it.
+    40: And Moses gave Gilead to Machir the son of Manas'seh, and he settled in it.
+    41: And Ja'ir the son of Manas'seh went and took their villages, and called them Hav'voth-ja'ir.
+    42: And Nobah went and took Kenath and its villages, and called it Nobah, after his own name.
+
+End of day 38.

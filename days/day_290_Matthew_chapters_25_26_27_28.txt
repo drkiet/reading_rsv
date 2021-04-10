@@ -1,0 +1,224 @@
+Day 290:
+
+Reading Matthew, chapters ['25', '26', '27', '28']:
+
+  Chapter 25.
+
+    1: "Then the kingdom of heaven shall be compared to ten maidens who took their lamps and went to meet the bridegroom.
+    2: Five of them were foolish, and five were wise.
+    3: For when the foolish took their lamps, they took no oil with them;
+    4: but the wise took flasks of oil with their lamps.
+    5: As the bridegroom was delayed, they all slumbered and slept.
+    6: But at midnight there was a cry, `Behold, the bridegroom! Come out to meet him.'
+    7: Then all those maidens rose and trimmed their lamps.
+    8: And the foolish said to the wise, `Give us some of your oil, for our lamps are going out.'
+    9: But the wise replied, `Perhaps there will not be enough for us and for you; go rather to the dealers and buy for yourselves.'
+    10: And while they went to buy, the bridegroom came, and those who were ready went in with him to the marriage feast; and the door was shut.
+    11: Afterward the other maidens came also, saying, `Lord, lord, open to us.'
+    12: But he replied, `Truly, I say to you, I do not know you.'
+    13: Watch therefore, for you know neither the day nor the hour.
+    14: "For it will be as when a man going on a journey called his servants and entrusted to them his property;
+    15: to one he gave five talents, to another two, to another one, to each according to his ability. Then he went away.
+    16: He who had received the five talents went at once and traded with them; and he made five talents more.
+    17: So also, he who had the two talents made two talents more.
+    18: But he who had received the one talent went and dug in the ground and hid his master's money.
+    19: Now after a long time the master of those servants came and settled accounts with them.
+    20: And he who had received the five talents came forward, bringing five talents more, saying, `Master, you delivered to me five talents; here I have made five talents more.'
+    21: His master said to him, `Well done, good and faithful servant; you have been faithful over a little, I will set you over much; enter into the joy of your master.'
+    22: And he also who had the two talents came forward, saying, `Master, you delivered to me two talents; here I have made two talents more.'
+    23: His master said to him, `Well done, good and faithful servant; you have been faithful over a little, I will set you over much; enter into the joy of your master.'
+    24: He also who had received the one talent came forward, saying, `Master, I knew you to be a hard man, reaping where you did not sow, and gathering where you did not winnow;
+    25: so I was afraid, and I went and hid your talent in the ground. Here you have what is yours.'
+    26: But his master answered him, `You wicked and slothful servant! You knew that I reap where I have not sowed, and gather where I have not winnowed?
+    27: Then you ought to have invested my money with the bankers, and at my coming I should have received what was my own with interest.
+    28: So take the talent from him, and give it to him who has the ten talents.
+    29: For to every one who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away.
+    30: And cast the worthless servant into the outer darkness; there men will weep and gnash their teeth.'
+    31: "When the Son of man comes in his glory, and all the angels with him, then he will sit on his glorious throne.
+    32: Before him will be gathered all the nations, and he will separate them one from another as a shepherd separates the sheep from the goats,
+    33: and he will place the sheep at his right hand, but the goats at the left.
+    34: Then the King will say to those at his right hand, `Come, O blessed of my Father, inherit the kingdom prepared for you from the foundation of the world;
+    35: for I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me,
+    36: I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'
+    37: Then the righteous will answer him, `Lord, when did we see thee hungry and feed thee, or thirsty and give thee drink?
+    38: And when did we see thee a stranger and welcome thee, or naked and clothe thee?
+    39: And when did we see thee sick or in prison and visit thee?'
+    40: And the King will answer them, `Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me.'
+    41: Then he will say to those at his left hand, `Depart from me, you cursed, into the eternal fire prepared for the devil and his angels;
+    42: for I was hungry and you gave me no food, I was thirsty and you gave me no drink,
+    43: I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.'
+    44: Then they also will answer, `Lord, when did we see thee hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to thee?'
+    45: Then he will answer them, `Truly, I say to you, as you did it not to one of the least of these, you did it not to me.'
+    46: And they will go away into eternal punishment, but the righteous into eternal life."
+
+  Chapter 26.
+
+    1: When Jesus had finished all these sayings, he said to his disciples,
+    2: "You know that after two days the Passover is coming, and the Son of man will be delivered up to be crucified."
+    3: Then the chief priests and the elders of the people gathered in the palace of the high priest, who was called Ca'iaphas,
+    4: and took counsel together in order to arrest Jesus by stealth and kill him.
+    5: But they said, "Not during the feast, lest there be a tumult among the people."
+    6: Now when Jesus was at Bethany in the house of Simon the leper,
+    7: a woman came up to him with an alabaster flask of very expensive ointment, and she poured it on his head, as he sat at table.
+    8: But when the disciples saw it, they were indignant, saying, "Why this waste?
+    9: For this ointment might have been sold for a large sum, and given to the poor."
+    10: But Jesus, aware of this, said to them, "Why do you trouble the woman? For she has done a beautiful thing to me.
+    11: For you always have the poor with you, but you will not always have me.
+    12: In pouring this ointment on my body she has done it to prepare me for burial.
+    13: Truly, I say to you, wherever this gospel is preached in the whole world, what she has done will be told in memory of her."
+    14: Then one of the twelve, who was called Judas Iscariot, went to the chief priests
+    15: and said, "What will you give me if I deliver him to you?" And they paid him thirty pieces of silver.
+    16: And from that moment he sought an opportunity to betray him.
+    17: Now on the first day of Unleavened Bread the disciples came to Jesus, saying, "Where will you have us prepare for you to eat the passover?"
+    18: He said, "Go into the city to a certain one, and say to him, `The Teacher says, My time is at hand; I will keep the passover at your house with my disciples.'"
+    19: And the disciples did as Jesus had directed them, and they prepared the passover.
+    20: When it was evening, he sat at table with the twelve disciples;
+    21: and as they were eating, he said, "Truly, I say to you, one of you will betray me."
+    22: And they were very sorrowful, and began to say to him one after another, "Is it I, Lord?"
+    23: He answered, "He who has dipped his hand in the dish with me, will betray me.
+    24: The Son of man goes as it is written of him, but woe to that man by whom the Son of man is betrayed! It would have been better for that man if he had not been born."
+    25: Judas, who betrayed him, said, "Is it I, Master?" He said to him, "You have said so."
+    26: Now as they were eating, Jesus took bread, and blessed, and broke it, and gave it to the disciples and said, "Take, eat; this is my body."
+    27: And he took a cup, and when he had given thanks he gave it to them, saying, "Drink of it, all of you;
+    28: for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.
+    29: I tell you I shall not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
+    30: And when they had sung a hymn, they went out to the Mount of Olives.
+    31: Then Jesus said to them, "You will all fall away because of me this night; for it is written, `I will strike the shepherd, and the sheep of the flock will be scattered.'
+    32: But after I am raised up, I will go before you to Galilee."
+    33: Peter declared to him, "Though they all fall away because of you, I will never fall away."
+    34: Jesus said to him, "Truly, I say to you, this very night, before the cock crows, you will deny me three times."
+    35: Peter said to him, "Even if I must die with you, I will not deny you." And so said all the disciples.
+    36: Then Jesus went with them to a place called Gethsem'ane, and he said to his disciples, "Sit here, while I go yonder and pray."
+    37: And taking with him Peter and the two sons of Zeb'edee, he began to be sorrowful and troubled.
+    38: Then he said to them, "My soul is very sorrowful, even to death; remain here, and watch with me."
+    39: And going a little farther he fell on his face and prayed, "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as thou wilt."
+    40: And he came to the disciples and found them sleeping; and he said to Peter, "So, could you not watch with me one hour?
+    41: Watch and pray that you may not enter into temptation; the spirit indeed is willing, but the flesh is weak."
+    42: Again, for the second time, he went away and prayed, "My Father, if this cannot pass unless I drink it, thy will be done."
+    43: And again he came and found them sleeping, for their eyes were heavy.
+    44: So, leaving them again, he went away and prayed for the third time, saying the same words.
+    45: Then he came to the disciples and said to them, "Are you still sleeping and taking your rest? Behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.
+    46: Rise, let us be going; see, my betrayer is at hand."
+    47: While he was still speaking, Judas came, one of the twelve, and with him a great crowd with swords and clubs, from the chief priests and the elders of the people.
+    48: Now the betrayer had given them a sign, saying, "The one I shall kiss is the man; seize him."
+    49: And he came up to Jesus at once and said, "Hail, Master!" And he kissed him.
+    50: Jesus said to him, "Friend, why are you here?" Then they came up and laid hands on Jesus and seized him.
+    51: And behold, one of those who were with Jesus stretched out his hand and drew his sword, and struck the slave of the high priest, and cut off his ear.
+    52: Then Jesus said to him, "Put your sword back into its place; for all who take the sword will perish by the sword.
+    53: Do you think that I cannot appeal to my Father, and he will at once send me more than twelve legions of angels?
+    54: But how then should the scriptures be fulfilled, that it must be so?"
+    55: At that hour Jesus said to the crowds, "Have you come out as against a robber, with swords and clubs to capture me? Day after day I sat in the temple teaching, and you did not seize me.
+    56: But all this has taken place, that the scriptures of the prophets might be fulfilled." Then all the disciples forsook him and fled.
+    57: Then those who had seized Jesus led him to Ca'iaphas the high priest, where the scribes and the elders had gathered.
+    58: But Peter followed him at a distance, as far as the courtyard of the high priest, and going inside he sat with the guards to see the end.
+    59: Now the chief priests and the whole council sought false testimony against Jesus that they might put him to death,
+    60: but they found none, though many false witnesses came forward. At last two came forward
+    61: and said, "This fellow said, `I am able to destroy the temple of God, and to build it in three days.'"
+    62: And the high priest stood up and said, "Have you no answer to make? What is it that these men testify against you?"
+    63: But Jesus was silent. And the high priest said to him, "I adjure you by the living God, tell us if you are the Christ, the Son of God."
+    64: Jesus said to him, "You have said so. But I tell you, hereafter you will see the Son of man seated at the right hand of Power, and coming on the clouds of heaven."
+    65: Then the high priest tore his robes, and said, "He has uttered blasphemy. Why do we still need witnesses? You have now heard his blasphemy.
+    66: What is your judgment?" They answered, "He deserves death."
+    67: Then they spat in his face, and struck him; and some slapped him,
+    68: saying, "Prophesy to us, you Christ! Who is it that struck you?"
+    69: Now Peter was sitting outside in the courtyard. And a maid came up to him, and said, "You also were with Jesus the Galilean."
+    70: But he denied it before them all, saying, "I do not know what you mean."
+    71: And when he went out to the porch, another maid saw him, and she said to the bystanders, "This man was with Jesus of Nazareth."
+    72: And again he denied it with an oath, "I do not know the man."
+    73: After a little while the bystanders came up and said to Peter, "Certainly you are also one of them, for your accent betrays you."
+    74: Then he began to invoke a curse on himself and to swear, "I do not know the man." And immediately the cock crowed.
+    75: And Peter remembered the saying of Jesus, "Before the cock crows, you will deny me three times." And he went out and wept bitterly.
+
+  Chapter 27.
+
+    1: When morning came, all the chief priests and the elders of the people took counsel against Jesus to put him to death;
+    2: and they bound him and led him away and delivered him to Pilate the governor.
+    3: When Judas, his betrayer, saw that he was condemned, he repented and brought back the thirty pieces of silver to the chief priests and the elders,
+    4: saying, "I have sinned in betraying innocent blood." They said, "What is that to us? See to it yourself."
+    5: And throwing down the pieces of silver in the temple, he departed; and he went and hanged himself.
+    6: But the chief priests, taking the pieces of silver, said, "It is not lawful to put them into the treasury, since they are blood money."
+    7: So they took counsel, and bought with them the potter's field, to bury strangers in.
+    8: Therefore that field has been called the Field of Blood to this day.
+    9: Then was fulfilled what had been spoken by the prophet Jeremiah, saying, "And they took the thirty pieces of silver, the price of him on whom a price had been set by some of the sons of Israel,
+    10: and they gave them for the potter's field, as the Lord directed me."
+    11: Now Jesus stood before the governor; and the governor asked him, "Are you the King of the Jews?" Jesus said, "You have said so."
+    12: But when he was accused by the chief priests and elders, he made no answer.
+    13: Then Pilate said to him, "Do you not hear how many things they testify against you?"
+    14: But he gave him no answer, not even to a single charge; so that the governor wondered greatly.
+    15: Now at the feast the governor was accustomed to release for the crowd any one prisoner whom they wanted.
+    16: And they had then a notorious prisoner, called Barab'bas.
+    17: So when they had gathered, Pilate said to them, "Whom do you want me to release for you, Barab'bas or Jesus who is called Christ?"
+    18: For he knew that it was out of envy that they had delivered him up.
+    19: Besides, while he was sitting on the judgment seat, his wife sent word to him, "Have nothing to do with that righteous man, for I have suffered much over him today in a dream."
+    20: Now the chief priests and the elders persuaded the people to ask for Barab'bas and destroy Jesus.
+    21: The governor again said to them, "Which of the two do you want me to release for you?" And they said, "Barab'bas."
+    22: Pilate said to them, "Then what shall I do with Jesus who is called Christ?" They all said, "Let him be crucified."
+    23: And he said, "Why, what evil has he done?" But they shouted all the more, "Let him be crucified."
+    24: So when Pilate saw that he was gaining nothing, but rather that a riot was beginning, he took water and washed his hands before the crowd, saying, "I am innocent of this man's blood; see to it yourselves."
+    25: And all the people answered, "His blood be on us and on our children!"
+    26: Then he released for them Barab'bas, and having scourged Jesus, delivered him to be crucified.
+    27: Then the soldiers of the governor took Jesus into the praetorium, and they gathered the whole battalion before him.
+    28: And they stripped him and put a scarlet robe upon him,
+    29: and plaiting a crown of thorns they put it on his head, and put a reed in his right hand. And kneeling before him they mocked him, saying, "Hail, King of the Jews!"
+    30: And they spat upon him, and took the reed and struck him on the head.
+    31: And when they had mocked him, they stripped him of the robe, and put his own clothes on him, and led him away to crucify him.
+    32: As they went out, they came upon a man of Cyre'ne, Simon by name; this man they compelled to carry his cross.
+    33: And when they came to a place called Gol'gotha (which means the place of a skull),
+    34: they offered him wine to drink, mingled with gall; but when he tasted it, he would not drink it.
+    35: And when they had crucified him, they divided his garments among them by casting lots;
+    36: then they sat down and kept watch over him there.
+    37: And over his head they put the charge against him, which read, "This is Jesus the King of the Jews."
+    38: Then two robbers were crucified with him, one on the right and one on the left.
+    39: And those who passed by derided him, wagging their heads
+    40: and saying, "You who would destroy the temple and build it in three days, save yourself! If you are the Son of God, come down from the cross."
+    41: So also the chief priests, with the scribes and elders, mocked him, saying,
+    42: "He saved others; he cannot save himself. He is the King of Israel; let him come down now from the cross, and we will believe in him.
+    43: He trusts in God; let God deliver him now, if he desires him; for he said, `I am the Son of God.'"
+    44: And the robbers who were crucified with him also reviled him in the same way.
+    45: Now from the sixth hour there was darkness over all the land until the ninth hour.
+    46: And about the ninth hour Jesus cried with a loud voice, "Eli, Eli, la'ma sabach-tha'ni?" that is, "My God, my God, why hast thou forsaken me?"
+    47: And some of the bystanders hearing it said, "This man is calling Eli'jah."
+    48: And one of them at once ran and took a sponge, filled it with vinegar, and put it on a reed, and gave it to him to drink.
+    49: But the others said, "Wait, let us see whether Eli'jah will come to save him."
+    50: And Jesus cried again with a loud voice and yielded up his spirit.
+    51: And behold, the curtain of the temple was torn in two, from top to bottom; and the earth shook, and the rocks were split;
+    52: the tombs also were opened, and many bodies of the saints who had fallen asleep were raised,
+    53: and coming out of the tombs after his resurrection they went into the holy city and appeared to many.
+    54: When the centurion and those who were with him, keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe, and said, "Truly this was the Son of God!"
+    55: There were also many women there, looking on from afar, who had followed Jesus from Galilee, ministering to him;
+    56: among whom were Mary Mag'dalene, and Mary the mother of James and Joseph, and the mother of the sons of Zeb'edee.
+    57: When it was evening, there came a rich man from Arimathe'a, named Joseph, who also was a disciple of Jesus.
+    58: He went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him.
+    59: And Joseph took the body, and wrapped it in a clean linen shroud,
+    60: and laid it in his own new tomb, which he had hewn in the rock; and he rolled a great stone to the door of the tomb, and departed.
+    61: Mary Mag'dalene and the other Mary were there, sitting opposite the sepulchre.
+    62: Next day, that is, after the day of Preparation, the chief priests and the Pharisees gathered before Pilate
+    63: and said, "Sir, we remember how that impostor said, while he was still alive, `After three days I will rise again.'
+    64: Therefore order the sepulchre to be made secure until the third day, lest his disciples go and steal him away, and tell the people, `He has risen from the dead,' and the last fraud will be worse than the first."
+    65: Pilate said to them, "You have a guard of soldiers; go, make it as secure as you can."
+    66: So they went and made the sepulchre secure by sealing the stone and setting a guard.
+
+  Chapter 28.
+
+    1: Now after the sabbath, toward the dawn of the first day of the week, Mary Mag'dalene and the other Mary went to see the sepulchre.
+    2: And behold, there was a great earthquake; for an angel of the Lord descended from heaven and came and rolled back the stone, and sat upon it.
+    3: His appearance was like lightning, and his raiment white as snow.
+    4: And for fear of him the guards trembled and became like dead men.
+    5: But the angel said to the women, "Do not be afraid; for I know that you seek Jesus who was crucified.
+    6: He is not here; for he has risen, as he said. Come, see the place where he lay.
+    7: Then go quickly and tell his disciples that he has risen from the dead, and behold, he is going before you to Galilee; there you will see him. Lo, I have told you."
+    8: So they departed quickly from the tomb with fear and great joy, and ran to tell his disciples.
+    9: And behold, Jesus met them and said, "Hail!" And they came up and took hold of his feet and worshiped him.
+    10: Then Jesus said to them, "Do not be afraid; go and tell my brethren to go to Galilee, and there they will see me."
+    11: While they were going, behold, some of the guard went into the city and told the chief priests all that had taken place.
+    12: And when they had assembled with the elders and taken counsel, they gave a sum of money to the soldiers
+    13: and said, "Tell people, `His disciples came by night and stole him away while we were asleep.'
+    14: And if this comes to the governor's ears, we will satisfy him and keep you out of trouble."
+    15: So they took the money and did as they were directed; and this story has been spread among the Jews to this day.
+    16: Now the eleven disciples went to Galilee, to the mountain to which Jesus had directed them.
+    17: And when they saw him they worshiped him; but some doubted.
+    18: And Jesus came and said to them, "All authority in heaven and on earth has been given to me.
+    19: Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+    20: teaching them to observe all that I have commanded you; and lo, I am with you always, to the close of the age."
+
+End of day 290.
